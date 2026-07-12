@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T11:39:49+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 1,
+    "neutral": 2
+  },
+  "insights": [
+    {
+      "headline": "Strait of Hormuz officially closed until further notice, Iranian Regime announces.",
+      "source": "Reddit (r/IndianStockMarket) / Jerusalem Post",
+      "url": "https://www.reddit.com/r/IndianStockMarket/comments/1utziz6/strait_of_hormuz_officially_closed_until_further/",
+      "affected_assets": [
+        "Crude Oil",
+        "Nifty 50",
+        "BPCL",
+        "HPCL",
+        "IOC"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.9,
+      "reasoning": "The closure of the Strait of Hormuz is a severe geopolitical shock that threatens global oil supply, as a significant portion of the world's petroleum passes through it. This will likely trigger a sharp spike in crude oil prices, negatively impacting oil-importing nations like India and bearishly affecting Indian equities due to inflation concerns.",
+      "action": "risk_alert",
+      "category": "geopolitical"
+    },
+    {
+      "headline": "FPIs reverse 4-month selling trend with Rs 15,157 cr inflow in Jul",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-reverse-4-month-selling-trend-with-rs-15157-cr-inflow-in-jul/articleshow/132341210.cms",
+      "affected_assets": [
+        "Nifty 50",
+        "Sensex",
+        "Indian Equities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Foreign Portfolio Investors (FPIs) turning net buyers after four months of selling indicates a strong revival in global risk appetite and confidence in India's macroeconomic fundamentals. This sustained liquidity inflow is highly supportive of domestic equity valuations and provides a strong cushion against global volatility.",
+      "action": "buy_opportunity",
+      "category": "macro"
+    },
+    {
+      "headline": "HDFC Bank, HCL Tech among 143 companies to announce earnings this week",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-hcl-tech-among-143-companies-to-announce-earnings-this-week/articleshow/132340559.cms",
+      "affected_assets": [
+        "HDFC Bank",
+        "Reliance Industries",
+        "HCL Technologies",
+        "Nifty 50"
+      ],
+      "asset_type": "stock",
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "reasoning": "The Q1 earnings season is accelerating with heavyweights like HDFC Bank and Reliance Industries scheduled to report, which will dictate the near-term direction of the benchmark indices. Investors are closely watching for margin trajectories and management commentary on credit growth and consumer demand.",
+      "action": "watch",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "SBI MF among 6 IPOs on investors' radar this week. GMPs indicate listing gains up to 118%",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-mf-among-6-ipos-on-investors-radar-this-week-gmps-indicate-listing-gains-up-to-118/slideshow/132341236.cms",
+      "affected_assets": [
+        "State Bank of India",
+        "SBI Mutual Fund",
+        "Indian IPO Market"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Strong grey market premiums (GMP) for upcoming IPOs, including the highly anticipated SBI Mutual Fund listing, signal robust retail and institutional liquidity in the primary market. This high demand reflects strong investor confidence in the Indian financial sector and broader economy.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Bitcoin holds near $64,100, eyeing a breakout above $65,581 ahead of July 14 US inflation data.",
+      "source": "Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGZyZnVOWXBxT09LM0xCWFlsYTg5czNQRTdDMXdPZzlhQU15WmlTMDRXV2ticHpZWFdZcHllZXJtYXNINm53RmFXLU1PSHU1SzhGdkRBT2pUdkdsRzJEN3hyU3RwQVllU3h1U3BIME1WQVFZQ1hSVEU0VHp0YzNoWGlHRGE4Zkt0Y0J6aHZ1ay1jZEtXMlVWVg?oc=5",
+      "affected_assets": [
+        "Bitcoin",
+        "Cryptocurrencies",
+        "US Dollar Index"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "reasoning": "Global risk assets, including Bitcoin, are consolidating ahead of the crucial US inflation data release, which will influence the Federal Reserve's interest rate path. A lower-than-expected inflation print could trigger a breakout in risk assets, while a hot print would delay rate cut expectations.",
+      "action": "watch",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
