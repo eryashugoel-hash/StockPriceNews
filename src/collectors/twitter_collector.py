@@ -88,7 +88,14 @@ class TwitterCollector(BaseCollector):
         for instance in NITTER_INSTANCES:
             url = f"https://{instance}/{username}/rss"
             try:
-                feed: Any = feedparser.parse(url)
+                import socket
+                old_timeout = socket.getdefaulttimeout()
+                socket.setdefaulttimeout(5.0)
+                try:
+                    feed: Any = feedparser.parse(url)
+                finally:
+                    socket.setdefaulttimeout(old_timeout)
+                    
                 if feed.bozo and not feed.entries:
                     logger.debug(
                         "[%s] Instance %s bozo for @%s: %s",
