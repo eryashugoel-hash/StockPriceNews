@@ -1,45 +1,57 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T11:39:49+05:30",
+  "generated_at": "2026-07-12T10:36:40+05:30",
   "market_pulse": {
     "bullish": 2,
-    "bearish": 1,
-    "neutral": 2
+    "bearish": 2,
+    "neutral": 1
   },
   "insights": [
     {
       "headline": "Strait of Hormuz officially closed until further notice, Iranian Regime announces.",
-      "source": "Reddit (r/IndianStockMarket) / Jerusalem Post",
+      "source": "Reddit (r/IndianStockMarket)",
       "url": "https://www.reddit.com/r/IndianStockMarket/comments/1utziz6/strait_of_hormuz_officially_closed_until_further/",
       "affected_assets": [
         "Crude Oil",
-        "Nifty 50",
+        "Brent Crude",
         "BPCL",
-        "HPCL",
-        "IOC"
+        "IOCL"
       ],
       "asset_type": "commodity",
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "confidence": 0.9,
-      "reasoning": "The closure of the Strait of Hormuz is a severe geopolitical shock that threatens global oil supply, as a significant portion of the world's petroleum passes through it. This will likely trigger a sharp spike in crude oil prices, negatively impacting oil-importing nations like India and bearishly affecting Indian equities due to inflation concerns.",
+      "reasoning": "The closure of the Strait of Hormuz, a vital maritime transit route for global oil, is highly likely to trigger a sharp spike in crude oil prices due to supply disruption fears. This will negatively impact oil-importing nations like India while boosting global energy commodities.",
       "action": "risk_alert",
       "category": "geopolitical"
     },
     {
-      "headline": "FPIs reverse 4-month selling trend with Rs 15,157 cr inflow in Jul",
+      "headline": "Nearly 60% of foreign inflows into India-focused funds withdrawn since 2024 peak: Report",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-reverse-4-month-selling-trend-with-rs-15157-cr-inflow-in-jul/articleshow/132341210.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nearly-60-of-foreign-inflows-into-india-focused-funds-withdrawn-since-2024-peak-report/articleshow/132328818.cms",
       "affected_assets": [
         "Nifty 50",
-        "Sensex",
-        "Indian Equities"
+        "Sensex"
       ],
       "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "The withdrawal of nearly 60% of foreign inflows from India-focused funds highlights a significant shift in global capital toward AI-driven markets and other momentum regions. This reduction in FII liquidity could cap near-term upside for Indian benchmark indices.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "DMart Q1 results: Cons PAT up 11% to Rs 860 crore, revenue rises to Rs 18,795 crore",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q1-results-cons-pat-up-11-to-rs-860-crore-revenue-rises-to-rs-18795-crore/articleshow/132324295.cms",
+      "affected_assets": [
+        "Avenue Supermarts"
+      ],
+      "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Foreign Portfolio Investors (FPIs) turning net buyers after four months of selling indicates a strong revival in global risk appetite and confidence in India's macroeconomic fundamentals. This sustained liquidity inflow is highly supportive of domestic equity valuations and provides a strong cushion against global volatility.",
-      "action": "buy_opportunity",
-      "category": "macro"
+      "reasoning": "Avenue Supermarts (DMart) reported steady Q1 performance with an 11.3% YoY increase in consolidated net profit and a 14.9% rise in revenue. While the growth is stable, the market will closely monitor how the company manages margin pressures from quick-commerce competitors.",
+      "action": "watch",
+      "category": "stock_specific"
     },
     {
       "headline": "HDFC Bank, HCL Tech among 143 companies to announce earnings this week",
@@ -48,47 +60,29 @@
       "affected_assets": [
         "HDFC Bank",
         "Reliance Industries",
-        "HCL Technologies",
-        "Nifty 50"
+        "HCL Technologies"
       ],
       "asset_type": "stock",
       "sentiment": "neutral",
-      "confidence": 0.8,
-      "reasoning": "The Q1 earnings season is accelerating with heavyweights like HDFC Bank and Reliance Industries scheduled to report, which will dictate the near-term direction of the benchmark indices. Investors are closely watching for margin trajectories and management commentary on credit growth and consumer demand.",
+      "confidence": 0.85,
+      "reasoning": "With heavyweights like HDFC Bank, Reliance, and HCL Tech reporting Q1 earnings, market volatility is expected to rise. The aggregate earnings growth is projected at 10%, and individual stock reactions will heavily influence the direction of the Nifty 50.",
       "action": "watch",
       "category": "stock_specific"
     },
     {
-      "headline": "SBI MF among 6 IPOs on investors' radar this week. GMPs indicate listing gains up to 118%",
+      "headline": "DMart recasts strategy as rapid delivery competition intensifies",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-mf-among-6-ipos-on-investors-radar-this-week-gmps-indicate-listing-gains-up-to-118/slideshow/132341236.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dmart-recasts-strategy-as-rapid-delivery-competition-intensifies/articleshow/132340693.cms",
       "affected_assets": [
-        "State Bank of India",
-        "SBI Mutual Fund",
-        "Indian IPO Market"
+        "Avenue Supermarts",
+        "Zomato"
       ],
       "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "reasoning": "Strong grey market premiums (GMP) for upcoming IPOs, including the highly anticipated SBI Mutual Fund listing, signal robust retail and institutional liquidity in the primary market. This high demand reflects strong investor confidence in the Indian financial sector and broader economy.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Bitcoin holds near $64,100, eyeing a breakout above $65,581 ahead of July 14 US inflation data.",
-      "source": "Pluang",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGZyZnVOWXBxT09LM0xCWFlsYTg5czNQRTdDMXdPZzlhQU15WmlTMDRXV2ticHpZWFdZcHllZXJtYXNINm53RmFXLU1PSHU1SzhGdkRBT2pUdkdsRzJEN3hyU3RwQVllU3h1U3BIME1WQVFZQ1hSVEU0VHp0YzNoWGlHRGE4Zkt0Y0J6aHZ1ay1jZEtXMlVWVg?oc=5",
-      "affected_assets": [
-        "Bitcoin",
-        "Cryptocurrencies",
-        "US Dollar Index"
-      ],
-      "asset_type": "macro",
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "confidence": 0.75,
-      "reasoning": "Global risk assets, including Bitcoin, are consolidating ahead of the crucial US inflation data release, which will influence the Federal Reserve's interest rate path. A lower-than-expected inflation print could trigger a breakout in risk assets, while a hot print would delay rate cut expectations.",
+      "reasoning": "DMart's decision to scale back its e-commerce footprint in underperforming cities highlights the intense pressure traditional brick-and-mortar retailers face from rapid delivery platforms. This strategic retreat could signal slower near-term digital growth, favoring quick-commerce players like Zomato's Blinkit.",
       "action": "watch",
-      "category": "macro"
+      "category": "stock_specific"
     }
   ],
   "tweets": [],
