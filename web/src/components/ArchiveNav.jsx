@@ -39,7 +39,7 @@ const ArchiveNav = ({ selectedDate, setSelectedDate }) => {
           Latest
         </button>
         
-        {archiveDates.map(dateStr => (
+        {archiveDates.slice(0, 5).map(dateStr => (
           <button 
             key={dateStr}
             className={`archive-pill ${selectedDate === dateStr ? 'active' : ''}`}
