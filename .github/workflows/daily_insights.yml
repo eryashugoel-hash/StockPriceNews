@@ -2,8 +2,8 @@ name: Daily Market Intelligence
 
 on:
   schedule:
-    # 3:00 AM UTC = 8:30 AM IST (UTC+5:30)
-    - cron: '0 3 * * *'
+    # 1:00 AM UTC = 6:30 AM IST (UTC+5:30) - Scheduled early to buffer against GitHub Action queue delays
+    - cron: '0 1 * * *'
   workflow_dispatch: # Manual trigger for testing
 
 permissions:
