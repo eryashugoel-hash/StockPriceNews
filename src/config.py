@@ -79,7 +79,19 @@ FINANCIAL_RSS_FEEDS: Final[dict[str, str]] = {
 # Gemini AI settings
 # ---------------------------------------------------------------------------
 GEMINI_MODEL: Final[str] = "gemini-flash-latest"
-
+GEMINI_FALLBACK_MODELS: Final[list[str]] = [
+"gemini-3.8-flash",
+"gemini-3.7-flash",
+"gemini-3.6-flash",
+"gemini-3.5-flash-lite",
+"gemini-3.5-flash",
+"gemini-3.1-flash-lite",
+"gemini-2.5-flash-lite",
+"gemini-2.5-flash",
+"gemini-2.0-flash-lite",
+"gemini-2.0-flash",
+"gemini-1.5-flash"
+]
 # ---------------------------------------------------------------------------
 # Pipeline tunables
 # ---------------------------------------------------------------------------

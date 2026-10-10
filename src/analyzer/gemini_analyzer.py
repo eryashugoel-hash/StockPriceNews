@@ -1,11 +1,15 @@
 """
 Gemini-powered market intelligence analyzer.
 
-Two-pass approach:
-  1. **Triage** — send all collected news + tweets to Gemini and ask it to
-     pick the top 4-5 most market-moving items.
-  2. **Deep analysis** — for each selected item, generate a structured
-     insight with sentiment, confidence, affected assets, and reasoning.
+Single-call approach: send all collected news + tweets to Gemini and ask it
+to pick the top N most market-moving items, returning a structured insight
+for each (sentiment, confidence, affected assets, reasoning).
+
+Resilience:
+  * Retries transient errors (429 / 500 / 503 / 504, timeouts, bad JSON)
+    with exponential back-off.
+  * Falls back through ``GEMINI_FALLBACK_MODELS`` if the primary model is
+    overloaded.
 
 The output conforms to the JSON schema consumed by the frontend.
 """
@@ -15,16 +19,29 @@ from __future__ import annotations
 import json
 import logging
 import textwrap
+import time
 from typing import Any
 
+import httpx
 from google import genai  # type: ignore[import-untyped]
+from google.genai import errors as genai_errors  # type: ignore[import-untyped]
 from google.genai import types  # type: ignore[import-untyped]
 
+from src import config
 from src.collectors.base_collector import NewsItem
 from src.config import GEMINI_API_KEY, GEMINI_MODEL, MAX_INSIGHTS
-from src.utils.helpers import format_ist_datetime, get_ist_now, retry_with_backoff
+from src.utils.helpers import format_ist_datetime, get_ist_now
 
 logger = logging.getLogger(__name__)
+
+# Optional fallback models (define GEMINI_FALLBACK_MODELS in config.py)
+_FALLBACK_MODELS: list[str] = list(getattr(config, "GEMINI_FALLBACK_MODELS", []))
+
+# Retry tunables
+_ATTEMPTS_PER_MODEL = 3
+_BASE_DELAY_SECONDS = 5.0
+_RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
+_REQUEST_TIMEOUT_MS = 90_000
 
 # ---------------------------------------------------------------------------
 # System prompts
@@ -162,15 +179,12 @@ class GeminiAnalyzer:
                 "GEMINI_API_KEY environment variable is not set. "
                 "Please set it before running the analyzer."
             )
-        import httpx
-        original_init = httpx.Client.__init__
-        def custom_init(self, *args, **kwargs):
-            kwargs['verify'] = False
-            original_init(self, *args, **kwargs)
-        httpx.Client.__init__ = custom_init
-        
         self._client = genai.Client(api_key=GEMINI_API_KEY)
-        logger.info("GeminiAnalyzer initialised (model=%s)", GEMINI_MODEL)
+        logger.info(
+            "GeminiAnalyzer initialised (model=%s, fallbacks=%s)",
+            GEMINI_MODEL,
+            _FALLBACK_MODELS or "none",
+        )
 
     # ------------------------------------------------------------------
     # Public API
@@ -180,7 +194,7 @@ class GeminiAnalyzer:
         news_items: list[NewsItem],
         tweets: list[NewsItem],
     ) -> dict[str, Any]:
-        """Run the two-pass analysis and return the structured result."""
+        """Run the analysis and return the structured result."""
         logger.info(
             "Starting analysis: %d news items, %d tweets",
             len(news_items),
@@ -209,46 +223,108 @@ class GeminiAnalyzer:
         return raw
 
     # ------------------------------------------------------------------
-    # Gemini call (with retry)
+    # Gemini call (retry + model fallback)
     # ------------------------------------------------------------------
-    @retry_with_backoff(max_retries=3, base_delay=2.0)
     def _call_gemini(
         self,
         news_items: list[NewsItem],
         tweets: list[NewsItem],
     ) -> dict[str, Any]:
-        """Build the prompt and call Gemini, returning parsed JSON."""
-        news_block = self._format_news_block(news_items)
-        tweet_block = self._format_tweet_block(tweets)
+        """Build the prompt and call Gemini, returning parsed JSON.
 
+        For each model in ``[GEMINI_MODEL, *fallbacks]`` retry transient
+        failures with exponential back-off before moving to the next model.
+        """
         user_prompt = _TRIAGE_USER_PROMPT.format(
             max_insights=MAX_INSIGHTS,
-            news_block=news_block,
-            tweet_block=tweet_block,
+            news_block=self._format_news_block(news_items),
+            tweet_block=self._format_tweet_block(tweets),
         )
 
-        response = self._client.models.generate_content(
-            model=GEMINI_MODEL,
-            contents=user_prompt,
-            config=types.GenerateContentConfig(
-                system_instruction=_SYSTEM_PROMPT,
-                response_mime_type="application/json",
-                response_schema=_RESPONSE_SCHEMA,
-                temperature=0.3,
-                max_output_tokens=4096,
-            ),
+        last_exc: Exception | None = None
+
+        for model in [GEMINI_MODEL, *_FALLBACK_MODELS]:
+            gen_config = self._build_config(model)
+
+            for attempt in range(1, _ATTEMPTS_PER_MODEL + 1):
+                try:
+                    response = self._client.models.generate_content(
+                        model=model,
+                        contents=user_prompt,
+                        config=gen_config,
+                    )
+                    text = response.text
+                    if not text:
+                        raise ValueError("Gemini returned empty response")
+
+                    parsed = json.loads(text)
+                    logger.info("Gemini call succeeded with model=%s", model)
+                    return parsed  # type: ignore[no-any-return]
+
+                except genai_errors.APIError as exc:
+                    last_exc = exc
+                    if exc.code not in _RETRYABLE_STATUS_CODES:
+                        # Bad request / auth / not-found: retrying won't help
+                        # for this model. If it's a model-specific problem
+                        # (e.g. 404 unknown model) try the next one.
+                        logger.error(
+                            "Model %s returned non-retryable error %s: %s",
+                            model,
+                            exc.code,
+                            exc,
+                        )
+                        break
+                    self._sleep_before_retry(model, attempt, exc.code)
+
+                except (httpx.TimeoutException, httpx.TransportError) as exc:
+                    last_exc = exc
+                    self._sleep_before_retry(model, attempt, type(exc).__name__)
+
+                except (json.JSONDecodeError, ValueError) as exc:
+                    # Empty / truncated / malformed output — worth a retry
+                    last_exc = exc
+                    logger.warning(
+                        "Model %s returned unusable output (%s)", model, exc
+                    )
+                    self._sleep_before_retry(model, attempt, "bad output")
+
+            logger.warning("Model %s exhausted — trying next fallback", model)
+
+        logger.error("All Gemini models failed")
+        assert last_exc is not None
+        raise last_exc
+
+    @staticmethod
+    def _build_config(model: str) -> types.GenerateContentConfig:
+        """Per-model generation config."""
+        kwargs: dict[str, Any] = {
+            "system_instruction": _SYSTEM_PROMPT,
+            "response_mime_type": "application/json",
+            "response_schema": _RESPONSE_SCHEMA,
+            "temperature": 0.3,
+            "max_output_tokens": 8192,  # 4096 can truncate the JSON
+            "http_options": types.HttpOptions(timeout=_REQUEST_TIMEOUT_MS),
+        }
+        # Thinking tokens count against max_output_tokens. Disable them on
+        # 2.5 Flash-family models (2.5 Pro can't disable thinking; 2.0 has none).
+        if "2.5" in model and "pro" not in model:
+            kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
+        return types.GenerateContentConfig(**kwargs)
+
+    @staticmethod
+    def _sleep_before_retry(model: str, attempt: int, reason: Any) -> None:
+        if attempt >= _ATTEMPTS_PER_MODEL:
+            return  # no point sleeping — we're moving on
+        delay = _BASE_DELAY_SECONDS * (2 ** (attempt - 1))  # 5s, 10s
+        logger.warning(
+            "%s attempt %d/%d failed (%s). Retrying in %.0fs …",
+            model,
+            attempt,
+            _ATTEMPTS_PER_MODEL,
+            reason,
+            delay,
         )
-
-        text = response.text
-        if not text:
-            raise ValueError("Gemini returned empty response")
-
-        try:
-            return json.loads(text)  # type: ignore[no-any-return]
-        except json.JSONDecodeError as exc:
-            logger.error("Failed to parse Gemini JSON: %s", exc)
-            logger.debug("Raw response text:\n%s", text[:2000])
-            raise
+        time.sleep(delay)
 
     # ------------------------------------------------------------------
     # Helpers
