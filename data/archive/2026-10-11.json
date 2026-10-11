@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T12:23:01+05:30",
+  "market_pulse": {
+    "bullish": 1,
+    "bearish": 2,
+    "neutral": 2
+  },
+  "insights": [
+    {
+      "headline": "RBI to sell $2.6 billion of bonds, tighten bank reserve need to squeeze cash",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-to-sell-2-6-bln-of-bonds-tighten-bank-reserve-need-to-squeeze-cash/articleshow/134850313.cms",
+      "affected_assets": [
+        "Bank Nifty",
+        "State Bank of India",
+        "HDFC Bank",
+        "ICICI Bank",
+        "Government Securities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "The Reserve Bank of India moves to actively drain systemic liquidity through substantial bond sales and tighter cash reserve requirements. This will push up short-term money market rates and raise funding costs for commercial banks, squeezing net interest margins. Restricted surplus cash may also dampen institutional buying power in broader equities.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "DMart Q2 Results: Cons profit rises nearly 9% YoY to Rs 743 crore, revenue jumps 18%",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q2-results-cons-profit-rises-nearly-9-yoy-to-rs-743-crore-revenue-jumps-18/articleshow/134851993.cms",
+      "affected_assets": [
+        "Avenue Supermarts (DMart)"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Avenue Supermarts demonstrated robust top-line revenue expansion of nearly 18% YoY, confirming solid consumer footfall and footprint scaling. While net profit growth at 8.5% shows slight margin compression from quick-commerce competition, core operational momentum remains intact. The fundamental demand narrative stays supportive for sustained store-level productivity.",
+      "action": "watch",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "RBI may raise repo rate by 75-100 bps in current cycle: Report - The Economic Times",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWU3NXdnZW9QRjBZMEJLT3JSSG0yOUZSR0ZHQzZETk80N3JZRDhjbV9fWWxYS0V3OUZBNHJJME9GclpINHlVT2dTTjNBbUN2eDIwWFlBR0tzUThNZVR5c0FHZTlwdWx2Y0hvRV9zeVlIM1NPVXVpTTNNNUZ2TGpyd2dwc3RBT3lrcFE1eWpUc21ReUcyMHVxd3ktck9aZzRDZURBTXZUbVNPU1Zua0JKWnVBLV9GT094TWtnNnlHYUppbVJ2dHFGZGJtemFOdzJf0gHWAUFVX3lxTFBJVS1uZzZzSGNmZjhRSllsUzdzWERqaTFZbDNPTGdPdFNsRTJzX28xcTZ4SDZmamFPd3NCSC1TVEpHUU90d0ZZOGdrT2FabEtxaGhSa25YeE9xWWQ1OE9Da2cwSFhWUmR6WUN1dmVvVE5VU0hIT2JBemxXcnlYbTNPSGNQZ0ZZaHJiNzJsc0VRMzdsRzNLU09KSE5DT1VrUV9BQkI4aVdWQzR5V0lfeDBBV2M1SURrUEUyT3RxUzRjQ1MwTElFYzVPbkNqSGRGUHQyR0ZDM2c?oc=5",
+      "affected_assets": [
+        "Nifty 50",
+        "Bank Nifty",
+        "Real Estate Stocks",
+        "Auto Stocks"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Projected rate hikes of 75 to 100 basis points signal prolonged monetary tightening to counter sticky inflationary pressures. Higher interest rates elevate borrowing costs for corporate capital expenditure and curb consumer credit in rate-sensitive sectors such as real estate and automobiles. This anticipated hawkish posture poses downside valuation risks across high-beta equities.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Sebi’s CAS guidelines likely within a week, says chief Tuhin Kanta Pandey",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebis-cas-guidelines-likely-within-a-week-says-chief-tuhin-kanta-pandey/articleshow/134855486.cms",
+      "affected_assets": [
+        "BSE Ltd",
+        "Angel One",
+        "Nifty 50 Index Derivatives",
+        "Broking Stocks"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "reasoning": "The impending regulatory framework for closing auction sessions aims to mitigate erratic expiry-day volatility and establish fair settlement prices. While structural changes may temporarily reduce speculative retail turnover on expiry sessions, institutional integrity and transparency will improve over the medium term. The operational impact is regulatory and volume-neutral until final implementation details emerge.",
+      "action": "watch",
+      "category": "policy"
+    },
+    {
+      "headline": "Bonus, dividends, rights issues and stock splits: TCS, Vedanta, Ola Electric among 14 stocks turning ex-re - The Economic Times",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNalB1UG1pWXJEaGpDLVFRZkVyUWNqZDJDaE05ZFpteWFTdW1MRFpwa1MyWGQwa2Vsc3JXYk1SWGhMX3lmZHU5UUJFWDRWR2xCQjJUWmE1cUJDSWJNRnZtTlBXSVN5cmxlSUtEbmQxU1pIeVZlZmRBNllGNmY3TWJfSXF5RnlMRm5CMFBDUGZpWGxObDRyYkk4MFV5M1YxMV9KZzhqOGhkQ2NYWlNUbFdGY0k4OFgwWjFhZGtwTU96a2hWRFg1a1IwLS1lXzdDME1rNlNyNzJxMERiczdURVlZRG5OMThNT0VJajJNekNLckxtQ2xQZUVoSHBMUHJucy1YdmEwbWo2Vmo5cUpYd3FnWlUwRGI0SjZZR2RUWWdTY9IBpAJBVV95cUxPQVBSR3F3alNQMU5JSlMxOHZFNTZfcXhwYkpLVUU3cWZNSkpHa01VOFE1eDNIQlphalFNVFY0S3hpX25XbGJQU3JYZWdBNFhGdERfLUx5ZFltbk9SOWJzTXRHRy1sYWhwZ252ZTRyVDRLaE8tR3RwZU1scG42ZTdhTHFfMzVqMGFPR3lTdEVkLWpVRWF4UWhsOXpaZExia3pvTjd1MTl6T25wV2FuRXFSTGxaeTdlRDB4X2ViMW5ueTl0QzBmQl9Pc2dzZ1A2em93SlNqVWRBYlVfODVseFY2UVRmWHkwRTNZVnhJQk5nZUVGMzVtdHdBZ1g2ZzJuNXl0S2VEZzc1MmphV2Rad3ZjRzE5QV9GSjFyTVdvOGFvNFptWXUz?oc=5",
+      "affected_assets": [
+        "Tata Consultancy Services (TCS)",
+        "Vedanta",
+        "Ola Electric"
+      ],
+      "asset_type": "stock",
+      "sentiment": "neutral",
+      "confidence": 0.85,
+      "reasoning": "Corporate action execution will lead to mechanical share price adjustments to reflect dividend payouts and split benefits. Fundamentals for mature cash-generative firms such as TCS remain supported by steady capital allocation policies. Price variations around the ex-date are administrative re-pricings rather than shifts in corporate earnings quality.",
+      "action": "watch",
+      "category": "stock_specific"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
