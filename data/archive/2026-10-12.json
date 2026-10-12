@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T12:36:28+05:30",
+  "market_pulse": {
+    "bullish": 3,
+    "bearish": 2,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "TCS shares after 6% rally in 2 sessions after Q2 results. What are technical’s indicating for the IT major?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-after-6-rally-in-2-sessions-after-q2-results-what-are-technicals-indicating-for-the-it-major/articleshow/134884849.cms",
+      "affected_assets": [
+        "TCS",
+        "Nifty IT"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "TCS posted a strong 15% year-on-year increase in quarterly net profit and rewarded shareholders with a healthy interim dividend. This financial strength reaffirms operational stability and signals resilient enterprise IT spending despite broader macroeconomic headwinds.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "India 10-year bond yield tops 7.35% as RBI's liquidity clamp down hurts",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-tops-7-35-as-rbis-liquidity-clamp-down-hurts/articleshow/134883445.cms",
+      "affected_assets": [
+        "Indian Sovereign Bonds",
+        "Banking Sector",
+        "Nifty Bank"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Persistent liquidity absorption measures by the Reserve Bank of India have pushed benchmark 10-year bond yields to multi-year highs. This increases institutional borrowing costs and creates substantial treasury mark-to-market valuation drag for Indian commercial lenders.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "HDFC Bank faces class action lawsuit; stock pre-market at EUR 19.90",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckZrak1ZYUVjS1gxQ09raG8wZjhhQndEWFduLUs4SEJFelJQMHpLQ2xoeE1BRWRRZ0NKMjRMajVyWFpUbi1DRE1taVVZaVNwXzM4TnhKcXMwWkVaay1hMEFDclFFTkhrOGpWX0dIeWRGNjZjaUE4b1d4cHdZZ193a1V4d3o2WW8zUTAzR1RBTzNqeU5SbkhFa3Z5clVJNVkxLThqdDlGdlY4SlhHd2tpMXktZU9RNXFmUjd2ZEF2RkRDQQ?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "Nifty 50"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "The initiation of a class action suit introduces reputational and regulatory headwinds ahead of key quarterly results. Combined with heavy pre-earnings selling volume, this uncertainty is likely to constrain foreign institutional interest in the heavyweight banking component.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold Rises as Oil and Dollar Fall, Inflation Data in Focus...",
+      "source": "Jordan News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGJzZ1gzYmdxbDI5YklpQ0VRNnZFYjRFUGREM3BuV0RqenY4UjZ5aGppdnJJdXNmMTdSNXVsZW5URlFzeHFWdlZiOG1UU0tUNEFRbGRtTXpCLU84VzgxTzhybGhmRGtYM1d2a3Vsa1lNbnBpUENsSHJnYWZ5alpSR1RKalhqVFRMRDQwTmtWdnRCZWRleGpwNVYzZG51WElRdTVYUzVnWXptSGVJbmc?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Crude Oil",
+        "USD/INR"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Bullion is seeing fresh demand driven by softer US dollar strength and declining crude oil prices ahead of crucial inflation prints. Lower global energy costs additionally benefit net-importing economies like India by helping tame domestic imported inflation pressures.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Swan Defence shares rise 4% to hit 52-week high on Rs 1,897 crore tanker order prospect",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/swan-defence-shares-rise-4-to-hit-52-week-high-on-rs-1897-crore-tanker-order-prospect/articleshow/134884458.cms",
+      "affected_assets": [
+        "Swan Defence and Heavy Industries"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Securing lowest bidder status on a major defense vessel contract provides strong multi-year revenue visibility. This order inflow significantly elevates fundamental order book execution capacity within the domestic defense manufacturing landscape.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
