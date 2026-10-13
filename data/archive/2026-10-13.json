@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T12:56:01+05:30",
+  "market_pulse": {
+    "bullish": 3,
+    "bearish": 1,
+    "neutral": 1
+  },
+  "insights": [
+    {
+      "headline": "HCLTech jumps over 5%, TCS up 4%: Why are IT stocks rallying - The Times of India",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ3VYdUFVeGdwZXNZY2d4WFQ0ZWpKWEJ4MVlJNjk1a2lJRUVSZFQwUVZDVk1YbTZFc2tpQkdMOTA0S2JCbFJXZkpzQVlxelQzMTB0SVp0Z0xmTXBhbkF5NWpHRkRXM2RiTmxLRDBUaXV5ZElBTU84VnM2VzJSYnRpS0ZlNl94b0ZGenNLQ195ZUZmUjNUaHZDR3RuU0ZOQzQ1RnZENWQ2V0ZXODI4cjdsdG1xdnVIUGhBd19JVXpBandDTEZrU3Y3Yjh6elZGaUJTRFpENk5zWUpEQdIB3wFBVV95cUxNRFJxMWRqTGdZLXQ2YURUZUpGRkVjUkFoY0lJWWxIdHlWSDVjS2kteTBodVpQdmd2OV92RWZTQnZWelU1RFVwVjlOZ3BQMW1nY1QwS2xHYlJtdlJvRGJPbHVYenNEaTZTLS0zaDM0N3ZaUFZMQ3RobTJGczJtTE5Namp4aEpvQmFPN2dwdmg0S3dZTkZYVldKLVZ1ZVNyY2ZOWUtKTllmTXV1aEd2VVlMYmE1RmM4NjBUZU0zYm96MUNOa1dCbXlORGpwZGZ6Mm94eFRwQWdzbjNPU3ppZUJz?oc=5",
+      "affected_assets": [
+        "TCS",
+        "HCLTech",
+        "Nifty IT"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Large-cap Indian IT majors are experiencing robust buying momentum driven by earnings optimism and strong deal pipelines. Rebounding operational margins and valuation catch-up are strengthening investor demand across top tier software exporters. The fundamental outlook points to continued accumulation on steady global technology discretionary spend recovery.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Rupee jumps 177 paise in 2 days against dollar after RBI's strong defence before Rs 97 goal post. What lies ahead?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-177-paise-in-2-days-against-dollar-after-rbis-strong-defence-before-rs-97-goal-post-what-lies-ahead/articleshow/134910145.cms",
+      "affected_assets": [
+        "USD/INR",
+        "Nifty 50",
+        "Bank Nifty"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "Aggressive intervention by the Reserve Bank of India through specialized dollar windows has arrested currency depreciation pressures sharply. A stronger rupee mitigates imported inflation risks and curbs potential capital outflows from foreign portfolio investors. This swift central bank liquidity intervention anchors domestic macro confidence and stabilizes systemic financial conditions.",
+      "action": "watch",
+      "category": "policy"
+    },
+    {
+      "headline": "Oil dips as Russia diesel supply prospects counter Gulf supply risks - Business Standard",
+      "source": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ29mQWZtVXQ0aWVCYm44MGc4S2dNUlVYRjZqdXhiVWdLMlRiblhZeW9HYVMwX3g4YWtYc3UtblNrc1ZtMnk2UzJVbFhsRW1VRkZZY3A4Tm1fMWNlal9JYkZwNEliektOZlVHMTQtSzlwWmo0NjlyM1ZjczU5bDFvSGZVejhnNV9wTm43eXFHOEtrZFFLVFhfWHVpZ2tqZV9iN1dLWE9JdnBMY0l4MENRLVR6ZlV5NkJTS0tQUmNsYmF0YjQ1QW1Ia2lmT0VDYVVBbGtCTENkbzAwUdIB3wFBVV95cUxQUXM4b1hTdGdpUXBDa0l4dnhkc21TdkFxb0NmYnRpNkpNQ05hWXVzc05yUUc0N2VjRE5yd3poRFFsNkhnV3BWQTlRTUZKYkg1cGlTaE5UeFQzejBpNEJzcGNNQUtqVW54TmQ5ZHZpc1V4QkV0TjhkVDNQZkNMUzZoR0oxaTJIbzlBU1h0S0tJNm5UQm1Od1FBYmxib0FQZ0dZVkNYdmZDWjhtVFdzUDk2eWpjVVlDdmx2Qlh2ZUtDWjZMa0hNVWpGNkRsNHdWMFhURGhpWGZVZDNMeG85WmpF?oc=5",
+      "affected_assets": [
+        "Brent Crude",
+        "BPCL",
+        "IOCL",
+        "Asian Paints"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Crude oil prices face downward pressure as additional diesel supplies offset geopolitical risk premiums emanating from the Persian Gulf. Sustained lower energy import costs offer direct margin expansion for Indian oil marketing companies and paint manufacturers. Macro implications remain favorable for India as a net oil importer through reduced current account deficit pressures.",
+      "action": "buy_opportunity",
+      "category": "commodity"
+    },
+    {
+      "headline": "With retail inflation at 5.5%, RBI's stance vindicated | Business News - Hindustan Times",
+      "source": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzZsUnBHNjQ3NHN6RjhWVFA3NWZTTjJFSkdwLVp6QUdUX3JWM2QtWjg1aGE2anpEZmlCYzMxd3k3Ry1TZHpKWDFURFI1S3pTNWE1UzBrV2xaTGhwZktvZzR3dlMxVGVodS1YbjhVVTktSURuMWhySTFRd2NwblJ2NHVNUlZNUWZ5emdTT1VDLV9xcHozWW1NLVRBTHAwQmFXWDdYdDlMVmw3V0pJTnA1SS1B0gG3AUFVX3lxTE83VGRpTUtmOTlkZHpObjhQbkZyTUVmVVlCTmFzTFVuS09HWXh5UzVsSC0tY2FDNXFpRTZsTEF2N0xja2UtWE9TYUJKQ2puNWlnZzhrb0hNZzVlLXgyTnNzZmFFRk9SVExod1lSNGtIRDBkcFlpQldVZDFvZVY1ZkktSGlJX1Yxck9vTVd2RktpS0JGTURTWEhjUnIwMVV2YVFBQmpRbmNmaS1vN3phMmlfV0ZYMV9Wbw?oc=5",
+      "affected_assets": [
+        "India 10-Year Bond",
+        "Bank Nifty",
+        "State Bank of India"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.85,
+      "reasoning": "Headline CPI lingering at 5.5 percent keeps the central bank cautious against enacting premature interest rate reductions. Persistent food price pressures require elevated policy rates, prolonging tight lending margins for rate-sensitive sectors. Expect fixed-income yields to stay elevated in the medium term while banking net interest margins navigate higher cost of funds.",
+      "action": "watch",
+      "category": "policy"
+    },
+    {
+      "headline": "IMF raises India’s GDP growth forecast to 7% for 2026-27 - News On AIR",
+      "source": "News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWVOTFJEUTJiN245Zm1fMGQ1bThma2RmNy1vVlRJaGdaeXFULVllU2lBOXFrYV9mUDAxUkdoQUpzRUhjRUZHWUh5YVZxTWY0NUNGNkZMZnFfV3Z2MnZPX2dXTlpwam5pYmFwMmZ3aHVwSWFqRUJLVUZhQzR4QUN3alE1OVNrRFE?oc=5",
+      "affected_assets": [
+        "Nifty 50",
+        "BSE Sensex",
+        "L&T"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "The IMF upward revision of India GDP growth trajectory confirms resilient domestic economic fundamentals amidst global slowdown risks. Strong capital expenditure, sustained infrastructure outlays, and resilient consumer demand support corporate revenue projections. This revision enhances foreign institutional investment sentiment toward Indian equities relative to emerging market peers.",
+      "action": "buy_opportunity",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
