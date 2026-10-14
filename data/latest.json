@@ -1,92 +1,86 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T12:56:01+05:30",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T11:26:47+05:30",
   "market_pulse": {
-    "bullish": 3,
-    "bearish": 1,
-    "neutral": 1
+    "bullish": 2,
+    "bearish": 0,
+    "neutral": 3
   },
   "insights": [
     {
-      "headline": "HCLTech jumps over 5%, TCS up 4%: Why are IT stocks rallying - The Times of India",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ3VYdUFVeGdwZXNZY2d4WFQ0ZWpKWEJ4MVlJNjk1a2lJRUVSZFQwUVZDVk1YbTZFc2tpQkdMOTA0S2JCbFJXZkpzQVlxelQzMTB0SVp0Z0xmTXBhbkF5NWpHRkRXM2RiTmxLRDBUaXV5ZElBTU84VnM2VzJSYnRpS0ZlNl94b0ZGenNLQ195ZUZmUjNUaHZDR3RuU0ZOQzQ1RnZENWQ2V0ZXODI4cjdsdG1xdnVIUGhBd19JVXpBandDTEZrU3Y3Yjh6elZGaUJTRFpENk5zWUpEQdIB3wFBVV95cUxNRFJxMWRqTGdZLXQ2YURUZUpGRkVjUkFoY0lJWWxIdHlWSDVjS2kteTBodVpQdmd2OV92RWZTQnZWelU1RFVwVjlOZ3BQMW1nY1QwS2xHYlJtdlJvRGJPbHVYenNEaTZTLS0zaDM0N3ZaUFZMQ3RobTJGczJtTE5Namp4aEpvQmFPN2dwdmg0S3dZTkZYVldKLVZ1ZVNyY2ZOWUtKTllmTXV1aEd2VVlMYmE1RmM4NjBUZU0zYm96MUNOa1dCbXlORGpwZGZ6Mm94eFRwQWdzbjNPU3ppZUJz?oc=5",
+      "headline": "Why are IT stocks up today? TCS, Infosys, HCL Tech, Wipro, Tech Mahindra shares rise up to 3% - Time to buy?",
+      "source": "GoogleNews (TCS)",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONEhHZlVtZFBBNEVyNkd6ejNVMFdQY215RjZOdERkVlNaMTBXd2Q0LVRkSHlrWlhhamprUHpMSmVsVGRmRFJBUHFUZGZpRjZxTzVuWWg3M0o4MkpWemN1RHpQRVRWcHdkcklFaEtwNnJ6OGg0VkZvbThkQjJQUzd2Mm9JVFc3anNIbjZqenZuYmZvdWVKRmpzMzNFWEJub3pMVmV2THRKQVZueUJ0N1ZjaWVBSDhscTJ6TFdLT1l6TXY2T3BZY0RtUS1fOThaSmZEZjZ5MGgxWVlDaV9hQXlmUUVXbVlnSjUtTzNJZjdNV053LTZCVzlTcnExVDZMZ9IBgwJBVV95cUxNbTE3ZXE5YnNDMGdEaUxTU1o5clRoR1huLWgwNDFaRlZTTWFoZV9TYTB6N2U1UGZQQ2E3ank0WWc5VllrQ0xzVEE4cFhNWWNZVzJBbUU0ZjlIN093ZGxZMkpLaUotQTdqOHJGZkF0TWlLc3dhLVJnWmZwMTRBZmp4M2ZZYVFMbmNNSzgwUGhYQ3lmc2lqS3lXTlF6T24zNDUzeXRYWndtS3NSUEFXcjFfMENGbXFhMXlEbG9Od3hlU0duOFZZbk9TQ1B5TkI3SXVpZjBlSnFGNUE3aldmbk43d3FxdEpmWkxaZUE5T2FTRUN2UDl4OC1yZWpPbGNUWHhPRDlj?oc=5",
       "affected_assets": [
         "TCS",
-        "HCLTech",
-        "Nifty IT"
+        "Infosys",
+        "HCL Tech",
+        "Wipro",
+        "Tech Mahindra"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Large-cap Indian IT majors are experiencing robust buying momentum driven by earnings optimism and strong deal pipelines. Rebounding operational margins and valuation catch-up are strengthening investor demand across top tier software exporters. The fundamental outlook points to continued accumulation on steady global technology discretionary spend recovery.",
+      "reasoning": "Major Indian IT heavyweights have witnessed a sharp upward surge of up to 3% on broad-based buying and renewed optimism. This positive sentiment improves near-term earnings visibility and boosts export-oriented tech revenues.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Rupee jumps 177 paise in 2 days against dollar after RBI's strong defence before Rs 97 goal post. What lies ahead?",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-177-paise-in-2-days-against-dollar-after-rbis-strong-defence-before-rs-97-goal-post-what-lies-ahead/articleshow/134910145.cms",
+      "headline": "HDFC Bank shares climb 0.84% as Q2 results loom; sellers still dominate",
+      "source": "GoogleNews (HDFC Bank)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONWRydlhHRDhYNEsybFppdmJCT256UEZOUlRRLVc3ODRRanhaX0xBdjJPVjNMR2dfMzU1ZDBqSkNWNkQwMGt0cVRYOExTOUVOOWZrTXpNdWRKOFpGa0RFMFRwTUs1RTVVaHFwWmRvOUxzb2VhRGhlRk1tdEhiMW5Zc2gtSGNUZVh3QkZPYWJhUDhIcEFuUXp4bmJidGxNa3ZGWG9mSVQxX1RYNkJTT2NQUEprYWVhZURXdWRlOGFZOHg2bGRETnV3ZmV6LXlSZjN3aTNuTXRVVjPSAd8BQVVfeXFMTkpOSFA5ZXJ3cEtLWlZYT2dyRXFDZm9mUC1YQXA0a3NlNU04SW1XbFVkaDk5UmlfM0dKN0hnczdnMTJvOW0yTWpsdzhtOG1UQlR3Y1BFWldvVnJHdFhJbjRYR3BsRG9WQmNNT3lvSmxpT3h2bDhoUmxrUmhWRUt2eVIwUF9FbGVsQUd5Sm1FeU5LcU5rWkhUT2UzNHZTVVJWZWk1d0xhd3ZhRUMwclBXdjMxN254Q0Vta1JRNE5WZlZaUW5DZDJtaWFMSVYxUUFnbGw3MU9qbWw3VnBqUlZfaw?oc=5",
       "affected_assets": [
-        "USD/INR",
-        "Nifty 50",
-        "Bank Nifty"
+        "HDFC Bank"
       ],
-      "asset_type": "macro",
-      "sentiment": "bullish",
-      "confidence": 0.9,
-      "reasoning": "Aggressive intervention by the Reserve Bank of India through specialized dollar windows has arrested currency depreciation pressures sharply. A stronger rupee mitigates imported inflation risks and curbs potential capital outflows from foreign portfolio investors. This swift central bank liquidity intervention anchors domestic macro confidence and stabilizes systemic financial conditions.",
+      "asset_type": "stock",
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "reasoning": "HDFC Bank shares ticked up ahead of crucial Q2 earnings releases while broader selling pressure persists in the banking segment. Market participants remain cautious until final financial disclosures provide clear asset quality and credit growth metrics.",
       "action": "watch",
-      "category": "policy"
+      "category": "stock_specific"
     },
     {
-      "headline": "Oil dips as Russia diesel supply prospects counter Gulf supply risks - Business Standard",
-      "source": "Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ29mQWZtVXQ0aWVCYm44MGc4S2dNUlVYRjZqdXhiVWdLMlRiblhZeW9HYVMwX3g4YWtYc3UtblNrc1ZtMnk2UzJVbFhsRW1VRkZZY3A4Tm1fMWNlal9JYkZwNEliektOZlVHMTQtSzlwWmo0NjlyM1ZjczU5bDFvSGZVejhnNV9wTm43eXFHOEtrZFFLVFhfWHVpZ2tqZV9iN1dLWE9JdnBMY0l4MENRLVR6ZlV5NkJTS0tQUmNsYmF0YjQ1QW1Ia2lmT0VDYVVBbGtCTENkbzAwUdIB3wFBVV95cUxQUXM4b1hTdGdpUXBDa0l4dnhkc21TdkFxb0NmYnRpNkpNQ05hWXVzc05yUUc0N2VjRE5yd3poRFFsNkhnV3BWQTlRTUZKYkg1cGlTaE5UeFQzejBpNEJzcGNNQUtqVW54TmQ5ZHZpc1V4QkV0TjhkVDNQZkNMUzZoR0oxaTJIbzlBU1h0S0tJNm5UQm1Od1FBYmxib0FQZ0dZVkNYdmZDWjhtVFdzUDk2eWpjVVlDdmx2Qlh2ZUtDWjZMa0hNVWpGNkRsNHdWMFhURGhpWGZVZDNMeG85WmpF?oc=5",
+      "headline": "'RBI’s foreign exchange restriction not capital controls': Governor Sanjay Malhotra",
+      "source": "GoogleNews (rbi policy)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbE9Ec3FQSXBuckc1cFVGY2ZLdnpXOVcxdXlZdHk3VkJ3a0pvYXhMYV85R2REcnRfclUyUndQRXp5R1loeDdSSnE5NjVmQzQyVnVFV18zbVEyVHFCekUzY3NTRWVsd01RLVBNWFhabXdzSUdZSWU5YndYRjUzdmw2azg0Y19UV3NjSm00dWo5ajlBdFF5T2hlYWRzam9RM3pITnN4OEc5RHl3dER3MkJPalFybHU3N3lxNC1tQ28zV3BTUUHSAcgBQVVfeXFMTmNnY2hoemhzdjNlUnIwSVJ0NEQycXo4eGdPdjA3Ni1fLVNiVGNBOER0d21sbDE3Z0o2enZMVDJndjN6YWlkT080dGZabEQ3djFSc3FfY2Z4ZXNxTEh4UWM4OVIxVFFkSFNFTmZjRXpfRU9XUWRNc1M3SEZ3Tml1bVpEQU1aRnJQdFQ5anNrdzZZV1V3eG5pRFNWMFZ0ZTB4YXA2cWRzY3d3dFdJMWNZTTNITFZZSHItN2MzRmhnNzlCdEl2eFd4Zi0?oc=5",
       "affected_assets": [
-        "Brent Crude",
-        "BPCL",
-        "IOCL",
-        "Asian Paints"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "reasoning": "Crude oil prices face downward pressure as additional diesel supplies offset geopolitical risk premiums emanating from the Persian Gulf. Sustained lower energy import costs offer direct margin expansion for Indian oil marketing companies and paint manufacturers. Macro implications remain favorable for India as a net oil importer through reduced current account deficit pressures.",
-      "action": "buy_opportunity",
-      "category": "commodity"
-    },
-    {
-      "headline": "With retail inflation at 5.5%, RBI's stance vindicated | Business News - Hindustan Times",
-      "source": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzZsUnBHNjQ3NHN6RjhWVFA3NWZTTjJFSkdwLVp6QUdUX3JWM2QtWjg1aGE2anpEZmlCYzMxd3k3Ry1TZHpKWDFURFI1S3pTNWE1UzBrV2xaTGhwZktvZzR3dlMxVGVodS1YbjhVVTktSURuMWhySTFRd2NwblJ2NHVNUlZNUWZ5emdTT1VDLV9xcHozWW1NLVRBTHAwQmFXWDdYdDlMVmw3V0pJTnA1SS1B0gG3AUFVX3lxTE83VGRpTUtmOTlkZHpObjhQbkZyTUVmVVlCTmFzTFVuS09HWXh5UzVsSC0tY2FDNXFpRTZsTEF2N0xja2UtWE9TYUJKQ2puNWlnZzhrb0hNZzVlLXgyTnNzZmFFRk9SVExod1lSNGtIRDBkcFlpQldVZDFvZVY1ZkktSGlJX1Yxck9vTVd2RktpS0JGTURTWEhjUnIwMVV2YVFBQmpRbmNmaS1vN3phMmlfV0ZYMV9Wbw?oc=5",
-      "affected_assets": [
-        "India 10-Year Bond",
-        "Bank Nifty",
-        "State Bank of India"
+        "USD-INR",
+        "Indian Banking Sector"
       ],
       "asset_type": "macro",
       "sentiment": "neutral",
-      "confidence": 0.85,
-      "reasoning": "Headline CPI lingering at 5.5 percent keeps the central bank cautious against enacting premature interest rate reductions. Persistent food price pressures require elevated policy rates, prolonging tight lending margins for rate-sensitive sectors. Expect fixed-income yields to stay elevated in the medium term while banking net interest margins navigate higher cost of funds.",
+      "confidence": 0.8,
+      "reasoning": "Governor Sanjay Malhotra clarified the central bank's stance on forex rules, easing some market anxieties regarding aggressive capital interventions. This commentary maintains policy stability without signaling immediate interest rate shifts.",
       "action": "watch",
       "category": "policy"
     },
     {
-      "headline": "IMF raises India’s GDP growth forecast to 7% for 2026-27 - News On AIR",
-      "source": "News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWVOTFJEUTJiN245Zm1fMGQ1bThma2RmNy1vVlRJaGdaeXFULVllU2lBOXFrYV9mUDAxUkdoQUpzRUhjRUZHWUh5YVZxTWY0NUNGNkZMZnFfV3Z2MnZPX2dXTlpwam5pYmFwMmZ3aHVwSWFqRUJLVUZhQzR4QUN3alE1OVNrRFE?oc=5",
+      "headline": "Gold Steady Ahead of U.S. Inflation Data",
+      "source": "GoogleNews (inflation data)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkFOakhIMVpZZ2dCUmlwZFoyX1cwV28zLXZMam1sVGtDRVZseExJQmNiMDdfQkxUaW8zd19mZHpoc3NkSTlxRHVGNFpOZDIweVd2c1lrQ2VHakpwSk4wUk9nVnlNR2ZEMnoyMEJMMFhQWmNPeVBuNWhVN1A2VmdGejNiRjhQRmp0ZUdLajF3MTg1MHlDbUxZbWFuRTc?oc=5",
       "affected_assets": [
-        "Nifty 50",
-        "BSE Sensex",
-        "L&T"
+        "Gold"
       ],
-      "asset_type": "macro",
+      "asset_type": "commodity",
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "reasoning": "Precious metal prices are consolidating as traders await upcoming US consumer inflation data to gauge the Federal Reserve's next policy trajectory. A higher-than-expected inflation print could trigger USD strength and weigh on bullion.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Transformers & Rectifiers shares surge over 18% as Q2 revenue jumps 61%, order inflows nearly double",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/transformers-rectifiers-shares-surge-over-18-as-q2-revenue-jumps-61-order-inflows-nearly-double/articleshow/134932502.cms",
+      "affected_assets": [
+        "Transformers & Rectifiers"
+      ],
+      "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.9,
-      "reasoning": "The IMF upward revision of India GDP growth trajectory confirms resilient domestic economic fundamentals amidst global slowdown risks. Strong capital expenditure, sustained infrastructure outlays, and resilient consumer demand support corporate revenue projections. This revision enhances foreign institutional investment sentiment toward Indian equities relative to emerging market peers.",
+      "reasoning": "Exceptional Q2 financial results highlighted by a 135% jump in net profit and doubled order inflows validate strong operational momentum. This fundamental outperformance strongly supports continued institutional interest and price appreciation.",
       "action": "buy_opportunity",
-      "category": "macro"
+      "category": "stock_specific"
     }
   ],
   "tweets": [],
