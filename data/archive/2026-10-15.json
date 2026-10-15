@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T11:07:48+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 3,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "Jio Platforms IPO to raise $3.2bn, opens 21 Oct",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/ipo/jio-platforms-ipo-dates-details-11791965033362.html",
+      "affected_assets": [
+        "Reliance Industries",
+        "Bharti Airtel"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "The official launch of the long-awaited $3.2 billion Jio Platforms IPO will unlock massive shareholder value for Reliance Industries. In addition, prospective 12% tariff hikes signal improving average revenue per user (ARPU) across the Indian telecom sector. This development provides strong fundamental support to parent company Reliance and peers like Bharti Airtel.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Stocks fall, dollar rallies as US inflation tops forecasts",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stocks-fall-dollar-rallies-as-us-inflation-tops-forecasts-11792006415899.html",
+      "affected_assets": [
+        "Nifty 50",
+        "Nasdaq",
+        "US Dollar Index"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.88,
+      "reasoning": "Hotter-than-expected US CPI data has rattled global risk assets by driving up bond yields and strengthening rate-hike bets. This diminishes hopes for monetary easing and increases the likelihood of continued foreign institutional investor (FII) outflows from emerging markets like India. The surge in the US dollar typically exerts downward pressure on Indian domestic benchmarks.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Gold Holds Loss as Hot Inflation Lifts October Rate-Hike Bets",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVE9HVWplZThoSGpmUFVlZi1vRkU4THhjYS1LRGF0SkhlVWhtNGJ6VkxCMlV0VWgwMVNyRHVSa29zWENNM0dYMFl0RFdNemszNUd6b3o2elpKbl9YcVJneW1UWm9kSWFPSG02RmRiaERpTXNpLTIxTEE5NjBPU2Z2UkdlWlBoRnpuX25xZUl2UjdTTnRhTldkV2Y3LXc5ejU4blhJWG9GM0Ribmo5dE9ZTDRB?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.82,
+      "reasoning": "Expectations of tighter monetary policy and sustained high real interest rates make non-yielding precious metals less attractive. The resulting surge in the US Dollar Index further limits upside potential for international and domestic bullion prices. Gold and silver face short-term downside pressure until monetary easing expectations resurface.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "Tata Technologies"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "TSMC's projection of record-setting earnings reaffirms robust enterprise spending on artificial intelligence and cloud hardware. Although broad market sentiment is dented by inflation data, structural demand in technology capex offers long-term support to IT service exporters such as TCS and Infosys that deliver enterprise AI integrations.",
+      "action": "watch",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Finance ministry officials say no plan to cut equity LTCG",
+      "source": "Reddit (r/IndianStockMarket)",
+      "url": "https://www.reddit.com/r/IndianStockMarket/comments/1x5k6g2/finance_ministry_officials_say_no_plan_to_cut/",
+      "affected_assets": [
+        "Nifty 50",
+        "BSE Sensex"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Disconfirmation of long-term capital gains tax relief dampens market speculation for immediate fiscal incentives for equity investors. With elevated small-cap valuations and ongoing FII selling, the lack of tax relief removes a potential sentiment catalyst for domestic retail and institutional inflows in the near term.",
+      "action": "watch",
+      "category": "policy"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
