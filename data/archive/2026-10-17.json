@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T10:52:37+05:30",
+  "market_pulse": {
+    "bullish": 3,
+    "bearish": 2,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+      "affected_assets": [
+        "Nifty IT",
+        "TCS",
+        "HCLTech",
+        "Infosys"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Resilient quarterly operational earnings and strong deal renewals across tier-1 Indian IT firms have triggered sharp fundamental reratings. The outperformance underscores sector resilience despite broader macroeconomic ambiguity in Western client spending. This sustained momentum is expected to draw institutional inflows back into large-cap tech.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
+      "affected_assets": [
+        "INR",
+        "Indian Sovereign Bonds",
+        "Nifty Bank"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.9,
+      "reasoning": "A rapid drawdown of foreign exchange reserves to stem currency depreciation restricts the central bank's intervention capacity. The resulting tightening of domestic system liquidity raises funding costs for commercial banks and exerts upward pressure on sovereign bond yields. Extended reserve exhaustion risks broader currency volatility and imported inflationary pressures.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "India’s T-bill yields hit 18-month highs as rate hike bets rise",
+      "source": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUzV1LU85ZGxvVGZ1T0lzNmY1OFNaaUt0NDBiRVFqZmhPdjBBNzkwOGg0Q2w1VDRmanhFZXY4TDNFdzFqOVpzYXQxQUdwb2NlQVlXYmdQVHJXaWZ4aUpMUFJKWDJPb1AyV2ptckZoVmY0RXdTdVlYQ09xdHFQalNOMGg0UWE3Nk5DSGtRLVpmX2ozR3dnMGlkelZQQW9Hc291bGtrdjZ1UDlUSmNQX2tKcWdSVzBvUDB0SnhXaENjX2JTZ3FlR1ZSdnBtZVY0SDd1bktCWERSblQzVkg4enlEbFFPT0LSAesBQVVfeXFMTnRvck5BREwtbkNTNXdKbk1iVlRnS3FiakNBSnJSblktN0drLXBwcXJGWGQzYkc0YUQ4MV91dFJON0lHUzNKTkptNXJQaVV0MmRGekpVOThBY25fMV9PUWVTMjl4d3l3VVlzQUdBX0VQYU9seFh1VE9FWWRSZ1dreW5XbkdDck1oYUZQdlRJRzM5d0pOOGRfNDBaSHRuY0lQQ09WNXdRM2FYUEstby1JN3JBRG1FZ1l3VFhhaEFKNHpDWjcycVVDSTlRRzBrMG1NRjdqcDJkM2M2dHpaYVNLRkdmU20yY0pWaE1law?oc=5",
+      "affected_assets": [
+        "India Government Bonds",
+        "Nifty Financial Services",
+        "Banking Stocks"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Surging short-term sovereign yields point to sticky inflation expectations and tighter interbank liquidity conditions. This alters net interest margin projections for lending institutions as borrowing costs escalate ahead of loan repricing. Equities face headwind revaluations as risk-free discount rates climb higher.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
+      "affected_assets": [
+        "Federal Bank",
+        "Nifty Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Substantial 45% bottom-line expansion coupled with 26% growth in net interest income demonstrates solid operational efficiency and balance sheet strength. Steady improvements in asset quality and healthy deposit mobilization indicate favorable credit cycle dynamics. This reinforces medium-term earnings resilience relative to broader mid-tier private lenders.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold and silver prices rise on commodity markets",
+      "source": "Apa.az",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2ludXY5S3lVZ2Npak4wQzNPWHpFYjdOLTN3R241Wk9IcUxDalJEaWo5TC13cFhwNWVtRy0tbmhQcWFsUVRwT2pRRUV6VzhraFdPa1ZUMzhPZFV6YkxNank2NTh1MjdGbUFRYWxhbkVvMi14RjVjZ0g3S0d3VEw0QjJ5c1UxUW8?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "reasoning": "Precious metals are benefiting from safe-haven hedging alongside weakness in the US dollar as interest rate hike expectations moderate. Persistent macroeconomic uncertainties and persistent central bank demand provide strong underlying support for bullion. The trend favors defensive commodity accumulation in diversified portfolios.",
+      "action": "watch",
+      "category": "commodity"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

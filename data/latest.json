@@ -1,88 +1,90 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T11:02:36+05:30",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T10:52:37+05:30",
   "market_pulse": {
-    "bullish": 2,
+    "bullish": 3,
     "bearish": 2,
-    "neutral": 1
+    "neutral": 0
   },
   "insights": [
     {
-      "headline": "Reliance Jio IPO skyrockets RIL share price; should investors buy more shares of Mukesh Ambani firm for big returns?",
-      "source": "Livemint",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQakl0TFBQZ1dqcFVqbWdpb1lkdDd1bG5XeVBNUjdpRWl4XzFkSWgxZ0VzV0RYTC1ybkhXRElPOW5DM0d1NllyYmh0Tjh1SEVoWUhXdVZPc0NMQkpZdHEtOGtKLU1uUG9tZU9fc2NMbW9GVlppV211M0JqdlRvcGkyMHd2UG5wc3pXWjFOcjUxRlNuUGJVUHI4UFBoTEw4Y2hWTHBuV2RReE5OeS1VclBGd2c5azNyM2Fna18wYWVjSUpWMHZ0anFMa3VFdFdpNko2bjl5V1g4TUtseHhaZS1FNGl6U1hRNEluRE5leXJxX0V1UDBLb1NRU0RYRXg2Qm9LWnVXakZLUmxEc3RTcU1HbXpn0gGXAkFVX3lxTE81a2Zja2JHdnBsbXJxWW9aZUtGcE5qOWxFRktWMnFXcnFwM0xMQmlFYUlCWjNGN05FNV9scVdGYnlMdWtWM09DbXkxZjlCamtzZGNFZDhRNm9UMzF6ekY3STBRdTBOYmVDOFhrVlJCUk9KTTBtd0ZDRGRSTHp4UTVMMHl1TVlWV0d5a1VCX0U4YWRtS1o3M1pBMzNlbFg1RXdkakZHeGNyVE90Q0ZMeGxrT0RHaXFZam01Rzc2ZWNuMDNnTG1hVUItVV9IY0N5R29ZckF5NjkzQnVscWJBaUVaSXRZUUxCTnVxcjVuMEhCazhzRV8ySDc2cUR6NUR6UXF4d0w2X1p2SmNzT0UxZWt2cVdzdjMxaw?oc=5",
+      "headline": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
       "affected_assets": [
-        "Reliance Industries",
-        "Reliance Jio"
+        "Nifty IT",
+        "TCS",
+        "HCLTech",
+        "Infosys"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.88,
-      "reasoning": "The upcoming mega IPO of Reliance Jio via an all-fresh issue creates a substantial value-unlocking catalyst for parent Reliance Industries. Capital raised is expected to deleverage balance sheets and fuel digital ecosystem expansion, reinforcing medium-term fundamental upside. Market appetite for the country's dominant telecom player remains strong among institutional investors.",
+      "confidence": 0.85,
+      "reasoning": "Resilient quarterly operational earnings and strong deal renewals across tier-1 Indian IT firms have triggered sharp fundamental reratings. The outperformance underscores sector resilience despite broader macroeconomic ambiguity in Western client spending. This sustained momentum is expected to draw institutional inflows back into large-cap tech.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "BSE, Angel One Fall Over 3% On SEBI CAS Changes; MCX, Groww, NSE Also Decline",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/markets/bse-angel-one-fall-over-3-percent-on-sebi-cas-changes-mcx-groww-nse-decline-broking-stocks-sensex-today-bse-nse-12193148#publisher=newsstand",
+      "headline": "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
       "affected_assets": [
-        "BSE",
-        "Angel One",
-        "MCX"
+        "INR",
+        "Indian Sovereign Bonds",
+        "Nifty Bank"
       ],
-      "asset_type": "stock",
+      "asset_type": "macro",
       "sentiment": "bearish",
       "confidence": 0.9,
-      "reasoning": "Regulatory alterations by SEBI regarding Closing Auction Sessions increase operational uncertainty and potentially compress turnover volumes for brokerage platforms and exchanges. These procedural tightening measures directly impair fee-based revenue visibility across capital market intermediaries. The resulting margin and volume pressures warrant caution for discount brokers and exchange operators.",
+      "reasoning": "A rapid drawdown of foreign exchange reserves to stem currency depreciation restricts the central bank's intervention capacity. The resulting tightening of domestic system liquidity raises funding costs for commercial banks and exerts upward pressure on sovereign bond yields. Extended reserve exhaustion risks broader currency volatility and imported inflationary pressures.",
       "action": "risk_alert",
       "category": "policy"
     },
     {
-      "headline": "Rs 82,500 crore rally in 3 days: Why TCS, HCL Tech, other IT stocks jumped up to 12% in 3 days and will th",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOOWVzWFZ4OHY4QmtQbGxkQlB0Z2tDczFGRkVXSVZlTnVvV0hLMEwyd2VDZGxNVUhoODNXa2Z0RjZjaUZZZlMydzlXdlBqLVZVQ3hNM1hyeENXUU45WlI4QXJ0MjUxd3ljS0ctdVFtVmcyMVdtSUVWOXMweElGeTFXeDRtclZ2QzFDS0RleGxaU1ZiM1AxSmpoWFBCalBaRUtpbG5FMlJmZnZKQXZjVHJLbkFRcGJLb2lKdXJSanUtcVk2SFdib1Q4cEZveC1GSS1lTi0xaVIzYV9JbURUN0h2azA1MTRjMnY1dHl1aC1UcW1OMVd5M2RUNktUZWJ2cWtieHR2UXJpdVloZ01xN0U5SzhxN0bSAZoCQVVfeXFMTlA5YkNSTTl2dnpBMmtmc0s4RktQRWtRVDd4ZG10RFBhUDRkdzRPWXlSa1VBMDRJQkJUSGhueGRuMTJVOXVNSUVfUUZaWC1rQVhyTUk0V1k2QnN5UkR6cHg5bFJEQnEzZmc1QkpXbldRTjdtcGVqTFFJaUJtdk9xQ3lvdVJnZ2hIMEhza1lUZlhxTnFnZnpTSGVxNW1WQUhlYUZNSWNMRHRodkxPMUxsUjI2UFlqNzRJTmVRVkVkR3BOWdYdWJyM0gteW9SNjg5cExBNWExYW9nYi1xYk85aWh1cEtiU2s2UWotYm05RVlYd3J6a090U2pLeG9iZTFxQktXTUlrempBTmlpTTVYajRJXzJQUnRPR3BR?oc=5",
+      "headline": "India’s T-bill yields hit 18-month highs as rate hike bets rise",
+      "source": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUzV1LU85ZGxvVGZ1T0lzNmY1OFNaaUt0NDBiRVFqZmhPdjBBNzkwOGg0Q2w1VDRmanhFZXY4TDNFdzFqOVpzYXQxQUdwb2NlQVlXYmdQVHJXaWZ4aUpMUFJKWDJPb1AyV2ptckZoVmY0RXdTdVlYQ09xdHFQalNOMGg0UWE3Nk5DSGtRLVpmX2ozR3dnMGlkelZQQW9Hc291bGtrdjZ1UDlUSmNQX2tKcWdSVzBvUDB0SnhXaENjX2JTZ3FlR1ZSdnBtZVY0SDd1bktCWERSblQzVkg4enlEbFFPT0LSAesBQVVfeXFMTnRvck5BREwtbkNTNXdKbk1iVlRnS3FiakNBSnJSblktN0drLXBwcXJGWGQzYkc0YUQ4MV91dFJON0lHUzNKTkptNXJQaVV0MmRGekpVOThBY25fMV9PUWVTMjl4d3l3VVlzQUdBX0VQYU9seFh1VE9FWWRSZ1dreW5XbkdDck1oYUZQdlRJRzM5d0pOOGRfNDBaSHRuY0lQQ09WNXdRM2FYUEstby1JN3JBRG1FZ1l3VFhhaEFKNHpDWjcycVVDSTlRRzBrMG1NRjdqcDJkM2M2dHpaYVNLRkdmU20yY0pWaE1law?oc=5",
       "affected_assets": [
-        "TCS",
-        "HCL Tech",
-        "Nifty IT Index"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.82,
-      "reasoning": "Tier-1 Indian IT exporters are benefiting from renewed client deal momentum and strategic enterprise AI commercialization rollouts. The massive three-day institutional inflow signifies stabilizing discretionary tech spending expectations following prolonged margin headwinds. Continued enterprise spend recovery could drive sustainable valuation re-ratings across the IT services space.",
-      "action": "watch",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Why Is Crypto Down? Hotter CPI Fuels Fears of Delayed Fed Rate Cuts",
-      "source": "Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtWHZ2dVRKY3RscGw3aTZTU1RsTHJXSGFTWjNCUTVxWmJqUXRUN2hab1Jrc3F1QWdnanhXMElpc3dqOTZ1T1NZdnV3eWQ2U3lTLXFHLWtnQjVBUmVWUFZCZlg5U05mbXNDVlBTN01pUHR3LVVFWTZJdWZB?oc=5",
-      "affected_assets": [
-        "US Dollar",
-        "Emerging Market Equities",
-        "Global Risk Assets"
+        "India Government Bonds",
+        "Nifty Financial Services",
+        "Banking Stocks"
       ],
       "asset_type": "macro",
       "sentiment": "bearish",
-      "confidence": 0.86,
-      "reasoning": "Elevated consumer price index readings postpone expectations for aggressive Federal Reserve monetary easing, preserving elevated US bond yields. A prolonged higher-for-longer interest rate scenario typically sparks capital outflows from emerging market equities back into dollar-denominated assets. This macroeconomic headwind exerts downward pressure on broader emerging market liquidity.",
+      "confidence": 0.8,
+      "reasoning": "Surging short-term sovereign yields point to sticky inflation expectations and tighter interbank liquidity conditions. This alters net interest margin projections for lending institutions as borrowing costs escalate ahead of loan repricing. Equities face headwind revaluations as risk-free discount rates climb higher.",
       "action": "risk_alert",
       "category": "macro"
     },
     {
-      "headline": "India's Yes Bank AT-1 ruling won't impact ratings despite earnings hit, S&P says",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-yes-bank-at-1-ruling-wont-impact-ratings-despite-earnings-hit-sp-says/articleshow/134982074.cms",
+      "headline": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
       "affected_assets": [
-        "Yes Bank"
+        "Federal Bank",
+        "Nifty Bank"
       ],
       "asset_type": "stock",
-      "sentiment": "neutral",
-      "confidence": 0.78,
-      "reasoning": "While the Supreme Court's decision on the Rs 84 billion AT-1 bond write-off induces a short-term hit to earnings, confirmation of credit rating stability by S&P cushions downside risk. Capital adequacy buffers remain intact, limiting systemic default risks or aggressive restructuring needs. Near-term profitability metrics will face drag, prompting a wait-and-watch approach until litigation liabilities are fully provided.",
-      "action": "watch",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Substantial 45% bottom-line expansion coupled with 26% growth in net interest income demonstrates solid operational efficiency and balance sheet strength. Steady improvements in asset quality and healthy deposit mobilization indicate favorable credit cycle dynamics. This reinforces medium-term earnings resilience relative to broader mid-tier private lenders.",
+      "action": "buy_opportunity",
       "category": "stock_specific"
+    },
+    {
+      "headline": "Gold and silver prices rise on commodity markets",
+      "source": "Apa.az",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2ludXY5S3lVZ2Npak4wQzNPWHpFYjdOLTN3R241Wk9IcUxDalJEaWo5TC13cFhwNWVtRy0tbmhQcWFsUVRwT2pRRUV6VzhraFdPa1ZUMzhPZFV6YkxNank2NTh1MjdGbUFRYWxhbkVvMi14RjVjZ0g3S0d3VEw0QjJ5c1UxUW8?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "reasoning": "Precious metals are benefiting from safe-haven hedging alongside weakness in the US dollar as interest rate hike expectations moderate. Persistent macroeconomic uncertainties and persistent central bank demand provide strong underlying support for bullion. The trend favors defensive commodity accumulation in diversified portfolios.",
+      "action": "watch",
+      "category": "commodity"
     }
   ],
   "tweets": [],
