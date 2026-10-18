@@ -1,90 +1,85 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T10:52:37+05:30",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T11:00:10+05:30",
   "market_pulse": {
-    "bullish": 3,
-    "bearish": 2,
-    "neutral": 0
+    "bullish": 2,
+    "bearish": 1,
+    "neutral": 2
   },
   "insights": [
     {
-      "headline": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+      "headline": "Axis Bank Q2 profit up 38% on loan growth",
       "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-profit-up-38-on-loan-growth/articleshow/135023818.cms",
       "affected_assets": [
-        "Nifty IT",
-        "TCS",
-        "HCLTech",
-        "Infosys"
+        "Axis Bank",
+        "Nifty Bank"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Resilient quarterly operational earnings and strong deal renewals across tier-1 Indian IT firms have triggered sharp fundamental reratings. The outperformance underscores sector resilience despite broader macroeconomic ambiguity in Western client spending. This sustained momentum is expected to draw institutional inflows back into large-cap tech.",
+      "reasoning": "Axis Bank reported an impressive 38% surge in quarterly net profit driven by steady credit demand and resilient asset quality. Improving operating metrics and healthy loan disbursements strengthen earnings visibility for upcoming quarters. This performance provides strong fundamental support for sustained outperformance in private banking.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
+      "headline": "ICICI Bank profit spurts 20% on NII; core profitability a tad lower on FCNR(B)",
       "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-profit-spurts-20-on-nii-core-profitability-a-tad-lower-on-fcnrb/articleshow/135023892.cms",
       "affected_assets": [
-        "INR",
-        "Indian Sovereign Bonds",
+        "ICICI Bank",
         "Nifty Bank"
       ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
-      "confidence": 0.9,
-      "reasoning": "A rapid drawdown of foreign exchange reserves to stem currency depreciation restricts the central bank's intervention capacity. The resulting tightening of domestic system liquidity raises funding costs for commercial banks and exerts upward pressure on sovereign bond yields. Extended reserve exhaustion risks broader currency volatility and imported inflationary pressures.",
-      "action": "risk_alert",
-      "category": "policy"
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.82,
+      "reasoning": "ICICI Bank demonstrated strong core operating momentum with an 18% increase in net interest income driving a 20% net profit rise. Although foreign currency deposit costs clipped margins marginally, overall asset health remains robust. The bank retains solid fundamental positioning to absorb funding cost pressures.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
     },
     {
-      "headline": "India’s T-bill yields hit 18-month highs as rate hike bets rise",
-      "source": "BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUzV1LU85ZGxvVGZ1T0lzNmY1OFNaaUt0NDBiRVFqZmhPdjBBNzkwOGg0Q2w1VDRmanhFZXY4TDNFdzFqOVpzYXQxQUdwb2NlQVlXYmdQVHJXaWZ4aUpMUFJKWDJPb1AyV2ptckZoVmY0RXdTdVlYQ09xdHFQalNOMGg0UWE3Nk5DSGtRLVpmX2ozR3dnMGlkelZQQW9Hc291bGtrdjZ1UDlUSmNQX2tKcWdSVzBvUDB0SnhXaENjX2JTZ3FlR1ZSdnBtZVY0SDd1bktCWERSblQzVkg4enlEbFFPT0LSAesBQVVfeXFMTnRvck5BREwtbkNTNXdKbk1iVlRnS3FiakNBSnJSblktN0drLXBwcXJGWGQzYkc0YUQ4MV91dFJON0lHUzNKTkptNXJQaVV0MmRGekpVOThBY25fMV9PUWVTMjl4d3l3VVlzQUdBX0VQYU9seFh1VE9FWWRSZ1dreW5XbkdDck1oYUZQdlRJRzM5d0pOOGRfNDBaSHRuY0lQQ09WNXdRM2FYUEstby1JN3JBRG1FZ1l3VFhhaEFKNHpDWjcycVVDSTlRRzBrMG1NRjdqcDJkM2M2dHpaYVNLRkdmU20yY0pWaE1law?oc=5",
+      "headline": "YES Bank Q2 profit rises 65%; AT1 hit may risk 5,217 cr loss",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-profit-rises-65-at1-hit-may-risk-5217-cr-loss/articleshow/135023793.cms",
       "affected_assets": [
-        "India Government Bonds",
-        "Nifty Financial Services",
-        "Banking Stocks"
+        "YES Bank"
       ],
-      "asset_type": "macro",
+      "asset_type": "stock",
       "sentiment": "bearish",
+      "confidence": 0.88,
+      "reasoning": "While headline net profit jumped 65%, legal scrutiny surrounding written-down AT1 bonds threatens an adverse post-tax hit of Rs 5,217 crore. Such a contingent liability poses substantial downside risk to common equity tier-1 capital and future solvency ratios. Investors face sharp headline and balance sheet risk until legal closure is achieved.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "HDFC Bank PAT ticks up 5% amid pressure",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-pat-ticks-up-5-amid-pressure/articleshow/135023863.cms",
+      "affected_assets": [
+        "HDFC Bank",
+        "Nifty 50"
+      ],
+      "asset_type": "stock",
+      "sentiment": "neutral",
       "confidence": 0.8,
-      "reasoning": "Surging short-term sovereign yields point to sticky inflation expectations and tighter interbank liquidity conditions. This alters net interest margin projections for lending institutions as borrowing costs escalate ahead of loan repricing. Equities face headwind revaluations as risk-free discount rates climb higher.",
-      "action": "risk_alert",
-      "category": "macro"
-    },
-    {
-      "headline": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
-      "affected_assets": [
-        "Federal Bank",
-        "Nifty Bank"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "Substantial 45% bottom-line expansion coupled with 26% growth in net interest income demonstrates solid operational efficiency and balance sheet strength. Steady improvements in asset quality and healthy deposit mobilization indicate favorable credit cycle dynamics. This reinforces medium-term earnings resilience relative to broader mid-tier private lenders.",
-      "action": "buy_opportunity",
+      "reasoning": "HDFC Bank saw modest net profit growth of less than 5% as ongoing post-merger net interest margin compression continues to restrict bottom-line expansion. Despite steady deposit accumulation and loan growth, return ratios remain constrained in the near term. The stock is likely to trade sideways until margin expansion re-emerges.",
+      "action": "watch",
       "category": "stock_specific"
     },
     {
-      "headline": "Gold and silver prices rise on commodity markets",
-      "source": "Apa.az",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2ludXY5S3lVZ2Npak4wQzNPWHpFYjdOLTN3R241Wk9IcUxDalJEaWo5TC13cFhwNWVtRy0tbmhQcWFsUVRwT2pRRUV6VzhraFdPa1ZUMzhPZFV6YkxNank2NTh1MjdGbUFRYWxhbkVvMi14RjVjZ0g3S0d3VEw0QjJ5c1UxUW8?oc=5",
+      "headline": "Next Week's Global Outlook: European and US PMI and Inflation Data Intertwine, Meta and Tesla Earnings Take Center Stage",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jSmVMZjZzN3JWUEdTc2ZFQXJRUXd6RkN1eGluZ19lN0lQeG83OE5xTE5DZG1iTkU5XzYzVmlnMEYyV1lOV24xVTg0aTkwVi1DQmxFRnFkaGRWWUVlQThHTnNhbXc2LXJ1WG1hRWpTdXB5bXoyVFE?oc=5",
       "affected_assets": [
-        "Gold",
-        "Silver"
+        "Nifty 50",
+        "Sensex"
       ],
-      "asset_type": "commodity",
-      "sentiment": "bullish",
+      "asset_type": "macro",
+      "sentiment": "neutral",
       "confidence": 0.75,
-      "reasoning": "Precious metals are benefiting from safe-haven hedging alongside weakness in the US dollar as interest rate hike expectations moderate. Persistent macroeconomic uncertainties and persistent central bank demand provide strong underlying support for bullion. The trend favors defensive commodity accumulation in diversified portfolios.",
+      "reasoning": "Global cross-currents from US inflation and European PMI data will direct foreign institutional investment trajectories across emerging markets. Unclear global interest rate expectations could prompt defensive portfolio positioning in Indian benchmark indices. Investors should brace for sector-specific rotations rather than broad market rallies.",
       "action": "watch",
-      "category": "commodity"
+      "category": "macro"
     }
   ],
   "tweets": [],
