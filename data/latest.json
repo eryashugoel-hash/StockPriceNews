@@ -1,92 +1,85 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T11:18:42+05:30",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T11:13:56+05:30",
   "market_pulse": {
     "bullish": 3,
-    "bearish": 1,
-    "neutral": 1
+    "bearish": 2,
+    "neutral": 0
   },
   "insights": [
     {
-      "headline": "RBI announces $10.5 billion liquidity infusion via repo",
+      "headline": "Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rbi-announces-10-5-billion-liquidity-infusion-via-repo/articleshow/135038836.cms",
-      "affected_assets": [
-        "Bank Nifty",
-        "HDFC Bank",
-        "State Bank of India",
-        "Punjab National Bank"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bullish",
-      "confidence": 0.9,
-      "reasoning": "The infusion of 1 trillion rupees via repo operations relieves short-term liquidity stress caused by advance tax outflows and daily CRR requirements. Improved system liquidity decreases interbank lending rates and lowers short-term cost of funds for commercial lenders. This provides fundamental margin relief and stability for the entire banking sector.",
-      "action": "buy_opportunity",
-      "category": "policy"
-    },
-    {
-      "headline": "PNB shares jump 8% after Q2 results beat estimates; Jefferies, Motilal Oswal, others raise target prices",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-8-after-q2-results-beat-estimates-jefferies-motilal-oswal-others-raise-target-prices/articleshow/135040821.cms",
-      "affected_assets": [
-        "Punjab National Bank",
-        "Nifty PSU Bank Index",
-        "Canara Bank",
-        "Union Bank of India"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.88,
-      "reasoning": "Punjab National Bank reported solid earnings growth of 13% YoY driven by robust net interest income and significant asset quality improvements. Target price upgrades from premier brokerages like Jefferies and Motilal Oswal reaffirm the structural re-rating thesis for state-run lenders. This earnings beat is catalyzing positive spillover across the broader PSU banking basket.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "11 years, zero net FII flow: How a $64 billion outflow erased 9 years of equity buying",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/11-years-zero-net-fii-flow-how-a-64-billion-outflow-erased-9-years-of-equity-buying/articleshow/135039441.cms",
-      "affected_assets": [
-        "Nifty 50",
-        "Sensex",
-        "Large Cap Equities"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "A massive $63.6 billion capital flight has completely erased almost a decade of cumulative net foreign portfolio investments in Indian equities. Sustained institutional selling pressures domestic liquidity to absorb heavy secondary supply, capping upside valuation multiples. Without fresh foreign inflows, heavy-weight index components face valuation compression and extended periods of underperformance.",
-      "action": "risk_alert",
-      "category": "macro"
-    },
-    {
-      "headline": "China Q3 GDP Growth Beats Estimates",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbGtnSkwycU1Hc2ZXNEdiMFM3LUR5d0VKUVo1V05JODVpVmtWQUIyZWRrRV9lcEtOSy1uMEp4U29aWWs5czVfRmlGSmlaNHNpY25YcE44Wl85VW1zaHBQNGZBdDhRTFl2WjlZdmdyMmpWWnBkc01rNW1ZVUd5SXpUNExlNGxaNFdEbVM1VG9xSQ?oc=5",
-      "affected_assets": [
-        "Base Metals",
-        "Tata Steel",
-        "Hindalco",
-        "Copper"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bullish",
-      "confidence": 0.82,
-      "reasoning": "Better-than-expected economic growth in China signals stabilization in factory production and resilient external export demand. Because China is the dominant consumer of industrial raw materials, stronger real economic activity directly supports international base metal prices. This creates favorable real-pricing tailwinds for Indian metal producers and industrial exporters.",
-      "action": "watch",
-      "category": "macro"
-    },
-    {
-      "headline": "Holding company discount after Jio IPO: What is it & how will it impact RIL shares?",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/holding-company-discount-after-jio-ipo-what-is-it-how-will-it-impact-ril-shares/articleshow/135039648.cms",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
       "affected_assets": [
         "Reliance Industries",
         "Jio Platforms"
       ],
       "asset_type": "stock",
-      "sentiment": "neutral",
-      "confidence": 0.75,
-      "reasoning": "The potential listing of Jio Platforms introduces a standard holding company discount on parent Reliance Industries, creating mixed structural drivers. While direct value discovery for the telecom asset is fundamentally accretive, parent shares frequently encounter valuation friction as investors reallocate capital into the standalone pure play. The long-term fundamental outcome will hinge on the listing valuation and capital allocation disclosures.",
-      "action": "watch",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "The impending launch of India's largest-ever public offering with a firm grey market premium of 22% provides a substantial valuation re-rating for parent Reliance Industries. Strong retail and institutional interest is anticipated to unlock considerable shareholder value. The large liquidity absorption may create short-term churn across other large-cap telecom peers.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "SENSEX, NIFTY50 snap two-day winning streak dragged by HDFC Bank, Axis Bank - Upstox",
+      "source": "Upstox",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFdLMEJnUjBEaXdVWVBHLWptV3RsZXY3eXlLekZLMVppMGd0Z2tna05faXBzZHBiU1VBd2pYR0tQdW8xaFZZYWIwaVZ1MG4xRnp5UmpXM1ktQmhMbWJaOURFN2RNamlValYzV2tXZmFTNHMtZDlmMW5sSW51TTRTNTItVWItVTRjQ2tJYkJwYTR3UTdHYzJvaEw2ZVFsbXRKS09CdzE1RmU3S2thUkx4RHV3VW9zY1JzSkRLcjNsU3AwTnMxNUQxNjFFSjVGQQ?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "Axis Bank",
+        "Nifty 50"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.82,
+      "reasoning": "Leading private sector banks saw heavy selling pressure following post-earnings adjustments, dragging broader indices lower. Heavyweight banking institutions continue to face margin compression and deposit growth headwinds. This weakness creates broader downward momentum for benchmark indices in the short run.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "HFCL Q2 net profit jumps 448% to Rs 394 crore",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-net-profit-jumps-448-to-rs-394-crore/articleshow/135059308.cms",
+      "affected_assets": [
+        "HFCL"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "HFCL delivered exceptional financial performance with net profit surging over fourfold and revenue growing by 143% year-on-year. Massive demand in telecom infrastructure, optic fiber, and 5G network equipment rollouts is converting directly into margin expansion. This solid earnings beat is likely to trigger institutional upgrades and upward price re-rating.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "UltraTech Cement Q2 net profit up 21% in September quarter",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-net-profit-up-21-in-september-quarter/articleshow/135059234.cms",
+      "affected_assets": [
+        "UltraTech Cement",
+        "Ambuja Cements"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "UltraTech reported strong double-digit domestic volume growth of 14%, driving a 21% expansion in net profit despite monsoon-related seasonal slowdowns. Stable realization rates and robust infrastructure capex support ongoing operational leverage for the market leader. This performance sets a positive precedent for the broader construction materials sector.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "SBI data breach claim: Hackers allegedly access 3.75 lakh accounts",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-data-breach-claim-hackers-allegedly-access-3-75-lakh-accounts/articleshow/135059062.cms",
+      "affected_assets": [
+        "State Bank of India",
+        "Nifty PSU Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.72,
+      "reasoning": "Allegations of a significant data breach impacting over 3.75 lakh accounts raise immediate regulatory and operational compliance concerns for State Bank of India. Potential fines, escalated cybersecurity audit expenses, and reputational fallout could weigh on the lender's near-term share performance. Continued uncertainty may also cause negative sentiment across public sector lenders.",
+      "action": "risk_alert",
       "category": "stock_specific"
     }
   ],

@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T11:13:56+05:30",
+  "market_pulse": {
+    "bullish": 3,
+    "bearish": 2,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+      "affected_assets": [
+        "Reliance Industries",
+        "Jio Platforms"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "The impending launch of India's largest-ever public offering with a firm grey market premium of 22% provides a substantial valuation re-rating for parent Reliance Industries. Strong retail and institutional interest is anticipated to unlock considerable shareholder value. The large liquidity absorption may create short-term churn across other large-cap telecom peers.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "SENSEX, NIFTY50 snap two-day winning streak dragged by HDFC Bank, Axis Bank - Upstox",
+      "source": "Upstox",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFdLMEJnUjBEaXdVWVBHLWptV3RsZXY3eXlLekZLMVppMGd0Z2tna05faXBzZHBiU1VBd2pYR0tQdW8xaFZZYWIwaVZ1MG4xRnp5UmpXM1ktQmhMbWJaOURFN2RNamlValYzV2tXZmFTNHMtZDlmMW5sSW51TTRTNTItVWItVTRjQ2tJYkJwYTR3UTdHYzJvaEw2ZVFsbXRKS09CdzE1RmU3S2thUkx4RHV3VW9zY1JzSkRLcjNsU3AwTnMxNUQxNjFFSjVGQQ?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "Axis Bank",
+        "Nifty 50"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.82,
+      "reasoning": "Leading private sector banks saw heavy selling pressure following post-earnings adjustments, dragging broader indices lower. Heavyweight banking institutions continue to face margin compression and deposit growth headwinds. This weakness creates broader downward momentum for benchmark indices in the short run.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "HFCL Q2 net profit jumps 448% to Rs 394 crore",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-net-profit-jumps-448-to-rs-394-crore/articleshow/135059308.cms",
+      "affected_assets": [
+        "HFCL"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "HFCL delivered exceptional financial performance with net profit surging over fourfold and revenue growing by 143% year-on-year. Massive demand in telecom infrastructure, optic fiber, and 5G network equipment rollouts is converting directly into margin expansion. This solid earnings beat is likely to trigger institutional upgrades and upward price re-rating.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "UltraTech Cement Q2 net profit up 21% in September quarter",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-net-profit-up-21-in-september-quarter/articleshow/135059234.cms",
+      "affected_assets": [
+        "UltraTech Cement",
+        "Ambuja Cements"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "UltraTech reported strong double-digit domestic volume growth of 14%, driving a 21% expansion in net profit despite monsoon-related seasonal slowdowns. Stable realization rates and robust infrastructure capex support ongoing operational leverage for the market leader. This performance sets a positive precedent for the broader construction materials sector.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "SBI data breach claim: Hackers allegedly access 3.75 lakh accounts",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-data-breach-claim-hackers-allegedly-access-3-75-lakh-accounts/articleshow/135059062.cms",
+      "affected_assets": [
+        "State Bank of India",
+        "Nifty PSU Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.72,
+      "reasoning": "Allegations of a significant data breach impacting over 3.75 lakh accounts raise immediate regulatory and operational compliance concerns for State Bank of India. Potential fines, escalated cybersecurity audit expenses, and reputational fallout could weigh on the lender's near-term share performance. Continued uncertainty may also cause negative sentiment across public sector lenders.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
