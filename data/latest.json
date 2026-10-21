@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T11:13:56+05:30",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T11:24:25+05:30",
   "market_pulse": {
-    "bullish": 3,
-    "bearish": 2,
+    "bullish": 4,
+    "bearish": 1,
     "neutral": 0
   },
   "insights": [
     {
-      "headline": "Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?",
+      "headline": "Indian bonds sell off on oil shock ahead of RBI policy minutes",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-sell-off-on-oil-shock-ahead-of-rbi-policy-minutes/articleshow/135082397.cms",
       "affected_assets": [
-        "Reliance Industries",
-        "Jio Platforms"
+        "Indian Sovereign Bonds",
+        "Crude Oil",
+        "INR/USD"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Surging crude oil prices toward $110 per barrel pose a significant risk to India's inflation trajectory and trade balance. Spiking bond yields signal rising concerns that the RBI may delay rate cuts or maintain a hawkish stance. This macro shock creates broad headwinds for domestic equities and bond markets.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Missed reversal in IT stocks? Jefferies gives 3 ideas with up to 50% re-rating potential",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reversal-in-it-stocks-jefferies-gives-3-ideas-with-up-to-50-re-rating-potential/articleshow/135083074.cms",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "Sagility"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Jefferies highlighted a strong valuation re-rating potential for top Indian IT firms despite moderate near-term revenue growth. Institutional upgrades on heavyweights like TCS and Infosys provide a positive fundamental catalyst. Investors may see renewed accumulation in tier-1 IT services.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Jio filed IPO prospectus and set terms for Reliance stock",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1N3Tlc3WS0zVXMtZTJCMWJVLXRSY2tQaGUwM2R5UExLbEZacWNQTnMzMmZSeVR2aHN5N2N1UXpMOUJjUGs2LUFZUko2dHU5U3JFNFEtd1ptTm0zWGNiemY0cVBVYVdSam5sLV9vbEJXbVAyNkQxU0Ftd0drcGVKWVU2YUU5cS1fdUZLY2VTN0Q2Z0VPeHB3YTZwY1JQcW5jdjUtQUJYRE9UR1RRd2RzMGxKRkR1dXk5SkY1eQ?oc=5",
+      "affected_assets": [
+        "Reliance Industries"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "The impending launch of India's largest-ever public offering with a firm grey market premium of 22% provides a substantial valuation re-rating for parent Reliance Industries. Strong retail and institutional interest is anticipated to unlock considerable shareholder value. The large liquidity absorption may create short-term churn across other large-cap telecom peers.",
+      "reasoning": "Filing the IPO prospectus for Reliance Jio represents a major value-unlocking catalyst for parent company Reliance Industries. Strategic updates regarding crude refining capabilities add further support to its core O2C business outlook. This landmark listing is expected to drive long-term re-rating for RIL.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "SENSEX, NIFTY50 snap two-day winning streak dragged by HDFC Bank, Axis Bank - Upstox",
-      "source": "Upstox",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFdLMEJnUjBEaXdVWVBHLWptV3RsZXY3eXlLekZLMVppMGd0Z2tna05faXBzZHBiU1VBd2pYR0tQdW8xaFZZYWIwaVZ1MG4xRnp5UmpXM1ktQmhMbWJaOURFN2RNamlValYzV2tXZmFTNHMtZDlmMW5sSW51TTRTNTItVWItVTRjQ2tJYkJwYTR3UTdHYzJvaEw2ZVFsbXRKS09CdzE1RmU3S2thUkx4RHV3VW9zY1JzSkRLcjNsU3AwTnMxNUQxNjFFSjVGQQ?oc=5",
+      "headline": "HDFC Bank has green shoots beyond Q2",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/market/mark-to-market/hdfc-bank-q2-quarterly-results-review-11792465354169.html",
       "affected_assets": [
-        "HDFC Bank",
-        "Axis Bank",
-        "Nifty 50"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.82,
-      "reasoning": "Leading private sector banks saw heavy selling pressure following post-earnings adjustments, dragging broader indices lower. Heavyweight banking institutions continue to face margin compression and deposit growth headwinds. This weakness creates broader downward momentum for benchmark indices in the short run.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "HFCL Q2 net profit jumps 448% to Rs 394 crore",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-net-profit-jumps-448-to-rs-394-crore/articleshow/135059308.cms",
-      "affected_assets": [
-        "HFCL"
+        "HDFC Bank"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.9,
-      "reasoning": "HFCL delivered exceptional financial performance with net profit surging over fourfold and revenue growing by 143% year-on-year. Massive demand in telecom infrastructure, optic fiber, and 5G network equipment rollouts is converting directly into margin expansion. This solid earnings beat is likely to trigger institutional upgrades and upward price re-rating.",
-      "action": "buy_opportunity",
+      "confidence": 0.75,
+      "reasoning": "Although net interest margins contracted to multi-quarter lows, resilient core operating earnings and stable asset quality indicate fundamental strength. Management's tilt toward high-yield loan assets is expected to drive gradual margin recovery. This offers a constructive setup for long-term investors looking for stability in private banking.",
+      "action": "watch",
       "category": "stock_specific"
     },
     {
-      "headline": "UltraTech Cement Q2 net profit up 21% in September quarter",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-net-profit-up-21-in-september-quarter/articleshow/135059234.cms",
+      "headline": "Gold Above Rs 1,47,000, Silver Near Rs 2.10 Lakh On Dussehra | Business",
+      "source": "Ommcom News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHMzdFUyQkFub0Joc2UybVZLUUlPc3QzekRWSFhJM3pJTV9IeW5PWWg0VXlCQmRvNHVtWEoyRHVPSXNXZmwtSlpTVmJaWXlyVmsyRUhBVENoaFVSREp5LXhXNE9na0laSmdFSm50ay16MDVISE5aalluYmwzcUN0ZXFzSzk2UkFuUUFFRDg4TG93eU5CbXB1cTBORQ?oc=5",
       "affected_assets": [
-        "UltraTech Cement",
-        "Ambuja Cements"
+        "Gold",
+        "Silver"
       ],
-      "asset_type": "stock",
+      "asset_type": "commodity",
       "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "UltraTech reported strong double-digit domestic volume growth of 14%, driving a 21% expansion in net profit despite monsoon-related seasonal slowdowns. Stable realization rates and robust infrastructure capex support ongoing operational leverage for the market leader. This performance sets a positive precedent for the broader construction materials sector.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "SBI data breach claim: Hackers allegedly access 3.75 lakh accounts",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-data-breach-claim-hackers-allegedly-access-3-75-lakh-accounts/articleshow/135059062.cms",
-      "affected_assets": [
-        "State Bank of India",
-        "Nifty PSU Bank"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.72,
-      "reasoning": "Allegations of a significant data breach impacting over 3.75 lakh accounts raise immediate regulatory and operational compliance concerns for State Bank of India. Potential fines, escalated cybersecurity audit expenses, and reputational fallout could weigh on the lender's near-term share performance. Continued uncertainty may also cause negative sentiment across public sector lenders.",
-      "action": "risk_alert",
-      "category": "stock_specific"
+      "confidence": 0.8,
+      "reasoning": "Precious metals hit major price thresholds, driven by sustained safe-haven demand amid energy price spikes and persistent geopolitical uncertainty. Gold and silver serve as essential hedges during equity pullbacks and inflationary pressures. The underlying structural rally in precious metals remains firmly intact.",
+      "action": "watch",
+      "category": "commodity"
     }
   ],
   "tweets": [],
