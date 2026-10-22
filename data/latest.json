@@ -1,84 +1,89 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T11:24:25+05:30",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T11:23:13+05:30",
   "market_pulse": {
-    "bullish": 4,
-    "bearish": 1,
+    "bullish": 2,
+    "bearish": 3,
     "neutral": 0
   },
   "insights": [
     {
-      "headline": "Indian bonds sell off on oil shock ahead of RBI policy minutes",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-sell-off-on-oil-shock-ahead-of-rbi-policy-minutes/articleshow/135082397.cms",
+      "headline": "Lumpy Jio IPO inflows push rupee into ‘overbought’ zone just as oil renews rise",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-impact-on-rupee-11792645448827.html",
       "affected_assets": [
-        "Indian Sovereign Bonds",
-        "Crude Oil",
-        "INR/USD"
+        "USD/INR",
+        "Reliance Industries",
+        "Crude Oil"
       ],
       "asset_type": "macro",
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Surging crude oil prices toward $110 per barrel pose a significant risk to India's inflation trajectory and trade balance. Spiking bond yields signal rising concerns that the RBI may delay rate cuts or maintain a hawkish stance. This macro shock creates broad headwinds for domestic equities and bond markets.",
-      "action": "risk_alert",
+      "reasoning": "Massive institutional foreign inflows into Jio Platforms' record-breaking IPO have caused short-term appreciation for the Indian Rupee against the US Dollar. However, concurrent upward pressure on global crude oil prices threatens to offset these currency gains over the medium term. The successful capital raise strongly reinforces sentiment and valuation support for Reliance Industries.",
+      "action": "watch",
       "category": "macro"
     },
     {
-      "headline": "Missed reversal in IT stocks? Jefferies gives 3 ideas with up to 50% re-rating potential",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reversal-in-it-stocks-jefferies-gives-3-ideas-with-up-to-50-re-rating-potential/articleshow/135083074.cms",
+      "headline": "Inflation remains top of mind, MPC minutes show",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/rbi-policy-inflation-mpc-minutes/articleshow/135108401.cms",
+      "affected_assets": [
+        "Nifty Bank",
+        "State Bank of India",
+        "Government Bonds"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.88,
+      "reasoning": "The hawkish tone in the RBI Monetary Policy Committee minutes suggests that policy interest rates will remain elevated for longer to curb persistent inflation. This delays the rate-cut cycle, negatively affecting rate-sensitive sectors such as real estate, auto, and NBFC borrowing margins. Bank treasury portfolios also face valuation headwinds from sustained high bond yields.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "₹4 lakh crore rally, ₹6,500 crore FII buying: Are IT stocks finally making a comeback?",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/4-lakh-crore-rally-6500-crore-fii-buying-are-it-stocks-finally-making-a-comeback/articleshow/135106664.cms",
       "affected_assets": [
         "TCS",
         "Infosys",
-        "Sagility"
+        "Nifty IT"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.8,
-      "reasoning": "Jefferies highlighted a strong valuation re-rating potential for top Indian IT firms despite moderate near-term revenue growth. Institutional upgrades on heavyweights like TCS and Infosys provide a positive fundamental catalyst. Investors may see renewed accumulation in tier-1 IT services.",
+      "confidence": 0.82,
+      "reasoning": "Substantial foreign institutional investor buying of over ₹6,400 crore signals a fundamental shift in sentiment towards Tier-1 Indian IT services. Renewed spending cycles and resilient quarterly margins support upward earnings revisions across large-cap tech. This sustained liquidity infusion serves as a strong medium-term accumulation trigger.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Jio filed IPO prospectus and set terms for Reliance stock",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1N3Tlc3WS0zVXMtZTJCMWJVLXRSY2tQaGUwM2R5UExLbEZacWNQTnMzMmZSeVR2aHN5N2N1UXpMOUJjUGs2LUFZUko2dHU5U3JFNFEtd1ptTm0zWGNiemY0cVBVYVdSam5sLV9vbEJXbVAyNkQxU0Ftd0drcGVKWVU2YUU5cS1fdUZLY2VTN0Q2Z0VPeHB3YTZwY1JQcW5jdjUtQUJYRE9UR1RRd2RzMGxKRkR1dXk5SkY1eQ?oc=5",
+      "headline": "Chinese stock market enters bear territory! CSI 300 index crashes 20% from June peak",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-stock-market-enters-bear-territory-csi-300-index-crashes-20-from-june-peak/articleshow/135108401.cms",
       "affected_assets": [
-        "Reliance Industries"
+        "Tata Steel",
+        "Hindalco",
+        "Emerging Market Equities"
       ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "Filing the IPO prospectus for Reliance Jio represents a major value-unlocking catalyst for parent company Reliance Industries. Strategic updates regarding crude refining capabilities add further support to its core O2C business outlook. This landmark listing is expected to drive long-term re-rating for RIL.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.86,
+      "reasoning": "China's benchmark index dropping into bear territory highlights deep-seated economic decelerations and domestic demand fragility. The economic slowdown in the world's largest consumer of commodities poses deflationary risks for industrial metals like steel and aluminium. Indian metal producers risk compressed export realisations and import dumping pressures.",
+      "action": "risk_alert",
+      "category": "geopolitical"
     },
     {
-      "headline": "HDFC Bank has green shoots beyond Q2",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/market/mark-to-market/hdfc-bank-q2-quarterly-results-review-11792465354169.html",
-      "affected_assets": [
-        "HDFC Bank"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.75,
-      "reasoning": "Although net interest margins contracted to multi-quarter lows, resilient core operating earnings and stable asset quality indicate fundamental strength. Management's tilt toward high-yield loan assets is expected to drive gradual margin recovery. This offers a constructive setup for long-term investors looking for stability in private banking.",
-      "action": "watch",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Gold Above Rs 1,47,000, Silver Near Rs 2.10 Lakh On Dussehra | Business",
-      "source": "Ommcom News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHMzdFUyQkFub0Joc2UybVZLUUlPc3QzekRWSFhJM3pJTV9IeW5PWWg0VXlCQmRvNHVtWEoyRHVPSXNXZmwtSlpTVmJaWXlyVmsyRUhBVENoaFVSREp5LXhXNE9na0laSmdFSm50ay16MDVISE5aalluYmwzcUN0ZXFzSzk2UkFuUUFFRDg4TG93eU5CbXB1cTBORQ?oc=5",
+      "headline": "Gold falls near $4,115 as Saudi attacks fuel inflation, Fed outlook in focus",
+      "source": "Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFlJU29rcTd3X0NNUnJRT0pLTGlwOVA2d0laT3Y4eDg1cHBEa1B5RTYyTURmWXRSRmFPbFFrMHZpZ3Jndm9Tb2RMdmFzblhjajJHclh2cW9TWDhiNjhkRnFNOFZtRmlTRUxOUEZvcmF6bldsbWFySHE5ZVF4X0I5T3ZPbU5sWWR0ZVdWNURnT3V4Vy0xbDFQYWR0YU9XajY4ZHJfQnFqalpiYy1YSU9nMm85dEpaLUFqRC1Xd3NNenFUR0gtSW1J?oc=5",
       "affected_assets": [
         "Gold",
-        "Silver"
+        "Silver",
+        "Crude Oil"
       ],
       "asset_type": "commodity",
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "reasoning": "Precious metals hit major price thresholds, driven by sustained safe-haven demand amid energy price spikes and persistent geopolitical uncertainty. Gold and silver serve as essential hedges during equity pullbacks and inflationary pressures. The underlying structural rally in precious metals remains firmly intact.",
+      "sentiment": "bearish",
+      "confidence": 0.78,
+      "reasoning": "Middle Eastern supply disruptions are re-igniting energy-led inflation fears, leading market participants to price in tighter Federal Reserve monetary policy. Expectations of elevated real yields diminish the attractiveness of non-yielding bullion, prompting liquidations in gold and silver. As rate cut probabilities recede, precious metals are likely to experience ongoing price consolidation.",
       "action": "watch",
       "category": "commodity"
     }

@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T11:23:13+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 3,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "Lumpy Jio IPO inflows push rupee into ‘overbought’ zone just as oil renews rise",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-impact-on-rupee-11792645448827.html",
+      "affected_assets": [
+        "USD/INR",
+        "Reliance Industries",
+        "Crude Oil"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Massive institutional foreign inflows into Jio Platforms' record-breaking IPO have caused short-term appreciation for the Indian Rupee against the US Dollar. However, concurrent upward pressure on global crude oil prices threatens to offset these currency gains over the medium term. The successful capital raise strongly reinforces sentiment and valuation support for Reliance Industries.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "Inflation remains top of mind, MPC minutes show",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/rbi-policy-inflation-mpc-minutes/articleshow/135108401.cms",
+      "affected_assets": [
+        "Nifty Bank",
+        "State Bank of India",
+        "Government Bonds"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.88,
+      "reasoning": "The hawkish tone in the RBI Monetary Policy Committee minutes suggests that policy interest rates will remain elevated for longer to curb persistent inflation. This delays the rate-cut cycle, negatively affecting rate-sensitive sectors such as real estate, auto, and NBFC borrowing margins. Bank treasury portfolios also face valuation headwinds from sustained high bond yields.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "₹4 lakh crore rally, ₹6,500 crore FII buying: Are IT stocks finally making a comeback?",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/4-lakh-crore-rally-6500-crore-fii-buying-are-it-stocks-finally-making-a-comeback/articleshow/135106664.cms",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "Nifty IT"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.82,
+      "reasoning": "Substantial foreign institutional investor buying of over ₹6,400 crore signals a fundamental shift in sentiment towards Tier-1 Indian IT services. Renewed spending cycles and resilient quarterly margins support upward earnings revisions across large-cap tech. This sustained liquidity infusion serves as a strong medium-term accumulation trigger.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Chinese stock market enters bear territory! CSI 300 index crashes 20% from June peak",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-stock-market-enters-bear-territory-csi-300-index-crashes-20-from-june-peak/articleshow/135108401.cms",
+      "affected_assets": [
+        "Tata Steel",
+        "Hindalco",
+        "Emerging Market Equities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.86,
+      "reasoning": "China's benchmark index dropping into bear territory highlights deep-seated economic decelerations and domestic demand fragility. The economic slowdown in the world's largest consumer of commodities poses deflationary risks for industrial metals like steel and aluminium. Indian metal producers risk compressed export realisations and import dumping pressures.",
+      "action": "risk_alert",
+      "category": "geopolitical"
+    },
+    {
+      "headline": "Gold falls near $4,115 as Saudi attacks fuel inflation, Fed outlook in focus",
+      "source": "Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFlJU29rcTd3X0NNUnJRT0pLTGlwOVA2d0laT3Y4eDg1cHBEa1B5RTYyTURmWXRSRmFPbFFrMHZpZ3Jndm9Tb2RMdmFzblhjajJHclh2cW9TWDhiNjhkRnFNOFZtRmlTRUxOUEZvcmF6bldsbWFySHE5ZVF4X0I5T3ZPbU5sWWR0ZVdWNURnT3V4Vy0xbDFQYWR0YU9XajY4ZHJfQnFqalpiYy1YSU9nMm85dEpaLUFqRC1Xd3NNenFUR0gtSW1J?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver",
+        "Crude Oil"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.78,
+      "reasoning": "Middle Eastern supply disruptions are re-igniting energy-led inflation fears, leading market participants to price in tighter Federal Reserve monetary policy. Expectations of elevated real yields diminish the attractiveness of non-yielding bullion, prompting liquidations in gold and silver. As rate cut probabilities recede, precious metals are likely to experience ongoing price consolidation.",
+      "action": "watch",
+      "category": "commodity"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
