@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T11:22:47+05:30",
+  "market_pulse": {
+    "bullish": 1,
+    "bearish": 4,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "IT stocks rebound sharply in October: TCS gains 22%, Wipro and Tech Mahindra gain 20% — 3 key reasons behind the jump",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZERDLUQySDZ1T1pSbEI5QkE4MDhRNHlHM253TXY1ZnduNE9mZGFORlZLS3JDZmRkRUZFNkJBWXRLcUVzNHJyMEJFWlhXR29EUmRib3JVSHpoSUk4RlRlSHpGM01fMS1CUjdJQ2otTU",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Tech Mahindra"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Stronger-than-expected September-quarter results and easing concerns over AI disruption have driven a massive rally in Indian IT majors. This sector-wide outperformance provides a strong cushion for major indices amid broader market sell-offs.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "HDFC Bank shares near 52-week low as insider leak probe rattles investors",
+      "source": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM1FNV1NTa1diUmV6Y24xaXhzaXRQU3hnUHpWQU9DZlJIci1fRjRkNzVGNTc2UFE5UVQwbnBPa2Rzb0VfSVZOQTBJUWh2N05CZ216cm84VnpLZ2h2TVJzd2ZlVWR1OHloUDJxUzdjaFhTV3IyN2Y5NVkwMVZzdXZiMHRteHg2RzZLMXk1c1p4STZJX3FDMjlQSDJHM25qODVDNW1wdk14V2FhSjlCUEcycWY4OGNDd0dZdHI2dEoxT2R5dSE",
+      "affected_assets": [
+        "HDFC Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "An ongoing insider leak probe creates significant regulatory and reputational risk, rattling investor confidence and pushing the stock near its 52-week low. Second-order effects could weigh on the broader banking index due to HDFC Bank's heavy weighting.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Sensex sinks over 1,000 pts from day's high, Nifty below 22,500. What's ahead for D-Street?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-400-points-nifty-below-22500-while-small-midcap-indices-plunge-up-to-3-what-lies-ahead-for-dalal-street/articleshow/135134693.cms",
+      "affected_assets": [
+        "Sensex",
+        "Nifty 50"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.9,
+      "reasoning": "Soaring global oil prices and severe liquidity outflows tied to mega IPO subscriptions and global AI sell-offs have triggered a sharp correction across Dalal Street. Broad-market pain indicates a defensive posture is warranted across equities.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Hindustan Zinc shares drop 4% as India allows large silver imports despite weak demand",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-drop-4-as-india-allows-large-silver-imports-despite-weak-demand/articleshow/135135402.cms",
+      "affected_assets": [
+        "Hindustan Zinc",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Government permits allowing massive silver imports despite sluggish domestic demand create an oversupply scenario, directly hurting local producers like Hindustan Zinc. This policy shift weighs heavily on domestic metal valuations.",
+      "action": "risk_alert",
+      "category": "commodity"
+    },
+    {
+      "headline": "RBI MPC minutes: Economists expect repo rate hike in December",
+      "source": "Mid-Day",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2ZqcnE2MlpDTGgxZy1RUTNleVFLRXEyYmdtcWdmQUpiaTg1elMwcXQ5SWxlZS1aOGhGUlQ3TU9IX29XLXBBNDBDM1J5N3lySUl1OWxqWnRJaHRsLXUwVXBVYlVTLUNSSVV2ZUpxVGZKbUxMbmZFTGc3akNhQy1iSno0Q0JXNkplTWt4dlFnbWN6aWVlanJka1ZQN015MDNmU1NERXZBMW9EaHh1ZWx2U1FJNkNMTUlmODBzSHNhMzBfMjVH",
+      "affected_assets": [
+        "Nifty Bank",
+        "Indian Rupee"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Persistent inflationary pressures highlighted in recent MPC minutes raise expectations of a repo rate hike in December. Higher interest rates typically create headwinds for banking margins and equity valuations.",
+      "action": "watch",
+      "category": "policy"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
