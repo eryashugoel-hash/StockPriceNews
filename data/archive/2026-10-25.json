@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T11:20:49+05:30",
+  "market_pulse": {
+    "bullish": 3,
+    "bearish": 0,
+    "neutral": 2
+  },
+  "insights": [
+    {
+      "headline": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-cr/articleshow/135182984.cms",
+      "affected_assets": [
+        "IDFC First Bank",
+        "Nifty Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "IDFC First Bank delivered strong headline earnings with net profit nearly tripling to Rs 1,045 crore, supported by robust loan growth and a 21% increase in net interest income. Although net interest margins softened slightly to 5.6%, healthy balance sheet expansion provides fundamental support for the stock.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Fed Rate Cuts Gain Support as Weak Jobs Data Weighs on Outlook",
+      "source": "GoogleNews (fed rate cut)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsZ3NDVndGRkZsT2JjdkQ1djE3T1ExMFhDNW5vekpldTV2TG1EYVN5UTdwaklxd1BWanU1QXUxRGcyY3dtV3RFNWhsQVVwTHBrZU9aOVBXakFhQ3BxeFFYX1Fnc3pUQnM?oc=5",
+      "affected_assets": [
+        "Nifty 50",
+        "Gold",
+        "US Dollar"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Weaker labor market readings bolster the narrative for monetary policy easing by the Federal Reserve. Lower benchmark yields and prospective dollar depreciation historically support capital flows toward emerging markets such as India, easing valuation pressures.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "Sebi to revamp short-selling, securities lending rules",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-revamp-short-selling-securities-lending-rules/articleshow/135182788.cms",
+      "affected_assets": [
+        "Nifty 50",
+        "Indian Equities"
+      ],
+      "asset_type": "stock",
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "reasoning": "SEBI is undertaking regulatory modernization around securities lending and short-selling to enhance market depth and price discovery. While institutional participants will benefit from enhanced liquidity in the long run, short-term structural changes may drive cautious positioning among algorithmic and derivative traders.",
+      "action": "watch",
+      "category": "policy"
+    },
+    {
+      "headline": "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTkpwdTBsdmRvVVQyUjdZaTdueVVqR3lHUFBPOUFiMEZCc2ZlNkl0MmtBRktRVmFWMHlwZlFWeUhBcmV3R0tROVVRWlZSQTNKYzFXLWFKenc0Z2ZRUjBEMVpJU2h6NzducGFObTVwOFZ5T2J2N2NueFZybDFYSUd4ek9JR20yczl3OGRjOTJ2alhfSWN6amRWOVd3R0x2OHZ2QjhjRGRzX19DZURpaWhCQXVoY2pEWTFDUTkwYVpBSHlTRGtLclk2WmRZT0l5U3BOdG9RS01UTjJlMzhhMkplS1BXWUtJUXVQZVhSaVpYM3g2WVV5MF96bXh0QWNraUZ1QVR6RjBrcG1uYnRX0gGSAkFVX3lxTE1OVU1ZMUhhR0lxRG1HaXFvemJnR2tuN2s0UWpjYzcwd3FsYmtwYVV0UkZtc0JWd2Zwb0x3OVktYkZZblNXUDFQeEtYN1pVWVlfc0h5NUVhQ3dGQlJaXzBxSm9CSjFsV0padDhGR3Bncnk1QWwzQ3dnUkpjWERwU29JQlgyWWU1NnR2Vjhqa0xDQ1lMTXZkWFdzMFZtZWZWWVdTNXJBdHNFcnZzZTlrSmhLekN4OG8yRDQwYWJKamhVN0RRMEpFdFRUUTlQaTVTeGFmTnIxNzBSd1dmOVBpNzU2dGhuYjVVNk13RDBGR2l6YmxUbGh2MG1wazZULUZKeHVYQlE1SzFvWnBpaFpGeFk0Unc?oc=5",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "HCL Technologies",
+        "Nifty IT"
+      ],
+      "asset_type": "stock",
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "reasoning": "Performance disparity among major IT service providers indicates continued selectivity in client discretionary IT spending. Differentiation is largely dictated by deal-win momentum in generative AI and cloud optimization, suggesting individual stock divergence rather than a sector-wide breakout.",
+      "action": "watch",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Massive Oil Spill Hits UAE Coast: Ras Al Khaimah Shuts Down All Beaches",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/world/massive-oil-spill-hits-uae-coast-ras-al-khaimah-shuts-down-all-beaches-12232104#publisher=newsstand",
+      "affected_assets": [
+        "Brent Crude",
+        "Indian Oil Corporation",
+        "BPCL",
+        "HPCL"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "reasoning": "A major environmental disruption along the UAE coastline could prompt localized shipping disruptions and maritime traffic realignments near critical Strait of Hormuz transit lanes. Any friction in Gulf export channels introduces a temporary upside risk premium into crude benchmarks, moderately raising input costs for Indian refiners.",
+      "action": "risk_alert",
+      "category": "commodity"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

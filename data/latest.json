@@ -1,85 +1,92 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T11:05:21+05:30",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T11:20:49+05:30",
   "market_pulse": {
     "bullish": 3,
-    "bearish": 1,
-    "neutral": 1
+    "bearish": 0,
+    "neutral": 2
   },
   "insights": [
     {
-      "headline": "Friday blockbuster for Jio IPO: Rs 7.4 lakh crore bids, 22x subscription",
+      "headline": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/friday-blockbuster-for-jio-ipo-rs-7-4-lakh-crore-bids-22x-subscription/articleshow/135160249.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-cr/articleshow/135182984.cms",
       "affected_assets": [
-        "Reliance Industries",
-        "Jio Platforms"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.9,
-      "reasoning": "Massive demand for the Jio IPO with over 22x subscription and record demand reflects strong investor confidence. This successful capital raise is expected to unlock value for Reliance Industries and enhance market sentiment across telecom equities.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Adani Power profit surges 142% on strong demand amid weak rains",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-profit-surges-142-on-strong-demand-amid-weak-rains/articleshow/135161231.cms",
-      "affected_assets": [
-        "Adani Power"
+        "IDFC First Bank",
+        "Nifty Bank"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Adani Power delivered a 142% jump in net profit driven by heightened power demand and high operational capacity. The stellar financial performance reinforces strong earnings momentum for the company.",
+      "reasoning": "IDFC First Bank delivered strong headline earnings with net profit nearly tripling to Rs 1,045 crore, supported by robust loan growth and a 21% increase in net interest income. Although net interest margins softened slightly to 5.6%, healthy balance sheet expansion provides fundamental support for the stock.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Gold declines over ₹1,000 per 10 grams, silver tumbles ₹4,191 per kg on MCX",
-      "source": "CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2l0M0ZOUDlGd0JfQ2VBWGhYcmloY0FlREhVUHJCUlBUdHcwbkRONkdma2x0Z0p4SGh0eXB5N2NmcXJsdnZVZW1PUEtlMkFBX0FrbUR5V3hoWF_4V_xW",
-      "affected_assets": [
-        "Gold",
-        "Silver"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "Precious metals experienced a sharp drop on the domestic exchange due to global rate expectations and profit booking. The technical breakdown in silver signals short-term risk for bullion traders.",
-      "action": "risk_alert",
-      "category": "commodity"
-    },
-    {
-      "headline": "Private sector activity hits four month high in October",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/private-sector-activity-hits-four-month-high-in-october/articleshow/135161114.cms",
+      "headline": "Fed Rate Cuts Gain Support as Weak Jobs Data Weighs on Outlook",
+      "source": "GoogleNews (fed rate cut)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsZ3NDVndGRkZsT2JjdkQ1djE3T1ExMFhDNW5vekpldTV2TG1EYVN5UTdwaklxd1BWanU1QXUxRGcyY3dtV3RFNWhsQVVwTHBrZU9aOVBXakFhQ3BxeFFYX1Fnc3pUQnM?oc=5",
       "affected_assets": [
         "Nifty 50",
-        "BSE Sensex"
+        "Gold",
+        "US Dollar"
       ],
       "asset_type": "macro",
       "sentiment": "bullish",
       "confidence": 0.8,
-      "reasoning": "India's Flash Composite PMI rose to 56.7 in October, indicating robust expansion in service and manufacturing sectors. Strong demand and rising order flows support solid macroeconomic fundamentals for broader equity markets.",
-      "action": "buy_opportunity",
+      "reasoning": "Weaker labor market readings bolster the narrative for monetary policy easing by the Federal Reserve. Lower benchmark yields and prospective dollar depreciation historically support capital flows toward emerging markets such as India, easing valuation pressures.",
+      "action": "watch",
       "category": "macro"
     },
     {
-      "headline": "RBI's ₹2.5 trillion liquidity infusion sends mixed signals: SBI Research",
-      "source": "Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU1dYMFpLRng1bUpzbVk2REc2NmQtekRzWFpDNzlZbnBWTDBKNTN1dkdfbVVGZEh4c2VESFUxUmZNcmtZWHNfVzVwTmlydVJMM2huYTRPenJUbUwwaldFMlhUV1hGUXlPeHJzak5KVUJiLUktSmlCVjY3QktrcDFtaDJha3hkOF9ITFVtX2xLV2IyNHctSl9ZSUhiZ2R0WUQ0OFBjdkt6dnlEQTYtQ1llM2RkLW84OWswMldJa2cyX1g0bTl5eUlsaDh4cFdoNnEzX3lv0gHYAUFVX3lxTE45MDVUNS05d0s2TE1xRFlDbHhnREl1VF85TTdFd1d5MGpzQ2JzQ2VFbnBKOHBnVDNyVWpucFVIRGFLUk43Vl_4V_xW",
+      "headline": "Sebi to revamp short-selling, securities lending rules",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-revamp-short-selling-securities-lending-rules/articleshow/135182788.cms",
       "affected_assets": [
-        "Nifty Bank",
-        "Banking Stocks"
+        "Nifty 50",
+        "Indian Equities"
       ],
-      "asset_type": "macro",
+      "asset_type": "stock",
       "sentiment": "neutral",
       "confidence": 0.75,
-      "reasoning": "The massive liquidity infusion helps ease banking sector credit conditions but raises questions about persistent monetary friction. Financial markets may remain range-bound until clearer policy guidance emerges.",
+      "reasoning": "SEBI is undertaking regulatory modernization around securities lending and short-selling to enhance market depth and price discovery. While institutional participants will benefit from enhanced liquidity in the long run, short-term structural changes may drive cautious positioning among algorithmic and derivative traders.",
       "action": "watch",
       "category": "policy"
+    },
+    {
+      "headline": "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTkpwdTBsdmRvVVQyUjdZaTdueVVqR3lHUFBPOUFiMEZCc2ZlNkl0MmtBRktRVmFWMHlwZlFWeUhBcmV3R0tROVVRWlZSQTNKYzFXLWFKenc0Z2ZRUjBEMVpJU2h6NzducGFObTVwOFZ5T2J2N2NueFZybDFYSUd4ek9JR20yczl3OGRjOTJ2alhfSWN6amRWOVd3R0x2OHZ2QjhjRGRzX19DZURpaWhCQXVoY2pEWTFDUTkwYVpBSHlTRGtLclk2WmRZT0l5U3BOdG9RS01UTjJlMzhhMkplS1BXWUtJUXVQZVhSaVpYM3g2WVV5MF96bXh0QWNraUZ1QVR6RjBrcG1uYnRX0gGSAkFVX3lxTE1OVU1ZMUhhR0lxRG1HaXFvemJnR2tuN2s0UWpjYzcwd3FsYmtwYVV0UkZtc0JWd2Zwb0x3OVktYkZZblNXUDFQeEtYN1pVWVlfc0h5NUVhQ3dGQlJaXzBxSm9CSjFsV0padDhGR3Bncnk1QWwzQ3dnUkpjWERwU29JQlgyWWU1NnR2Vjhqa0xDQ1lMTXZkWFdzMFZtZWZWWVdTNXJBdHNFcnZzZTlrSmhLekN4OG8yRDQwYWJKamhVN0RRMEpFdFRUUTlQaTVTeGFmTnIxNzBSd1dmOVBpNzU2dGhuYjVVNk13RDBGR2l6YmxUbGh2MG1wazZULUZKeHVYQlE1SzFvWnBpaFpGeFk0Unc?oc=5",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "HCL Technologies",
+        "Nifty IT"
+      ],
+      "asset_type": "stock",
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "reasoning": "Performance disparity among major IT service providers indicates continued selectivity in client discretionary IT spending. Differentiation is largely dictated by deal-win momentum in generative AI and cloud optimization, suggesting individual stock divergence rather than a sector-wide breakout.",
+      "action": "watch",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Massive Oil Spill Hits UAE Coast: Ras Al Khaimah Shuts Down All Beaches",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/world/massive-oil-spill-hits-uae-coast-ras-al-khaimah-shuts-down-all-beaches-12232104#publisher=newsstand",
+      "affected_assets": [
+        "Brent Crude",
+        "Indian Oil Corporation",
+        "BPCL",
+        "HPCL"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "reasoning": "A major environmental disruption along the UAE coastline could prompt localized shipping disruptions and maritime traffic realignments near critical Strait of Hormuz transit lanes. Any friction in Gulf export channels introduces a temporary upside risk premium into crude benchmarks, moderately raising input costs for Indian refiners.",
+      "action": "risk_alert",
+      "category": "commodity"
     }
   ],
   "tweets": [],
