@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T11:26:36+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 1,
+    "neutral": 2
+  },
+  "insights": [
+    {
+      "headline": "Infosys Share Price Falls Over 3% After Q2 Results. Should You Buy, Sell Or Hold The IT Stock?",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHNDaVVmVGJ3bGF0YmhLdEhVeXVEWWlkaTBzSFFoMW9TZTZUVmhZZ0FmSjdZay1kV1RBMUVzdkdfMlkzV0E4WWgtcXJqSW1ZTEpueUFjQUN1ejFRUDc2NGw1dkZvNEd6SmtBeVBrcS1kUF_yTV_hYlo3Tlh2eTRGMW1pZzc3dlVTX3VnRGNhQm90MzR3ajllZGZtMHV5c0JkYmQwTUxlbm9DclBFajdPSUxHeHk2RDc5RG9GU1VXRTJPWERTdW1OYkxVajEyMFHSAdcBQVVfeXFMTkxvWjlfbVlyWlBtRUtseVpmcDRXYndXaE05Yy1uNWJEaFdXZ2Q4Z1lOeVZyV3Znd2xSVzh4VHJQLVM1ZWgxSzczdVl3TjdJS1JaSUJMd0txSjYySklDem5uM1pDUHpVYXplV1ZaYVhUWklpT2s1SUk5YzVkMzc1VUVIUUh5MjQ1RVF1VHpCbHYwNFozenNKakZTTXlvSkZza0F4a2Q5V2dubF9MOE1tMlo0NjNseDNWcXliSWduc1g3cFExUlhRWl_yVW92dDVwRlB1U1dyM0U?oc=5",
+      "affected_assets": [
+        "Infosys",
+        "Nifty IT"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Infosys stock experienced a sharp pullback following its second-quarter earnings release. Disappointment around margin trajectory or revenue growth guidance often triggers short-term profit booking across the IT sector.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Bharat Coking Coal shares rally 5% after Q2 profit turnaround; revenue jumps 39% YoY",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-coking-coal-shares-rally-5-after-q2-profit-turnaround-revenue-jumps-39-yoy/articleshow/135203231.cms",
+      "affected_assets": [
+        "Bharat Coking Coal",
+        "Coal India"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "The company demonstrated a significant operational turnaround in Q2 FY27 with net profit reaching Rs 123.7 crore alongside robust 39% revenue growth YoY. Strong earnings turnarounds typically sustain short-to-medium term bullish momentum.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "US stocks face crucial test as AI earnings, Fed meeting loom",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-face-crucial-test-as-ai-earnings-fed-meeting-loom/articleshow/135203072.cms",
+      "affected_assets": [
+        "US Equities",
+        "Nifty 50"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "reasoning": "Global equity markets are taking a cautious approach ahead of earnings announcements from major tech giants and the upcoming Federal Reserve policy decision. Volatility is expected to remain high until monetary policy direction and AI monetization clarity emerge.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "Commodity Corner: Oil prices ease, gold steadies ahead of Fed policy meeting",
+      "source": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdU5QWWJjWG93N0J1R2g1c0p3ZHlycV_dNzZZS29Oam50VHo5Y2w1cnoyaENjVXFSQVdfNnRWeXpMblpsMU9keWoxcWdISzQxYzdPdjJsa2NQNHhVQkV1RzVqUGtsUjdTOHFPQ1VBWlBwVHFLR0xVV1lzcnpDeGJMeEduMDQySUFjdVF4MGd1cnNNY21Ydm9hbTl2YUo0NzFqUWVhT2o0V1hmYTAwU3lTYnZKQkZGWnE1SVZEZG5YN2VxZW9xcnJJVHFZbzFQdS1IUGEzZ25B0gHbAUFVX3lxTE55WnViRzQ3UjVlR29Nd3NlTUZRbEJBV1RkRFUxYWU4Z1RDdlpYY1dwX0hETWZHTWdNRHhZQnNWZ0ZiWnIxSGNudmJyR3YyOElHXzN1MnI4VU5FVDZCLUVrX2p1SVQxTDJFODJiYVBRbmpTLVAyVDEwam51S01TX013RGVEYzllSVd0bFBqY3BwNlkyR3B5UTBxSnVQWFJrS3p1b3RaZFVMT1RHTzgtQXVreFJVTHFsb28xOUtYSkwzVHJCU2VQcUdnb2dUVm40NGg4MlZYbzNWSkRFNA?oc=5",
+      "affected_assets": [
+        "Crude Oil",
+        "Gold"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "neutral",
+      "confidence": 0.85,
+      "reasoning": "Crude oil soft prices benefit import-dependent economies like India by cooling inflationary pressure, while steady gold signals persistent macro hedging. Traders are waiting for central bank rate guidance before taking decisive positions.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Sensex rises 200 pts, Nifty above 22,600 as market snaps 4-day losing streak. Is the relief rally sustainable?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-pts-nifty-above-22600-as-market-snaps-4-day-losing-streak-is-the-relief-rally-sustainable/articleshow/135203034.cms",
+      "affected_assets": [
+        "Nifty 50",
+        "Sensex"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "reasoning": "Indian equity markets snapped a 4-day losing streak driven by short covering and selective buying in metals and banking stocks. While a technical bounce is evident, sustainable upside relies on sustained domestic inflows and Q2 earnings stability.",
+      "action": "watch",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
