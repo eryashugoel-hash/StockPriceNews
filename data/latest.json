@@ -1,86 +1,94 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T11:26:36+05:30",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T11:35:31+05:30",
   "market_pulse": {
-    "bullish": 2,
-    "bearish": 1,
-    "neutral": 2
+    "bullish": 1,
+    "bearish": 3,
+    "neutral": 1
   },
   "insights": [
     {
-      "headline": "Infosys Share Price Falls Over 3% After Q2 Results. Should You Buy, Sell Or Hold The IT Stock?",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHNDaVVmVGJ3bGF0YmhLdEhVeXVEWWlkaTBzSFFoMW9TZTZUVmhZZ0FmSjdZay1kV1RBMUVzdkdfMlkzV0E4WWgtcXJqSW1ZTEpueUFjQUN1ejFRUDc2NGw1dkZvNEd6SmtBeVBrcS1kUF_yTV_hYlo3Tlh2eTRGMW1pZzc3dlVTX3VnRGNhQm90MzR3ajllZGZtMHV5c0JkYmQwTUxlbm9DclBFajdPSUxHeHk2RDc5RG9GU1VXRTJPWERTdW1OYkxVajEyMFHSAdcBQVVfeXFMTkxvWjlfbVlyWlBtRUtseVpmcDRXYndXaE05Yy1uNWJEaFdXZ2Q4Z1lOeVZyV3Znd2xSVzh4VHJQLVM1ZWgxSzczdVl3TjdJS1JaSUJMd0txSjYySklDem5uM1pDUHpVYXplV1ZaYVhUWklpT2s1SUk5YzVkMzc1VUVIUUh5MjQ1RVF1VHpCbHYwNFozenNKakZTTXlvSkZza0F4a2Q5V2dubF9MOE1tMlo0NjNseDNWcXliSWduc1g3cFExUlhRWl_yVW92dDVwRlB1U1dyM0U?oc=5",
+      "headline": "IT stocks crash! Infosys, TCS, Wipro, HCL Tech - Nifty IT tanks over 2% today, biggest sectoral loser - What lies ahead?",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYnBJTGozOVAxVkk0dzRuanBZdXc3RDY3Rl8ybktDSTBTbEM0ZEk0Szcyd1Z6UVF4T2pwTVpRUzRJblQxLU9LLUJXS184aDZnWmF0LVNkV1JpR1E3RWFlN1p6amNUZVl5RUFkdG9DLTVqNWdQaEV1TlpnNVdpLV9Gc01hVmVycDZRcnpVZXU5Nk5TV1pfMDU2dldONUVmVHdXNktocldIdUxoMHM5NGNTNDRaUlFUaDBIM1ozN01hTko5dXo5TWRxeWV5bWJVc2RpTjJjLWVvS2JVUHV3bWZlRFRraVBZUC1JNWtwS3Rod29ka1BNVmNGaHZnanJCR3ZWSjFqYTRMMlJBZ1U?oc=5",
       "affected_assets": [
+        "TCS",
         "Infosys",
-        "Nifty IT"
+        "Wipro",
+        "HCL Tech",
+        "Nifty IT Index"
       ],
       "asset_type": "stock",
       "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "Infosys stock experienced a sharp pullback following its second-quarter earnings release. Disappointment around margin trajectory or revenue growth guidance often triggers short-term profit booking across the IT sector.",
+      "confidence": 0.88,
+      "reasoning": "The sharp decline across major IT heavyweights reflects heightened client spending caution and margin headwinds amid global macro uncertainty. Given heavy US and European exposure, prolonged enterprise IT budget freezes will delay fundamental revenue recovery. This poses short-term downside risks for valuation multiples across tier-1 Indian technology exporters.",
       "action": "risk_alert",
       "category": "stock_specific"
     },
     {
-      "headline": "Bharat Coking Coal shares rally 5% after Q2 profit turnaround; revenue jumps 39% YoY",
+      "headline": "Sensex, Nifty extend gains despite oil hovering near $115/barrel. What lies ahead?",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-coking-coal-shares-rally-5-after-q2-profit-turnaround-revenue-jumps-39-yoy/articleshow/135203231.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-extend-gains-despite-oil-hovering-near-115/barrel-what-lies-ahead/articleshow/135224717.cms",
       "affected_assets": [
-        "Bharat Coking Coal",
-        "Coal India"
+        "Nifty 50",
+        "Sensex",
+        "Crude Oil",
+        "Indian Rupee"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.82,
+      "reasoning": "Crude oil sustaining near $115 per barrel presents a direct challenge for India's trade deficit, imported inflation, and currency stability. While domestic market resilience shows robust retail and DII support, high energy input costs threaten corporate margins across auto, paints, and manufacturing. The divergence between index performance and oil headwinds warrants caution.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "HDFC Bank appoints Anup Bagchi as MD & CEO effective Oct 27, 2026",
+      "source": "scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnE1T2pvS3A5QWZESXF0NW01V3dpSXpYSC10enQwQnJqUkpBcjR4MUJJRzBEelNyaHpqWDRWd3U0X1paZi05M1g1c1d0THpqT1Y2WXdZMWxKeGdZT3QxQVNiY1BSUHQydGpScDYxZThKSy0wRl9aNXlPcVpMdlBOOXZ1WFJCN19ZZ0tqb19IRWNJakN5TEdIeVBhMlBWYTdIS0U2LUJHNzI0aEw4Qjh3dUZJMDRfdVE?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "Bank Nifty Index"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.9,
-      "reasoning": "The company demonstrated a significant operational turnaround in Q2 FY27 with net profit reaching Rs 123.7 crore alongside robust 39% revenue growth YoY. Strong earnings turnarounds typically sustain short-to-medium term bullish momentum.",
+      "confidence": 0.85,
+      "reasoning": "The appointment resolves leadership uncertainty at India's largest private lender, providing strategic continuity and clarity for institutional investors. Bagchi brings deep retail banking and execution pedigree, vital for accelerating post-merger deposit mobilisation and margin expansion. This clear leadership roadmap is fundamentally supportive of credit growth targets.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "US stocks face crucial test as AI earnings, Fed meeting loom",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-face-crucial-test-as-ai-earnings-fed-meeting-loom/articleshow/135203072.cms",
+      "headline": "Fed likely to hold this week, but December hike odds top 70%",
+      "source": "InvestmentNews",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDZLRkh0TXlfWFVzb3FmMzduSU5BY2VKTlFyUC1CX1VhQWFpbUo2NjJWRTYxOEFpMkZqTVd4c0hfaWpiWEliYnNFeVJHbjZfa0lnMHk2SXJuNWh1MmVZaHAxVFAzcUxmbUpnMU1mVS01ZC1PLU1weWh5Vm1mcTU3ZFo0ZW9vcktmMDd5NmVDS2RWSVFZd1JvVmw5Y3daQjUwaWRUa1ZtRnJmSno5blZob0R3?oc=5",
       "affected_assets": [
-        "US Equities",
-        "Nifty 50"
+        "US Dollar Index",
+        "Nifty 50",
+        "FII Inflows",
+        "Emerging Market Equities"
       ],
       "asset_type": "macro",
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "confidence": 0.8,
-      "reasoning": "Global equity markets are taking a cautious approach ahead of earnings announcements from major tech giants and the upcoming Federal Reserve policy decision. Volatility is expected to remain high until monetary policy direction and AI monetization clarity emerge.",
-      "action": "watch",
-      "category": "macro"
+      "reasoning": "Surging probabilities for a future rate hike indicate the Fed's prolonged hawkish stance to quell persistent inflationary pressures. Elevated US Treasury yields reduce the equity risk premium and will likely spur foreign portfolio outflows from emerging markets like India. Tighter global financial conditions will also dampen growth forecasts for interest-rate-sensitive sectors.",
+      "action": "risk_alert",
+      "category": "policy"
     },
     {
-      "headline": "Commodity Corner: Oil prices ease, gold steadies ahead of Fed policy meeting",
-      "source": "Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdU5QWWJjWG93N0J1R2g1c0p3ZHlycV_dNzZZS29Oam50VHo5Y2w1cnoyaENjVXFSQVdfNnRWeXpMblpsMU9keWoxcWdISzQxYzdPdjJsa2NQNHhVQkV1RzVqUGtsUjdTOHFPQ1VBWlBwVHFLR0xVV1lzcnpDeGJMeEduMDQySUFjdVF4MGd1cnNNY21Ydm9hbTl2YUo0NzFqUWVhT2o0V1hmYTAwU3lTYnZKQkZGWnE1SVZEZG5YN2VxZW9xcnJJVHFZbzFQdS1IUGEzZ25B0gHbAUFVX3lxTE55WnViRzQ3UjVlR29Nd3NlTUZRbEJBV1RkRFUxYWU4Z1RDdlpYY1dwX0hETWZHTWdNRHhZQnNWZ0ZiWnIxSGNudmJyR3YyOElHXzN1MnI4VU5FVDZCLUVrX2p1SVQxTDJFODJiYVBRbmpTLVAyVDEwam51S01TX013RGVEYzllSVd0bFBqY3BwNlkyR3B5UTBxSnVQWFJrS3p1b3RaZFVMT1RHTzgtQXVreFJVTHFsb28xOUtYSkwzVHJCU2VQcUdnb2dUVm40NGg4MlZYbzNWSkRFNA?oc=5",
+      "headline": "Gold prices dip Rs 500/10 grams; silver falls Rs 2,400/kg as traders eye US Fed meet this week. What should you do?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-500/10-grams-silver-falls-rs-2400/kg-as-traders-eye-us-fed-meet-this-week-what-should-you-do/articleshow/135224447.cms",
       "affected_assets": [
-        "Crude Oil",
-        "Gold"
+        "Gold MCX",
+        "Silver MCX",
+        "US Dollar"
       ],
       "asset_type": "commodity",
-      "sentiment": "neutral",
-      "confidence": 0.85,
-      "reasoning": "Crude oil soft prices benefit import-dependent economies like India by cooling inflationary pressure, while steady gold signals persistent macro hedging. Traders are waiting for central bank rate guidance before taking decisive positions.",
+      "sentiment": "bearish",
+      "confidence": 0.84,
+      "reasoning": "Bullion prices are retreating under dollar strength and elevated sovereign bond yields ahead of key central bank rate decisions. Higher for longer interest rate expectations diminish the non-yielding appeal of precious metals in the short term. Despite geopolitical tailwinds, immediate price action is dominated by monetary policy overhang.",
       "action": "watch",
       "category": "commodity"
-    },
-    {
-      "headline": "Sensex rises 200 pts, Nifty above 22,600 as market snaps 4-day losing streak. Is the relief rally sustainable?",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-pts-nifty-above-22600-as-market-snaps-4-day-losing-streak-is-the-relief-rally-sustainable/articleshow/135203034.cms",
-      "affected_assets": [
-        "Nifty 50",
-        "Sensex"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bullish",
-      "confidence": 0.75,
-      "reasoning": "Indian equity markets snapped a 4-day losing streak driven by short covering and selective buying in metals and banking stocks. While a technical bounce is evident, sustainable upside relies on sustained domestic inflows and Q2 earnings stability.",
-      "action": "watch",
-      "category": "macro"
     }
   ],
   "tweets": [],
