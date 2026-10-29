@@ -1,89 +1,84 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T12:12:00+05:30",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T12:24:25+05:30",
   "market_pulse": {
-    "bullish": 2,
-    "bearish": 3,
+    "bullish": 3,
+    "bearish": 2,
     "neutral": 0
   },
   "insights": [
     {
-      "headline": "Nifty IT index slips 4%; Infosys, TCS, Coforge tank up to 5%; here's why - Business Standard",
-      "source": "Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNUhnVFNGMFlHd0l2My1HVzZBUlVjbERNbVNMQ0ZvTnlIU3ByNjJBUVBIanFObTk0LWhBblliS2pmanlCSTJkd19KR2I1WGZrTHQ1SmRxeWppVkpFQ29rVDhxRG9qdF9iTWpCQWFSYUFYVFNWVUFNcW5jZ1UzSWRId0Z1M1ZRbU9iNG1XRWtKUDRqVllZS1VndU04ZGdIZVNlLWpxaHBFUmFLbjV5RHlkMzExbEdJRXhId1dHTWgwTlhqRlRYRVVIc0xySnAwUdIB0wFBVV95cUxNSExPR0o2WTlpN0F3SXlQZEV3dXRQYm1LZVE1aVUtNmdCd3QtcDdIMWxMV2pQbzNRZ0dtVW5VWUZINjgxYjZ1YmtmdTVRX2VUTnF1NzZxcWZmYlJmbVhMbGJaSUtYR1RIMWtMQ0Q5am8tRUMwc185em42RExDMWZhZHNPMVNWZVBkWVBCM3JpM2d5WWtLYnF5eDJJRHBhaHZoSWYxOS10T18wV3FaU1o1cUNnLW9fS0d3MEpFeHlWamJYNXRmNE1adEhvMFdjX2RKOWpn?oc=5",
+      "headline": "From Dhirubhai Ambani’s Rs 10 crore IPO to Akash Ambani’s Rs 12.5 lakh crore Jio debut: Reliance’s biggest - The Economic Times",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWWw1emlVOGhLN09KYjhJUXJGSWctTzFiSF9nVFlfVHlwcTFaNUE2SjZkWmllaE92NHRxZU5MUTlULWlRcmFvdkdDWFhYX2twLUt0ay1iNnYyNTVQVlBuNnkxNXlpaktReTB0MnFwNFJZajB2Q0N6X3lvdmhmSEFXYUQwMkNnQ3VFNFpXYVhHblpVbWI5bDNOcEQ5QnQ0QV9vS3NURGMxQVg2dVJ0c3dhMHZSSUxtQ2Y3aXlFdzJobDJlQnVhQ1duMHNFdHFrMXdNUkE5VEVwOE1TMXpzZnFvSlRVN2JrSVNRbndSblJkU3JJZlR3M3FRR2w4UEhNcVJfVFphWU1YNWR0N19JR3FjRTNYa3Vhb2Ro0gGeAkFVX3lxTE9BQ1ljT0N0UmVGRWJ3dXVrS1VuZ0NESXhqS0w4RmN0N01peFJ4RXowWVBzcmNRUFYwaFZ0VE0wUkJSMEJ0UFZNXzJwUy1JM0RpUU1UNmhOdXFQUzBwU0JvWk5UN1JhRzJhVE5GME9JZXNfVXc5dzM1cllIOVdsNS1nS2hkQjZ1azRnakNtbWVJc0VKQ0xpWHJDenlnZnVkN1pwVjFBcmZKelNxVy1lYm1FWHhUd0lNMk56ZS11VzNjTGR6QU9Jb1V4SjVoVmxBSEd3OUhuZ2VGc3daM1ZxSFhjWkU2elBGc1AtVnNrM19DZElPZE92bTlQM0FVeGh6T1l1MFNRdktQaU1xaXdyTkw5endBWldtNEdyc0tWNkE?oc=5",
       "affected_assets": [
-        "TCS",
-        "Infosys",
-        "Coforge",
-        "Nifty IT"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.88,
-      "reasoning": "A steep decline of up to 5 percent across leading IT firms points to sustained client spend hesitation in North American and European markets. This broad-based valuation compression reflects trimmed short-term guidance and revenue growth concerns for Indian tier-1 software exporters.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "India bonds sink on oil spike before Fed decision",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-on-oil-spike-before-fed-decision/articleshow/135253447.cms",
-      "affected_assets": [
-        "Indian Sovereign Bonds",
-        "Crude Oil",
-        "USD/INR"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "Rising Brent crude prices driven by Middle East supply anxieties directly worsen India's current account deficit and inflame imported inflation expectations. The resulting yield spike in government securities signals tightening domestic financial conditions ahead of the US FOMC policy verdict.",
-      "action": "watch",
-      "category": "macro"
-    },
-    {
-      "headline": "Maruti Suzuki shares see target price cuts by Jefferies, Nomura, other brokerages after Q2 net profit drops 26% YoY. What’s ahead?",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-see-target-price-cuts-by-jefferies-nomura-other-brokerages-after-q2-net-profit-drops-26-yoy-whats-ahead/articleshow/135254335.cms",
-      "affected_assets": [
-        "Maruti Suzuki",
-        "Nifty Auto"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.87,
-      "reasoning": "A 26 percent year-over-year contraction in quarterly net profit and subsequent brokerage target downgrades signal clear margin headwind pressures. Elevated discounting and softening entry-level passenger vehicle demand fundamentally impair Maruti's medium-term earnings outlook.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "United Breweries shares rally 14% after Q2FY27 profit jumps 191% YoY",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/united-breweries-shares-rally-14-after-q2fy27-profit-jumps-191-yoy/articleshow/135253508.cms",
-      "affected_assets": [
-        "United Breweries"
+        "Reliance Industries",
+        "Jio Platforms"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.9,
-      "reasoning": "A 191 percent year-over-year surge in net profit combined with robust top-line revenue growth of 24 percent demonstrates superior pricing power and operating leverage. The blowout numbers reinforce positive structural consumer sentiment and justify potential upward revisions in full-year EPS forecasts.",
+      "reasoning": "The historic debut and massive valuation unlocking of Jio Platforms substantially enhance parent entity value for Reliance Industries. Monumental market demand and debt reduction strengthen conglomerate fundamentals. This structural re-rating serves as a sustained tailwind for energy-to-telecom valuations.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "TCS Out, Jio In! Reliance Jio's listing shakes up India’s rich list: IT major crashes out of top 5 as shares tumble 3.5% - Livemint",
-      "source": "Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVVUxaWpEbzVzNW00N3JyWkJNeFNPOG9WakJtSTk0bzl4N1ZIZ0stVjNMcmItVEhkcC15MnZtUml2TmxNWklSS25PYjJoQWtadDJKOTRDSERzNDhZNi1ZZHMyRlBMa3doUDRNYndLcUR4U2lKcmppWjNrdzkxdEpVR2ZmazJvU1JFRkJIUXdObkh2LTFsQlJqeFZacElRdDBGX1dMbjJDTGxfWTQweldFWHk4VWRra2k3MDVFbEhqc0szajRVcngxbGFlQ3R3UzdhZXJOY2ZKYnBpaVR0d0VjazdCcXhiLVNEQkVDZmdVbllnZV9NbWdwaFBR0gH_AUFVX3lxTE1BV01ieDUxVk9La1NjczIxcHJWdGpZNVZrbjl1M1M2RDhWQkpRazcwT0VJUWRoMG1ZcHM0dmV2WXZueDdkWUcyRU1DQTZEWE4ySjBkM1hrLVdncDc2bGdzdGo5RVpObS1GQzk0VWtJbGlObXEzT05HcF82dkUxajIwQmJEZHNQNFh2ZVBBNTlDWG85ZGh6cG9Kcy1EZW01VlozS0ZFTGZkY2xvUTBlZy1YVzhvemlsWkZwczVIUlZmSUVxRUFiWm5oNWMxNmdORzk5T3ZoSENxNHM3WWI3aUYtdDdZUjhBUXZWZ1h3bEh6djk1bnRCX242NkMwUnUxRQ?oc=5",
+      "headline": "JSW Energy Q2 profit jumps 50%; 3 gigawatt target on track",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-energy-q2-profit-jumps-50-3-gigawatt-target-on-track/articleshow/135288014.cms",
       "affected_assets": [
-        "Reliance Industries",
-        "Jio Platforms",
-        "TCS"
+        "JSW Energy"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.83,
-      "reasoning": "The robust market debut of Jio Platforms unlocks massive value for Reliance Industries while triggering institutional portfolio weight rebalancing across large caps. Although traditional bellwethers face liquidity diversion, the successful listing bolsters overall liquidity and risk appetite for domestic telecom and digital infrastructure assets.",
-      "action": "watch",
+      "confidence": 0.85,
+      "reasoning": "A 50% year-on-year net profit growth combined with a 23% top-line rise underscores resilient operational metrics and thermal generation efficiency. Management confirming on-track execution for its 3 GW capacity expansion builds medium-term earnings visibility. Continued capital expenditure execution provides clear fundamental support.",
+      "action": "buy_opportunity",
       "category": "stock_specific"
+    },
+    {
+      "headline": "Vedanta Aluminium reports 41% revenue growth to Rs 22,066 crore in September quarter",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-reports-41-revenue-growth-to-rs-22066-crore-in-september-quarter/articleshow/135292814.cms",
+      "affected_assets": [
+        "Vedanta",
+        "Aluminium"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Substantial 41% revenue growth indicates volume-driven resilience despite uneven base metal pricing globally. Expanding operational capacity offsets macro cyclicality and improves unit margins. Sustained upstream cost efficiencies strengthen consolidated cash flows for parent firm Vedanta.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "eClerx Services Share Price Slips Over 12% After Q2 Results",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/markets/eclerx-services-share-price-slips-over-12-after-q2-results-12252104#publisher=newsstand",
+      "affected_assets": [
+        "eClerx Services"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "The steep selloff reflects second-quarter financial performance missing Street estimates across both top-line revenue and operating margins. Discretionary tech spending softness creates clear earnings downgrade risks. Margin compression indicates near-term profitability headwinds will likely persist.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold dips on firmer dollar; US inflation data in focus - The Economic Times",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQSWhrdmgzbUhNWERna25jQ2xUbm5XRXRRbFc5WUZuT0s0Q1QzWWFaT3hjN3lPVkVNcDM4aUx1aTRDbGpwWVpNVVFWaTMtREo5WXphNHUwX08zZFVwSUZfdk9McndwWXIzdXktQ3JaSzV6R0dVYS1pT3BPUThzQVpUd0J2ZVhUYjlkOU9hWWI0ajBHNThhUWQ3clJ3a1NSd29IOE43bk5LS0RWSkd3NnczOTNLUzB0MUV5UU1CUFo2NFQ4T2FTN2piLUhLXzhKaU0ycThORDhBem1oMGRuUm5RTDk4bXl5RW1McFBHWEJSbE1EYjlxZzFKaXBtSFRvbW5VUWgzNkFLYnExaVJja3VlZDY1WndiS2JkbHUtaGpzMElUbVRYOVdmbmUxaFo0QWxnOVdMRWpR0gHSAUFVX3lxTE5uS05MUDU5U0VCQ0ZJVTZGeThLa2pRSWFVRGZqUEQxRzY1OFp1SW92RWU1clJFTUphU19QbXFFZEZCRWZBMnNFaTZpY0FoS0VJeTVEa3E4YnN6YkxuRDFiZUVMUDFYMXhzakZFMkxLcUlHLXBuR1Uxd3lDTURLN2QyRFo4MlpOZ2ZNbHo4VU5yNVFxYV9IZkpidVlzZDlPVWEwM251czh4WEFfWldVaURzeVhxd3NUWVdVYXZVR0JST3UxWmU3NlZBSnIwZE1LUFl4Zw?oc=5",
+      "affected_assets": [
+        "Gold",
+        "US Dollar"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "A strengthening US Dollar exerts direct downward pressure on dollar-denominated bullion assets as opportunity holding costs increase. Cautious positioning ahead of high-impact US inflation prints signals potential delays in central bank rate cuts. Commodity fundamentals point to tactical consolidation until monetary policy paths re-anchor.",
+      "action": "watch",
+      "category": "macro"
     }
   ],
   "tweets": [],
