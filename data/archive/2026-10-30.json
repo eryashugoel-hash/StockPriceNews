@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T12:22:08+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 3,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "PCE Inflation Accelerated Last Month - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN05udWJhTkF2akFvSEhxbUF0TXpBZ25iVWZKMEsxVmhxelQ5X3BZVUFTZE9OMXdsUUc0empSRjBzOEVfalFrbXJiY0ptcDZtREJUamZJb2thX2hLaEhnVzdVUFVLR3pzOU53cVJoQ3ROMFByeXNUcTB6T3RjVnNDU215WlNqQjJWM1NTbmVfbmdZVVE?oc=5",
+      "affected_assets": [
+        "US Dollar",
+        "Nifty 50",
+        "US 10Y Yield",
+        "Gold"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Accelerating PCE inflation reduces the likelihood of near-term Federal Reserve interest rate cuts, pushing benchmark US Treasury yields higher. A higher interest rate regime in the US elevates the US dollar, which historically exerts downward pressure on emerging market equities including India. Tighter global financial conditions could trigger foreign portfolio outflows from Indian indices.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Q2 earnings upgrades hold above 50%, says Jefferies. Is the profit cycle turning?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-upgrades-hold-above-50-says-jefferies-is-the-profit-cycle-turning/articleshow/135345343.cms",
+      "affected_assets": [
+        "Nifty 50",
+        "BSE Sensex",
+        "Nifty Midcap 100"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Earnings estimate upgrades surpassing downgrades for over half of monitored Indian corporates indicates resilient operational fundamentals despite broader macroeconomic volatility. This strength suggests the domestic corporate profit cycle is stabilizing and poised for an inflection. Broad-based bottom-line stability reinforces valuation multiples for benchmark indices.",
+      "action": "buy_opportunity",
+      "category": "macro"
+    },
+    {
+      "headline": "Laurus Labs shares climb 4% after Q2 profit zooms 126% YoY",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-climb-4-after-q2-profit-zooms-126-yoy/articleshow/135343867.cms",
+      "affected_assets": [
+        "Laurus Labs",
+        "Nifty Pharma"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "A 126 percent year-on-year surge in net profit driven by robust 33 percent revenue growth signals substantial operational recovery and margin turnaround. The sustained performance across core API and synthesis business segments enhances earnings visibility for future quarters. This performance provides clear fundamental catalysts for institutional accumulation.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Silver’s 55% plunge fails to spark festive buying",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/commodities/indiasilver-prices-demand-supply-imports-11793202423976.html",
+      "affected_assets": [
+        "Silver",
+        "MCX Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "A massive 55 percent price drop failing to stimulate consumer demand during the peak Indian festive period demonstrates severe buyer hesitation and underlying demand weakness. Prolonged consumer wait-and-see behavior creates inventory absorption challenges for physical bullion dealers. Without physical demand backing prices, the metal remains fundamentally vulnerable to further downside.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Global Market: China stocks extend losing streak to 12 weeks as global AI selloff hits tech shares",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-extend-losing-streak-to-12-weeks-as-global-ai-selloff-hits-tech-shares/articleshow/135346469.cms",
+      "affected_assets": [
+        "CSI 300",
+        "Nifty IT",
+        "TCS",
+        "Infosys"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "A prolonged rout in Chinese markets combined with an escalating global selloff in artificial intelligence and tech equities dampens global risk appetite. Indian IT majors are prone to sentiment contagion and potential valuation multiple de-rating amid global hardware and software recalibration. Broad-based technology de-risking represents a headwind for the sector in the near term.",
+      "action": "risk_alert",
+      "category": "geopolitical"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

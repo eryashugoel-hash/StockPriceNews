@@ -1,84 +1,91 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T12:24:25+05:30",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T12:22:08+05:30",
   "market_pulse": {
-    "bullish": 3,
-    "bearish": 2,
+    "bullish": 2,
+    "bearish": 3,
     "neutral": 0
   },
   "insights": [
     {
-      "headline": "From Dhirubhai Ambani’s Rs 10 crore IPO to Akash Ambani’s Rs 12.5 lakh crore Jio debut: Reliance’s biggest - The Economic Times",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWWw1emlVOGhLN09KYjhJUXJGSWctTzFiSF9nVFlfVHlwcTFaNUE2SjZkWmllaE92NHRxZU5MUTlULWlRcmFvdkdDWFhYX2twLUt0ay1iNnYyNTVQVlBuNnkxNXlpaktReTB0MnFwNFJZajB2Q0N6X3lvdmhmSEFXYUQwMkNnQ3VFNFpXYVhHblpVbWI5bDNOcEQ5QnQ0QV9vS3NURGMxQVg2dVJ0c3dhMHZSSUxtQ2Y3aXlFdzJobDJlQnVhQ1duMHNFdHFrMXdNUkE5VEVwOE1TMXpzZnFvSlRVN2JrSVNRbndSblJkU3JJZlR3M3FRR2w4UEhNcVJfVFphWU1YNWR0N19JR3FjRTNYa3Vhb2Ro0gGeAkFVX3lxTE9BQ1ljT0N0UmVGRWJ3dXVrS1VuZ0NESXhqS0w4RmN0N01peFJ4RXowWVBzcmNRUFYwaFZ0VE0wUkJSMEJ0UFZNXzJwUy1JM0RpUU1UNmhOdXFQUzBwU0JvWk5UN1JhRzJhVE5GME9JZXNfVXc5dzM1cllIOVdsNS1nS2hkQjZ1azRnakNtbWVJc0VKQ0xpWHJDenlnZnVkN1pwVjFBcmZKelNxVy1lYm1FWHhUd0lNMk56ZS11VzNjTGR6QU9Jb1V4SjVoVmxBSEd3OUhuZ2VGc3daM1ZxSFhjWkU2elBGc1AtVnNrM19DZElPZE92bTlQM0FVeGh6T1l1MFNRdktQaU1xaXdyTkw5endBWldtNEdyc0tWNkE?oc=5",
+      "headline": "PCE Inflation Accelerated Last Month - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN05udWJhTkF2akFvSEhxbUF0TXpBZ25iVWZKMEsxVmhxelQ5X3BZVUFTZE9OMXdsUUc0empSRjBzOEVfalFrbXJiY0ptcDZtREJUamZJb2thX2hLaEhnVzdVUFVLR3pzOU53cVJoQ3ROMFByeXNUcTB6T3RjVnNDU215WlNqQjJWM1NTbmVfbmdZVVE?oc=5",
       "affected_assets": [
-        "Reliance Industries",
-        "Jio Platforms"
+        "US Dollar",
+        "Nifty 50",
+        "US 10Y Yield",
+        "Gold"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Accelerating PCE inflation reduces the likelihood of near-term Federal Reserve interest rate cuts, pushing benchmark US Treasury yields higher. A higher interest rate regime in the US elevates the US dollar, which historically exerts downward pressure on emerging market equities including India. Tighter global financial conditions could trigger foreign portfolio outflows from Indian indices.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Q2 earnings upgrades hold above 50%, says Jefferies. Is the profit cycle turning?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-upgrades-hold-above-50-says-jefferies-is-the-profit-cycle-turning/articleshow/135345343.cms",
+      "affected_assets": [
+        "Nifty 50",
+        "BSE Sensex",
+        "Nifty Midcap 100"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Earnings estimate upgrades surpassing downgrades for over half of monitored Indian corporates indicates resilient operational fundamentals despite broader macroeconomic volatility. This strength suggests the domestic corporate profit cycle is stabilizing and poised for an inflection. Broad-based bottom-line stability reinforces valuation multiples for benchmark indices.",
+      "action": "buy_opportunity",
+      "category": "macro"
+    },
+    {
+      "headline": "Laurus Labs shares climb 4% after Q2 profit zooms 126% YoY",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-climb-4-after-q2-profit-zooms-126-yoy/articleshow/135343867.cms",
+      "affected_assets": [
+        "Laurus Labs",
+        "Nifty Pharma"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.9,
-      "reasoning": "The historic debut and massive valuation unlocking of Jio Platforms substantially enhance parent entity value for Reliance Industries. Monumental market demand and debt reduction strengthen conglomerate fundamentals. This structural re-rating serves as a sustained tailwind for energy-to-telecom valuations.",
+      "reasoning": "A 126 percent year-on-year surge in net profit driven by robust 33 percent revenue growth signals substantial operational recovery and margin turnaround. The sustained performance across core API and synthesis business segments enhances earnings visibility for future quarters. This performance provides clear fundamental catalysts for institutional accumulation.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "JSW Energy Q2 profit jumps 50%; 3 gigawatt target on track",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-energy-q2-profit-jumps-50-3-gigawatt-target-on-track/articleshow/135288014.cms",
+      "headline": "Silver’s 55% plunge fails to spark festive buying",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/commodities/indiasilver-prices-demand-supply-imports-11793202423976.html",
       "affected_assets": [
-        "JSW Energy"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "A 50% year-on-year net profit growth combined with a 23% top-line rise underscores resilient operational metrics and thermal generation efficiency. Management confirming on-track execution for its 3 GW capacity expansion builds medium-term earnings visibility. Continued capital expenditure execution provides clear fundamental support.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Vedanta Aluminium reports 41% revenue growth to Rs 22,066 crore in September quarter",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-reports-41-revenue-growth-to-rs-22066-crore-in-september-quarter/articleshow/135292814.cms",
-      "affected_assets": [
-        "Vedanta",
-        "Aluminium"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "reasoning": "Substantial 41% revenue growth indicates volume-driven resilience despite uneven base metal pricing globally. Expanding operational capacity offsets macro cyclicality and improves unit margins. Sustained upstream cost efficiencies strengthen consolidated cash flows for parent firm Vedanta.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "eClerx Services Share Price Slips Over 12% After Q2 Results",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/markets/eclerx-services-share-price-slips-over-12-after-q2-results-12252104#publisher=newsstand",
-      "affected_assets": [
-        "eClerx Services"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "The steep selloff reflects second-quarter financial performance missing Street estimates across both top-line revenue and operating margins. Discretionary tech spending softness creates clear earnings downgrade risks. Margin compression indicates near-term profitability headwinds will likely persist.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Gold dips on firmer dollar; US inflation data in focus - The Economic Times",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQSWhrdmgzbUhNWERna25jQ2xUbm5XRXRRbFc5WUZuT0s0Q1QzWWFaT3hjN3lPVkVNcDM4aUx1aTRDbGpwWVpNVVFWaTMtREo5WXphNHUwX08zZFVwSUZfdk9McndwWXIzdXktQ3JaSzV6R0dVYS1pT3BPUThzQVpUd0J2ZVhUYjlkOU9hWWI0ajBHNThhUWQ3clJ3a1NSd29IOE43bk5LS0RWSkd3NnczOTNLUzB0MUV5UU1CUFo2NFQ4T2FTN2piLUhLXzhKaU0ycThORDhBem1oMGRuUm5RTDk4bXl5RW1McFBHWEJSbE1EYjlxZzFKaXBtSFRvbW5VUWgzNkFLYnExaVJja3VlZDY1WndiS2JkbHUtaGpzMElUbVRYOVdmbmUxaFo0QWxnOVdMRWpR0gHSAUFVX3lxTE5uS05MUDU5U0VCQ0ZJVTZGeThLa2pRSWFVRGZqUEQxRzY1OFp1SW92RWU1clJFTUphU19QbXFFZEZCRWZBMnNFaTZpY0FoS0VJeTVEa3E4YnN6YkxuRDFiZUVMUDFYMXhzakZFMkxLcUlHLXBuR1Uxd3lDTURLN2QyRFo4MlpOZ2ZNbHo4VU5yNVFxYV9IZkpidVlzZDlPVWEwM251czh4WEFfWldVaURzeVhxd3NUWVdVYXZVR0JST3UxWmU3NlZBSnIwZE1LUFl4Zw?oc=5",
-      "affected_assets": [
-        "Gold",
-        "US Dollar"
+        "Silver",
+        "MCX Silver"
       ],
       "asset_type": "commodity",
       "sentiment": "bearish",
-      "confidence": 0.8,
-      "reasoning": "A strengthening US Dollar exerts direct downward pressure on dollar-denominated bullion assets as opportunity holding costs increase. Cautious positioning ahead of high-impact US inflation prints signals potential delays in central bank rate cuts. Commodity fundamentals point to tactical consolidation until monetary policy paths re-anchor.",
+      "confidence": 0.75,
+      "reasoning": "A massive 55 percent price drop failing to stimulate consumer demand during the peak Indian festive period demonstrates severe buyer hesitation and underlying demand weakness. Prolonged consumer wait-and-see behavior creates inventory absorption challenges for physical bullion dealers. Without physical demand backing prices, the metal remains fundamentally vulnerable to further downside.",
       "action": "watch",
-      "category": "macro"
+      "category": "commodity"
+    },
+    {
+      "headline": "Global Market: China stocks extend losing streak to 12 weeks as global AI selloff hits tech shares",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-extend-losing-streak-to-12-weeks-as-global-ai-selloff-hits-tech-shares/articleshow/135346469.cms",
+      "affected_assets": [
+        "CSI 300",
+        "Nifty IT",
+        "TCS",
+        "Infosys"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "A prolonged rout in Chinese markets combined with an escalating global selloff in artificial intelligence and tech equities dampens global risk appetite. Indian IT majors are prone to sentiment contagion and potential valuation multiple de-rating amid global hardware and software recalibration. Broad-based technology de-risking represents a headwind for the sector in the near term.",
+      "action": "risk_alert",
+      "category": "geopolitical"
     }
   ],
   "tweets": [],
