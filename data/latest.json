@@ -1,84 +1,86 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T12:14:36+05:30",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T12:43:44+05:30",
   "market_pulse": {
-    "bullish": 2,
-    "bearish": 3,
+    "bullish": 3,
+    "bearish": 2,
     "neutral": 0
   },
   "insights": [
     {
-      "headline": "Gold, silver fall up to 2.4% on MCX amid global bullion selloff",
-      "source": "CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOU5Qa2tnVEZOZzlkdW9GWXdud3BXdjFyazl3T0UzM2F0b3JFRDdvUFpYWGtyM0ptMTJxT3ZkTk5UMjBDQS1zNWVoaE9NSHJ4eWsxd1BvTDkzUXVJcjBlaXVXWGlfeGhaVHVwNFM2NHhhMGpEVmhENVFKT1djUjUyOExwWUg1d19QZExTeXVNNkxkdFZiTmh4X2hoT3BsVms3blpjZjBpbUFYbDRWYW5RTlZjOVFoQdIBuwFBVV95cUxQMU1XRXZYUE5lTmhXbC1fN09lRUxlWV9pMDNQR0pSZ0RKVDdrSXBucmxaUnZ5T3UtRWJDLTZoWDNxbDVZNURSbVhZYjQyZ2hmd2lkdHRtdG5kUDBoeHBoSGJjTjA2ZzhocTdBejc0Qy05ci1CWkJWc0tsSGg1RGtfLUlfWHkzcHBsNG51REJuXzRrSzFGNDR0aWJQbkRIYmZ1elVTR1Z0TDZTTnRHcVc3WEljTEYxVVBOd3ZN?oc=5",
-      "affected_assets": [
-        "Gold",
-        "Silver"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "Precious metals slid up to 2.4% on MCX tracking global bullion liquidations driven by hawkish rate expectations and a strengthening US dollar. Unwinding of speculative long positions introduces sustained near-term downward pressure across bullion contracts. Traders should await price stabilization before initiating fresh accumulation.",
-      "action": "risk_alert",
-      "category": "commodity"
-    },
-    {
-      "headline": "GAIL Q2 profit surges over two fold YoY to 4,650 cr despite global disruptions",
+      "headline": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/gail-q2-profit-surges-over-two-fold-yoy-to-4650-cr-despite-global-disruptions/articleshow/135387433.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
       "affected_assets": [
-        "GAIL"
+        "IOC",
+        "BPCL",
+        "HPCL"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "GAIL posted a remarkable doubling in second-quarter net profit to 4,650 crore rupees on the back of resilient gas marketing margins and strong domestic transmission volumes. The performance highlights robust operational insulation against international energy price volatility. Favorable earnings momentum is likely to support near-term stock outperformance and valuation rerating.",
+      "reasoning": "State-run fuel retailers delivered a massive financial turnaround with Q2 net profit hitting Rs 30,106 crore compared to losses in prior periods. Strong refining and marketing margins significantly boost earnings clarity for these OMCs.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Reliance Retail Q2 profit takes a hit on Qcomm push",
+      "headline": "Muthoot Finance Q2 cons profit jumps 36% YoY to Rs 3,278 crore",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-profit-takes-a-hit-on-qcomm-push/articleshow/135387788.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q2-cons-profit-jumps-36-yoy-to-rs-3278-crore/articleshow/135401237.cms",
       "affected_assets": [
-        "Reliance Industries",
-        "Reliance Retail"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "reasoning": "Reliance Retail saw net profit drop 24.5% year-on-year to 2,619 crore rupees as intense capital allocation and promotional burn in quick-commerce eroded operating margins. Although top-line revenue expanded by 5.8%, high customer acquisition costs in delivery infrastructure will drag short-term consolidated returns. Margin compression in this key subsidiary poses a notable headwind for parent entity Reliance Industries.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Bank of Baroda's Q2 profit surges 36% YoY on NSE stake sale",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-barodas-q2-profit-surges-36-yoy-on-nse-stake-sale/articleshow/135387894.cms",
-      "affected_assets": [
-        "Bank of Baroda"
+        "Muthoot Finance"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.78,
-      "reasoning": "Bank of Baroda reported an impressive 36% year-on-year rise in quarterly profit to 6,532 crore rupees, largely bolstered by significant non-interest income from an NSE stake divestment. While the core operational metrics remain healthy, the earnings spike is primarily non-recurring in nature. The capital injection provides balance sheet strength, though investors should monitor core net interest margin trends going forward.",
-      "action": "watch",
+      "confidence": 0.9,
+      "reasoning": "Robust Q2 earnings driven by a 42% surge in assets under management signal sustained demand for gold collateralized loans. Elevated gold prices continue to expand collateral values and drive top-line momentum.",
+      "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Monsoon woes, crude concerns, inflation worries may cloud India’s second-half growth momentum",
-      "source": "Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPamVnbDFuaThUQ1BCR1N6RUdfZU9FUGVFeVJTYzF4cWdkTjYyYVFpYWlIZ3NKekt3U2QxSDc2Wnh4Zm5rQzJrQl9FcnNyNk1JY1JDQlJSRmxDLWxEY3FqTVhHX1hHMDlWNS1FRmhENmx5Tzk3SHRuUFdrY0MwLXc1TGczcElOVzVIZDVSbW5iLVdzcjFkRDRWNXN6cm4xblJRZkVNcDdELUJET2pqQWJvWW9rNHIzeVlWeGpGUm91aFVsSXBBc29oeWRsRkZ1cHN2Ni1XNnd6aHBEZ3NpLURyWVgxcWs4bGdZdGUxRUphSdIB9AFBVV95cUxQYkRpSTBmMkNnbjBOcWttUnpVUHZrc1hKRUVpMmNjM1RNMTQyVlJhaTIxUEpwZS11aFBtd0xnelRnNHZ1RlZkRWlsRGZWOVk3NW5WeE5HWUpDaTZaVW1qSXNIZmVHVjFCenhMZTN1UV9rX2tNNFIxZGRaYzJyU0g3cjBWVHdYYnB6VzlNeTJrem9jYVVOdV84c1BQa0IyMVA4Q3VJZWJxNFlyVE1VMFFiTmlJRnRqdXQ1Q2x3dWhkSWF5bzFYd1NpQS1Wb0FmRmpNN29NSHBOV3Q0ZUFWWnV6NHlhd1daUjdQNXpBTGowNWJzZnRz?oc=5",
+      "headline": "Tata Motors PV vs Maruti Suzuki shares: Which auto stock to buy after Q2 results 2026? Experts' views, target price",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/tata-motors-pv-vs-maruti-suzuki-shares-which-auto-stock-to-buy-after-q2-results-2026-experts-views-target-price-11793433708273.html",
+      "affected_assets": [
+        "Maruti Suzuki",
+        "Tata Motors"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Strong buy ratings from major brokerages highlight Maruti Suzuki's market leadership and margin resilience following Q2 earnings. Solid festive order pipelines present near-term upside potential.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjA5czFvNHJVY3pfd3I2ZGt0eGlkWDZCa3llcU5VRjUxV3pHc2pOUFI5NGZERThCY0lZNkJQZXFPMUphdmw4OEJOV2V2blZ2NGlDakI4NDRVM3VYR0ViSkhGbS1SR2Q0Sk03TmFRd1FvOW90U1Q4TnJYVFJIbVpUSEhpMTVMUmNrbGxpNldwOUZTbXVjV3hpTVV5d00tRHpPOHVJdmVOaEM1ZWc?oc=5",
       "affected_assets": [
         "Nifty 50",
-        "BSE Sensex"
+        "US Dollar",
+        "Global Equities"
       ],
       "asset_type": "macro",
       "sentiment": "bearish",
       "confidence": 0.75,
-      "reasoning": "A triad of uneven rainfall patterns, volatile crude import prices, and persistent headline inflation threatens to soften India's second-half GDP expansion. Prolonged price pressures will limit the Reserve Bank of India's room to loosen monetary policy, keeping domestic borrowing costs elevated. Broad market equity multiples may face valuation compression as discretionary consumption metrics adjust downward.",
+      "reasoning": "A tightening US labor market increases expectations of prolonged high interest rates by the Federal Reserve. Potential capital flight to safe-haven assets may pressure foreign institutional inflows into Indian equities.",
       "action": "risk_alert",
       "category": "macro"
+    },
+    {
+      "headline": "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty/articleshow/135416947.cms",
+      "affected_assets": [
+        "EKI Energy Services"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.95,
+      "reasoning": "SEBI's strict enforcement against financial misreporting creates severe regulatory risk and governance uncertainty. Market bans and financial penalties will trigger heavy selling pressure and liquidity freeze in the stock.",
+      "action": "risk_alert",
+      "category": "policy"
     }
   ],
   "tweets": [],
