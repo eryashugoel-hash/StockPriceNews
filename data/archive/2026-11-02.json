@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T12:59:06+05:30",
+  "market_pulse": {
+    "bullish": 4,
+    "bearish": 1,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "Sebi backs removal of LTCG tax for foreign investors: Report",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-backs-removal-of-ltcg-tax-for-foreign-investors-report/articleshow/135448760.cms",
+      "affected_assets": [
+        "Nifty 50",
+        "Sensex",
+        "Indian Equities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "SEBI's proposal to remove Long-Term Capital Gains (LTCG) tax for foreign investors aims to reignite foreign institutional investor (FII) inflows into Indian equities. If approved by the Finance Ministry, this structural tax relief could trigger significant capital inflows into benchmark indices.",
+      "action": "buy_opportunity",
+      "category": "policy"
+    },
+    {
+      "headline": "Reliance Stock Jumps Over 8% After Record Q2 Results",
+      "source": "Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQUdWcmVNT0VSZWJ2eThLWk56VmdYUHk2QW83U3lFRXQ4VklXLV9TS1NIRTlDLVJpNUh0WlR6a1Nrd256MEdiNk9Hck1PTWVHMVcyVkJSTDUwQ2dRZ3I5WEVSUEs5aUpNOTB0U3BkYV_hejFIODY1dHN4ZHdLTlNCVXdpckFnOC1TTXF5eXJmME8xR19UNnM00gGcAUFVX3lxTE1GQXdDcFl6MnB5clBZLXVOUFVzekVwbThwcThlR25icGpXRW9obWRPZnVYYWZlZWFUeHZFSlc3UEYwUEZhZDBNaV9WNWcwd0gzZjFyLThHZVpYekhZSllUWjJudTFSanVhM1QyLU5OUnppSnBjMkgwZDNKNmtmR2hMNVVKcHJOMGFTR1dtRzFpRk1icFhkbDkzMnV1RQ?oc=5",
+      "affected_assets": [
+        "Reliance Industries",
+        "Nifty 50"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "Reliance Industries reported strong Q2 performance with record profitability, boosting investor confidence and sending the stock higher. Given Reliance's heavy index weight, this operational strength provides strong fundamental support to broader markets.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "India bonds surge as oil cools on US-Iran deal hopes",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-surge-as-oil-cools-on-us-iran-deal-hopes/articleshow/135448296.cms",
+      "affected_assets": [
+        "Crude Oil",
+        "Indian Sovereign Bonds",
+        "INR"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Expectations of a US-Iran agreement are exerting downward pressure on global crude oil prices, easing India's import burden and imported inflation risk. Cooler energy prices reduce fiscal stress and support sovereign bond valuations.",
+      "action": "watch",
+      "category": "geopolitical"
+    },
+    {
+      "headline": "TCS stock gains attention as AI revenue tops USD 3 billion in Q2",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNy1abGtpUENLVEpBT1JFb3Bmd0NEaVZtQTVqa3EyMHNVT0tUa05WeUJZdHg3ZHRkanRfenlPdGVJN3NUZm9qdS1SdXpTWE9tZkdFeFpfZ1FVMlM2QzRKdGhLUjV6X002ek1mak14dEczbTBKT0RvVTM2eXBZMDN0a3J1WDd5T3VyV3Y4WV8xQjJCMm1CZ1E1WVNBdGFUQ1pLbVZqbjdvY2E2dVIzQ2d0ZmJOMGV3M18wcEV3ei14Tmk?oc=5",
+      "affected_assets": [
+        "Tata Consultancy Services",
+        "Nifty IT"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "TCS crossing $3 billion in quarterly AI revenue highlights rapid enterprise adoption and strong monetization of its generative AI offerings. This milestone reinforces TCS's market leadership amid broader macroeconomic uncertainties in IT spending.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "BOJ signals December rate hike, but path beyond 1.5% remains uncertain",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boj-signals-december-rate-hike-but-path-beyond-1-5-remains-uncertain/articleshow/135447724.cms",
+      "affected_assets": [
+        "Japanese Yen",
+        "Nikkei 225",
+        "Global Liquidity"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "The Bank of Japan strengthening its signal for a December rate hike raises the risk of further unwinding of the global yen carry trade. Tighter Japanese monetary policy could lead to capital repatriation, destabilizing risk assets globally.",
+      "action": "risk_alert",
+      "category": "policy"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
