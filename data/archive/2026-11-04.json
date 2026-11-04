@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T12:49:46+05:30",
+  "market_pulse": {
+    "bullish": 3,
+    "bearish": 2,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "Democrats’ win rattles Trump trades from AI stocks to crypto",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto/articleshow/135527407.cms",
+      "affected_assets": [
+        "Nasdaq",
+        "US Tech Stocks",
+        "Crypto"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "A Democratic majority in the US Congress disrupts aggressive deregulation and fiscal expansion expected under Trump's agenda. This reversal severely impacts high-flying technology and crypto assets that priced in favorable policies. Consequently, spillover volatility is likely to hit global risk assets.",
+      "action": "risk_alert",
+      "category": "geopolitical"
+    },
+    {
+      "headline": "Oil slide, Treasury strength boost Indian bonds",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/oil-slide-treasury-strength-boost-indian-bonds/articleshow/135527698.cms",
+      "affected_assets": [
+        "Indian Government Bonds",
+        "Crude Oil"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "A sharp decline in crude oil prices reduces India's import bill and cushions current account deficit pressures. Combined with US Treasury strength, this environment provides strong tailwinds for domestic fixed-income securities. Lower energy costs act as a macroeconomic positive for India's fiscal standing.",
+      "action": "buy_opportunity",
+      "category": "commodity"
+    },
+    {
+      "headline": "MCX gold prices at Rs 1.39 lakh/10 gram; silver tanks Rs 2,000/kg as US jobs data fuels rate hike bets. Key levels to track ahead of Dhanteras",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-at-rs-1-39-lakh/10-gram-silver-tanks-rs-2000-kg-as-us-jobs-data-fuels-rate-hike-bets-key-levels-to-track-ahead-of-dhanteras/articleshow/135522437.cms",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Robust US employment figures heighten expectations of prolonged high interest rates, diminishing the appeal of non-yielding precious metals. Consequently, MCX silver and gold face immediate downside pressure right ahead of peak festive demand seasons like Dhanteras. Traders should re-evaluate bullion holdings against rising opportunity costs.",
+      "action": "risk_alert",
+      "category": "commodity"
+    },
+    {
+      "headline": "China Banks' applications for PBOC stock loan scheme exceed 200 billion yuan",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/china-banks-applications-for-pboc-stock-loan-scheme-exceed-200-billion-yuan/articleshow/135527139.cms",
+      "affected_assets": [
+        "Chinese Equities",
+        "Hang Seng Index"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.82,
+      "reasoning": "The rapid uptake of the PBOC's stock-purchase financing scheme indicates aggressive monetary backstopping by Beijing. With applications crossing 200 billion yuan alongside relending rate cuts, liquidity is directly channeled into equities. This policy intervention supports regional market stability and improves broader risk sentiment.",
+      "action": "buy_opportunity",
+      "category": "policy"
+    },
+    {
+      "headline": "Emcure Pharma shares hit 10% upper circuit after FY27 guidance hike; Jefferies raises target price by 8%",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/emcure-pharma-shares-hit-10-upper-circuit-after-fy27-guidance-hike-jefferies-raises-target-price-by-8/articleshow/135523159.cms",
+      "affected_assets": [
+        "Emcure Pharma"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.88,
+      "reasoning": "Strong quarterly performance accompanied by a guidance upgrade signals robust structural growth in international operations. Major brokerages upgrading price targets validate the fundamental earnings upgrade cycle. This development triggers intense buying interest and upper-circuit lockups.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
