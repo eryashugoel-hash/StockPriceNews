@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T13:19:34+05:30",
+  "market_pulse": {
+    "bullish": 4,
+    "bearish": 1,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "HDFC Bank shares rise for third day, gain 12% from 52-week low - BusinessLine",
+      "source": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaEJIeWdpUDFTRHk5QV9QVzlMS0FwdVBoVlFMWldqOHRsVC1xZGZHYXBJekw3dzFpbVJtMzdOSkU5WnhZV0tCa05HdlJKbTRWR2QybFhadVZsd2h1SFl1REZCUF9PMzh1SkRhZWdTZU5aVmNieUFTMWdYZndrM3NXZ0s3ak1MWlFTRmdMdzJxb0dxc0xjZEFOYmdvWl9PV184THhGZmFsVVhmOENiZWYxNzV6UERFZUZnNm9BaFNzcVMxVUVoUUE4OEd3UndVMkc4bGhVQ01sX2s5SERvVE1FenRn0gHoAUFVX3lxTE9ETU8wOGFta0FFQnNqTVBHZzFGRkNPYl9hbVdnLVo0TnZPZTlpbU0wa2w5VUJfOEMyN0hVQWJoUjdjcEFLbjhwOV9vWlhzNlc2R2RDY25jTTZ3d3Z4bi1GdWN0bmRVcVJlMXJ2YmRMQVZNbFlRRzVFX0NXbzAxSGMwWmt0SzhKaWZ1SUtiOEFELU9MeTBiVWRXMENyTlFMbXdOLTZTbkVZV05rRnFLckZFaklHTHVOMk5JVHp5b0FlYkJBOXYtVWJkd1MtZkJZTWtObGdYb04xcVRldlRsRm9MeGs3b21zTl8?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "Nifty Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Strong buying interest and institutional accumulation have driven a 12% rebound from 52-week lows for HDFC Bank. As a major heavyweight in the Nifty index, sustained upside in HDFC Bank provides significant tailwinds to the broader banking sector. Investors view this recovery as a sign of improving asset quality and credit growth stability.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "ECB: Interest Rate Hike In December Almost Certain - tovima.com",
+      "source": "tovima.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEVOQmNXRU9UcU9LOVVjR1ZqM3NNdUJIaUhlWkMwTzlsTy1US2hWUi1OWXJUdlhkTThfZVJKUHpPRlJ5V1ppaGpIWnFIeVk1TlhNMURCd3Zwa3BsVG5vSmpYa1A2bWU5a1RmMTBJekdnUklKRHlwcnJNd0tqdEwzVlVvNU1JQ1cy?oc=5",
+      "affected_assets": [
+        "EUR/USD",
+        "European Equities",
+        "Global Macro Funds"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.9,
+      "reasoning": "Confirmation of a December interest rate hike by the European Central Bank reinforces a hawkish central bank stance amid sticky Eurozone inflation. Higher borrowing costs threaten European growth outlooks and may lead to capital tightening across emerging markets. Risk assets generally face downside pressure when global central banks signal extended monetary tightening.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "Gold prices exceed $4,100 in commodity markets - Apa.az",
+      "source": "Apa.az",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenc2bHZ2VWlxeXlxZDN2M0U2Q052Y3lXSmpIUmQ4b0h1OTdsUndXYTNWUDNSM25VUFZDVmhPc2JlZVB1SHc2ZHhKU2RSQXpzMnVMUl9YOHBLWjdHN1pjUF_BOWpORjhPblhYVnZlR09mYWpCa0pGN1dGaW5TUzI3SGpn?oc=5",
+      "affected_assets": [
+        "Gold",
+        "MCX Gold"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.88,
+      "reasoning": "Gold breaking past key psychological thresholds underscores strong safe-haven demand and hedge allocation against global macroeconomic uncertainties. Sustained momentum in precious metals benefits gold mining companies and bullion ETFs. Investors are actively increasing allocations to precious metals as inflation remains elevated globally.",
+      "action": "buy_opportunity",
+      "category": "commodity"
+    },
+    {
+      "headline": "BSE vs NSE vs MCX vs IEX shares: Which exchange stock to buy after Q2 results for good returns? Experts' views",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/bse-vs-nse-vs-mcx-vs-iex-shares-which-exchange-stock-to-buy-after-q2-results-for-good-returns-experts-views-11793860967633.html",
+      "affected_assets": [
+        "MCX",
+        "BSE",
+        "IEX"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.82,
+      "reasoning": "Strong Q2 financial performance across Indian stock and commodity exchanges highlights robust trading volumes and expanding retail participation. Multi Commodity Exchange (MCX) in particular showed standout revenue growth following its tech platform migration. Analysts favor market infrastructure institutions due to high entry barriers and recurring fee revenue models.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "NG=F ($2.92) Bounces Off $2.80 as Record Shorts Meet a 20.8 Bcf/d LNG Pull — Close Above $3.07 Opens $3.25 - TradingNEWS",
+      "source": "TradingNEWS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUxUUtLUHBQQk9XNzRqZGFLVEVZZWYzek5PRUNaNWUzekhNMTFpNER5cEtTaGRvWXNCNXZXN3BHNTR1T2pMS3ZGNFVhNlM4Q001Q2hBWWJaRHpSSXNmd0s0bFBlTWVoZkVRNk91bU5aeXJ6WlNfS2RVQS1vQ2t2WUxUN0VTVHpZRC00R3l4enZ1dUdzMS1ncmZRdE9NYTB0dDlySg?oc=5",
+      "affected_assets": [
+        "Natural Gas",
+        "MCX Natural Gas"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Natural gas prices bounced back sharply due to short covering and record LNG export demand pulling 20.8 Bcf/d. Strong fundamental demand coupled with heavily shorted positioning creates conditions for a bullish breakout toward technical resistance levels. High export demand continues to support pricing power for natural gas producers.",
+      "action": "watch",
+      "category": "commodity"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
