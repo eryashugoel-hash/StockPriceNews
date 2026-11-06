@@ -1,88 +1,90 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T13:19:34+05:30",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T13:18:43+05:30",
   "market_pulse": {
-    "bullish": 4,
-    "bearish": 1,
-    "neutral": 0
+    "bullish": 2,
+    "bearish": 2,
+    "neutral": 1
   },
   "insights": [
     {
-      "headline": "HDFC Bank shares rise for third day, gain 12% from 52-week low - BusinessLine",
-      "source": "BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaEJIeWdpUDFTRHk5QV9QVzlMS0FwdVBoVlFMWldqOHRsVC1xZGZHYXBJekw3dzFpbVJtMzdOSkU5WnhZV0tCa05HdlJKbTRWR2QybFhadVZsd2h1SFl1REZCUF9PMzh1SkRhZWdTZU5aVmNieUFTMWdYZndrM3NXZ0s3ak1MWlFTRmdMdzJxb0dxc0xjZEFOYmdvWl9PV184THhGZmFsVVhmOENiZWYxNzV6UERFZUZnNm9BaFNzcVMxVUVoUUE4OEd3UndVMkc4bGhVQ01sX2s5SERvVE1FenRn0gHoAUFVX3lxTE9ETU8wOGFta0FFQnNqTVBHZzFGRkNPYl9hbVdnLVo0TnZPZTlpbU0wa2w5VUJfOEMyN0hVQWJoUjdjcEFLbjhwOV9vWlhzNlc2R2RDY25jTTZ3d3Z4bi1GdWN0bmRVcVJlMXJ2YmRMQVZNbFlRRzVFX0NXbzAxSGMwWmt0SzhKaWZ1SUtiOEFELU9MeTBiVWRXMENyTlFMbXdOLTZTbkVZV05rRnFLckZFaklHTHVOMk5JVHp5b0FlYkJBOXYtVWJkd1MtZkJZTWtObGdYb04xcVRldlRsRm9MeGs3b21zTl8?oc=5",
+      "headline": "US stock market crash: Chip stocks extend sell-off, AMD, Arm, Qualcomm and Sandisk plunge up to 17%; Nasdaq down 6%",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-crash-chip-stocks-extend-sell-off-amd-arm-qualcomm-and-sandisk-plunge-up-to-17-nasdaq-down-6-11793900308301.html",
       "affected_assets": [
-        "HDFC Bank",
-        "Nifty Bank"
+        "Micron",
+        "AMD",
+        "Qualcomm",
+        "Nasdaq 100"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.92,
+      "reasoning": "Disappointing revenue guidance alongside growing fears of regulatory pauses on AI infrastructure spending triggered severe liquidation in global semiconductor counters. The massive tech drop threatens broader global equity valuations and raises short-term risk aversion across technology supply chains.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Indian IT stocks shrug off Wall Street rout; NIFTY IT rises 2%, Infosys and TCS in the green",
+      "source": "Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVVA0bnA1TUhTb0F3WmNyMjBSODRzVnRhR2tMa0llUFFaMTlhVEtYTl9WUngtelVrQTY5b1NtbzhoU2RYUHBaakRMbGFlbWMxUHBCbzdiemh5YlowTnZpdXc4R2Y4RXktd2VUVUprVEwyMEt2d2tfcWpZbHl0VmFDMWRQMFlGYnlCVkZmYzZnalg4M0dGNllMRno4UHMwWXIwWDQ2NlVDRzVXbnNkYlE1bms1ZEdob1V6WHhpN3FUcHFsY1B4cmQ1a0ZmTFFlR2E4MWtQV3ZSalFnUzFMbV9lVHdR?oc=5",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "NIFTY IT"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Strong buying interest and institutional accumulation have driven a 12% rebound from 52-week lows for HDFC Bank. As a major heavyweight in the Nifty index, sustained upside in HDFC Bank provides significant tailwinds to the broader banking sector. Investors view this recovery as a sign of improving asset quality and credit growth stability.",
+      "reasoning": "Indian IT majors showed relative resilience and decoupled from US hardware/semiconductor weakness as defensive capital rotated into services. Earnings stability and attractive valuation levels provide a strong cushion against US tech volatility.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "ECB: Interest Rate Hike In December Almost Certain - tovima.com",
-      "source": "tovima.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEVOQmNXRU9UcU9LOVVjR1ZqM3NNdUJIaUhlWkMwTzlsTy1US2hWUi1OWXJUdlhkTThfZVJKUHpPRlJ5V1ppaGpIWnFIeVk1TlhNMURCd3Zwa3BsVG5vSmpYa1A2bWU5a1RmMTBJekdnUklKRHlwcnJNd0tqdEwzVlVvNU1JQ1cy?oc=5",
+      "headline": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade/articleshow/135597848.cms",
       "affected_assets": [
-        "EUR/USD",
-        "European Equities",
-        "Global Macro Funds"
+        "USD/INR",
+        "Crude Oil",
+        "NIFTY 50"
       ],
       "asset_type": "macro",
       "sentiment": "bearish",
-      "confidence": 0.9,
-      "reasoning": "Confirmation of a December interest rate hike by the European Central Bank reinforces a hawkish central bank stance amid sticky Eurozone inflation. Higher borrowing costs threaten European growth outlooks and may lead to capital tightening across emerging markets. Risk assets generally face downside pressure when global central banks signal extended monetary tightening.",
+      "confidence": 0.88,
+      "reasoning": "Weakness in the Rupee driven by firm crude prices and sustained foreign institutional capital outflows increases import bill burdens. A weaker domestic currency compresses margins for import-dependent sectors while pressuring broader equity market sentiment.",
       "action": "risk_alert",
-      "category": "policy"
+      "category": "macro"
     },
     {
-      "headline": "Gold prices exceed $4,100 in commodity markets - Apa.az",
-      "source": "Apa.az",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenc2bHZ2VWlxeXlxZDN2M0U2Q052Y3lXSmpIUmQ4b0h1OTdsUndXYTNWUDNSM25VUFZDVmhPc2JlZVB1SHc2ZHhKU2RSQXpzMnVMUl9YOHBLWjdHN1pjUF_BOWpORjhPblhYVnZlR09mYWpCa0pGN1dGaW5TUzI3SGpn?oc=5",
+      "headline": "Samvat 2083: How much gold and silver should your portfolio hold?",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/commodities/samvat-2083-gold-silver-price-portfolio-11793806249883.html",
       "affected_assets": [
         "Gold",
-        "MCX Gold"
+        "Silver"
       ],
       "asset_type": "commodity",
-      "sentiment": "bullish",
-      "confidence": 0.88,
-      "reasoning": "Gold breaking past key psychological thresholds underscores strong safe-haven demand and hedge allocation against global macroeconomic uncertainties. Sustained momentum in precious metals benefits gold mining companies and bullion ETFs. Investors are actively increasing allocations to precious metals as inflation remains elevated globally.",
-      "action": "buy_opportunity",
-      "category": "commodity"
-    },
-    {
-      "headline": "BSE vs NSE vs MCX vs IEX shares: Which exchange stock to buy after Q2 results for good returns? Experts' views",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/bse-vs-nse-vs-mcx-vs-iex-shares-which-exchange-stock-to-buy-after-q2-results-for-good-returns-experts-views-11793860967633.html",
-      "affected_assets": [
-        "MCX",
-        "BSE",
-        "IEX"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.82,
-      "reasoning": "Strong Q2 financial performance across Indian stock and commodity exchanges highlights robust trading volumes and expanding retail participation. Multi Commodity Exchange (MCX) in particular showed standout revenue growth following its tech platform migration. Analysts favor market infrastructure institutions due to high entry barriers and recurring fee revenue models.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "NG=F ($2.92) Bounces Off $2.80 as Record Shorts Meet a 20.8 Bcf/d LNG Pull — Close Above $3.07 Opens $3.25 - TradingNEWS",
-      "source": "TradingNEWS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUxUUtLUHBQQk9XNzRqZGFLVEVZZWYzek5PRUNaNWUzekhNMTFpNER5cEtTaGRvWXNCNXZXN3BHNTR1T2pMS3ZGNFVhNlM4Q001Q2hBWWJaRHpSSXNmd0s0bFBlTWVoZkVRNk91bU5aeXJ6WlNfS2RVQS1vQ2t2WUxUN0VTVHpZRC00R3l4enZ1dUdzMS1ncmZRdE9NYTB0dDlySg?oc=5",
-      "affected_assets": [
-        "Natural Gas",
-        "MCX Natural Gas"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "reasoning": "Natural gas prices bounced back sharply due to short covering and record LNG export demand pulling 20.8 Bcf/d. Strong fundamental demand coupled with heavily shorted positioning creates conditions for a bullish breakout toward technical resistance levels. High export demand continues to support pricing power for natural gas producers.",
+      "sentiment": "neutral",
+      "confidence": 0.78,
+      "reasoning": "Precious metals are experiencing consolidation following record high runs, leading wealth managers to recommend strategic portfolio rebalancing. While structural inflation hedges support gold long-term, short-term momentum has softened.",
       "action": "watch",
       "category": "commodity"
+    },
+    {
+      "headline": "Unemployment claims drop to 189,000, the fewest since mid-July",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFpqQlVnUGpUMjYwb25WNThoV0FWZEhBdmlNUjFtU1B0XzROdllSQXkyVFk0R2lMbTdHbzFCejFqQXg0ZE9uVTFRME9XLVAzSEhtWk5PWVVMVFUxLWdSanZqWjJ2MC14QzIxQ0tVY2ZfTDZsamJETThsdV9makdLY1JfY2p5bUZnelJzYkMxc2RtQQ?oc=5",
+      "affected_assets": [
+        "US Dollar Index",
+        "US 10-Yr Treasury"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.82,
+      "reasoning": "Lower labor market distress underlines US economic resilience, mitigating immediate recession fears. However, sustained labor market tightness may prompt central banks to keep interest rates higher for longer.",
+      "action": "watch",
+      "category": "macro"
     }
   ],
   "tweets": [],
