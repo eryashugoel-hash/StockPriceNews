@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T12:31:27+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 3,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "HDFC Bank shares rally 16% in 4 sessions, cross ₹12-lakh-cr market cap - BusinessLine",
+      "source": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOblNXWE5DR2EtR1ZBRVFnODdxenU3aTZCUm16bWZOVHhyQ2l3STlYelQyU3NFdDBmdnpvTjF4d2RiSUh3VXlndjR1ZE43REY1d2ZYRDV2UUJfREUwOU90NFgzQTRmekJDUXh3dGI2VUJ4OU9SQUswVTdMM1RPcTc5TzEzdXNFcHc1Vkp3MDVYbVUtbnVxZ2lDMWh5NXJjbkhTT3g3TmxxX2EzTUQ1ZnhaUGdQMWZ5ajJweXVnZFo4eWYtNFBfaE9NZDJfdzBaeDJGem9zTzZCQWVPbmNMOTRQQnlrenhTcE3SAe4BQVVfeXFMT3h6alZmT2xjQkpXOWJsMV8wTmNsaG5OSnVhS3JxTXRpTUgzV2ZiamJUUDBqQkhNWE14clNWSDdUbkljVE8zRm1EYjFtb1ViWHgxTzJSaEFiOXB1dDFvR0VpcVZEU3hGYlEzbUhPV3U1TVFmcmhwdnRiVWh0NWdVeWlOY1VTWEtpVDQ3VUNXSXMtc1ZXMDh0ckVhRnAzUksxYTdzUGplSEo3ZkJwcVJTUE5wNkJFMy0wOTJBd0FxdUR3RW9JOTRIS0VYOVJ4TW9nS1NDd1duVW1mblA1MXViVHdBSlNKREZLUFFIRTZRUQ?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "Nifty Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "HDFC Bank's massive rally of 16% in four sessions crossing the ₹12-lakh-crore market cap milestone reflects strong institutional momentum and heavy weightage support for benchmark indices. This sharp surge underscores renewed investor confidence in private sector banking credit growth and asset quality dynamics.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
+      "affected_assets": [
+        "Indian Sovereign Bonds",
+        "Nifty 50"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.88,
+      "reasoning": "Sliding global crude oil prices have significantly eased domestic inflation risks and reduced India's import bill, driving a dramatic bond market rally. Lower benchmark yield expectations decrease corporate borrowing costs, providing strong macroeconomic tailwinds for Indian equities.",
+      "action": "buy_opportunity",
+      "category": "macro"
+    },
+    {
+      "headline": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+      "affected_assets": [
+        "US Tech Stocks",
+        "TCS",
+        "Infosys"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "A severe sell-off in US technology equities driven by doubts over AI infrastructure monetization threatens global market valuation multiples. Indian IT service exporters face potential secondary pressures as global tech capex sentiment sours.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Dollar jumps after strong US payrolls report",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms",
+      "affected_assets": [
+        "US Dollar Index",
+        "USD/INR"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.82,
+      "reasoning": "Better-than-expected US non-farm payroll additions drove a sharp appreciation in the US Dollar index. A stronger dollar elevates foreign capital outflow risks from emerging markets like India and pressures the rupee.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "Daly says Fed rate hike likely, despite 'painful' tech-stock dive - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm1MU1hqV0tGaTZraWhpaVdqOGZCdzZjLUt3ZVZFU3BCaGFwdE9ham9MYktoSlF1SWF0eXRRR0V1QVhPUUZlRjdqZHdwMVlRS3pNaGUtWktTUmJhSUR3bW56MzdObWlZd0E0XzZSaUNnelUxR2FReTNkNTkwSVNEX3l6cmVveVRlNm1LWGNJdGs2WUt5c1BtS3o5TU9XbzRVNC1tT0ZydXREcmM?oc=5",
+      "affected_assets": [
+        "Global Equities",
+        "Nifty 50"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Hawkish commentary from US Federal Reserve officials suggesting potential monetary tightening revives higher-for-longer interest rate risks. Persistent high rates restrict equity risk premiums and constrain global liquidity.",
+      "action": "risk_alert",
+      "category": "policy"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

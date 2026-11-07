@@ -1,90 +1,87 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T13:18:43+05:30",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T12:31:27+05:30",
   "market_pulse": {
     "bullish": 2,
-    "bearish": 2,
-    "neutral": 1
+    "bearish": 3,
+    "neutral": 0
   },
   "insights": [
     {
-      "headline": "US stock market crash: Chip stocks extend sell-off, AMD, Arm, Qualcomm and Sandisk plunge up to 17%; Nasdaq down 6%",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-crash-chip-stocks-extend-sell-off-amd-arm-qualcomm-and-sandisk-plunge-up-to-17-nasdaq-down-6-11793900308301.html",
+      "headline": "HDFC Bank shares rally 16% in 4 sessions, cross ₹12-lakh-cr market cap - BusinessLine",
+      "source": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOblNXWE5DR2EtR1ZBRVFnODdxenU3aTZCUm16bWZOVHhyQ2l3STlYelQyU3NFdDBmdnpvTjF4d2RiSUh3VXlndjR1ZE43REY1d2ZYRDV2UUJfREUwOU90NFgzQTRmekJDUXh3dGI2VUJ4OU9SQUswVTdMM1RPcTc5TzEzdXNFcHc1Vkp3MDVYbVUtbnVxZ2lDMWh5NXJjbkhTT3g3TmxxX2EzTUQ1ZnhaUGdQMWZ5ajJweXVnZFo4eWYtNFBfaE9NZDJfdzBaeDJGem9zTzZCQWVPbmNMOTRQQnlrenhTcE3SAe4BQVVfeXFMT3h6alZmT2xjQkpXOWJsMV8wTmNsaG5OSnVhS3JxTXRpTUgzV2ZiamJUUDBqQkhNWE14clNWSDdUbkljVE8zRm1EYjFtb1ViWHgxTzJSaEFiOXB1dDFvR0VpcVZEU3hGYlEzbUhPV3U1TVFmcmhwdnRiVWh0NWdVeWlOY1VTWEtpVDQ3VUNXSXMtc1ZXMDh0ckVhRnAzUksxYTdzUGplSEo3ZkJwcVJTUE5wNkJFMy0wOTJBd0FxdUR3RW9JOTRIS0VYOVJ4TW9nS1NDd1duVW1mblA1MXViVHdBSlNKREZLUFFIRTZRUQ?oc=5",
       "affected_assets": [
-        "Micron",
-        "AMD",
-        "Qualcomm",
-        "Nasdaq 100"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.92,
-      "reasoning": "Disappointing revenue guidance alongside growing fears of regulatory pauses on AI infrastructure spending triggered severe liquidation in global semiconductor counters. The massive tech drop threatens broader global equity valuations and raises short-term risk aversion across technology supply chains.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Indian IT stocks shrug off Wall Street rout; NIFTY IT rises 2%, Infosys and TCS in the green",
-      "source": "Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVVA0bnA1TUhTb0F3WmNyMjBSODRzVnRhR2tMa0llUFFaMTlhVEtYTl9WUngtelVrQTY5b1NtbzhoU2RYUHBaakRMbGFlbWMxUHBCbzdiemh5YlowTnZpdXc4R2Y4RXktd2VUVUprVEwyMEt2d2tfcWpZbHl0VmFDMWRQMFlGYnlCVkZmYzZnalg4M0dGNllMRno4UHMwWXIwWDQ2NlVDRzVXbnNkYlE1bms1ZEdob1V6WHhpN3FUcHFsY1B4cmQ1a0ZmTFFlR2E4MWtQV3ZSalFnUzFMbV9lVHdR?oc=5",
-      "affected_assets": [
-        "TCS",
-        "Infosys",
-        "NIFTY IT"
+        "HDFC Bank",
+        "Nifty Bank"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "Indian IT majors showed relative resilience and decoupled from US hardware/semiconductor weakness as defensive capital rotated into services. Earnings stability and attractive valuation levels provide a strong cushion against US tech volatility.",
+      "confidence": 0.9,
+      "reasoning": "HDFC Bank's massive rally of 16% in four sessions crossing the ₹12-lakh-crore market cap milestone reflects strong institutional momentum and heavy weightage support for benchmark indices. This sharp surge underscores renewed investor confidence in private sector banking credit growth and asset quality dynamics.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
+      "headline": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade/articleshow/135597848.cms",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
       "affected_assets": [
-        "USD/INR",
-        "Crude Oil",
-        "NIFTY 50"
+        "Indian Sovereign Bonds",
+        "Nifty 50"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.88,
+      "reasoning": "Sliding global crude oil prices have significantly eased domestic inflation risks and reduced India's import bill, driving a dramatic bond market rally. Lower benchmark yield expectations decrease corporate borrowing costs, providing strong macroeconomic tailwinds for Indian equities.",
+      "action": "buy_opportunity",
+      "category": "macro"
+    },
+    {
+      "headline": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+      "affected_assets": [
+        "US Tech Stocks",
+        "TCS",
+        "Infosys"
       ],
       "asset_type": "macro",
       "sentiment": "bearish",
-      "confidence": 0.88,
-      "reasoning": "Weakness in the Rupee driven by firm crude prices and sustained foreign institutional capital outflows increases import bill burdens. A weaker domestic currency compresses margins for import-dependent sectors while pressuring broader equity market sentiment.",
+      "confidence": 0.85,
+      "reasoning": "A severe sell-off in US technology equities driven by doubts over AI infrastructure monetization threatens global market valuation multiples. Indian IT service exporters face potential secondary pressures as global tech capex sentiment sours.",
       "action": "risk_alert",
       "category": "macro"
     },
     {
-      "headline": "Samvat 2083: How much gold and silver should your portfolio hold?",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/commodities/samvat-2083-gold-silver-price-portfolio-11793806249883.html",
-      "affected_assets": [
-        "Gold",
-        "Silver"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "neutral",
-      "confidence": 0.78,
-      "reasoning": "Precious metals are experiencing consolidation following record high runs, leading wealth managers to recommend strategic portfolio rebalancing. While structural inflation hedges support gold long-term, short-term momentum has softened.",
-      "action": "watch",
-      "category": "commodity"
-    },
-    {
-      "headline": "Unemployment claims drop to 189,000, the fewest since mid-July",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFpqQlVnUGpUMjYwb25WNThoV0FWZEhBdmlNUjFtU1B0XzROdllSQXkyVFk0R2lMbTdHbzFCejFqQXg0ZE9uVTFRME9XLVAzSEhtWk5PWVVMVFUxLWdSanZqWjJ2MC14QzIxQ0tVY2ZfTDZsamJETThsdV9makdLY1JfY2p5bUZnelJzYkMxc2RtQQ?oc=5",
+      "headline": "Dollar jumps after strong US payrolls report",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms",
       "affected_assets": [
         "US Dollar Index",
-        "US 10-Yr Treasury"
+        "USD/INR"
       ],
       "asset_type": "macro",
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "confidence": 0.82,
-      "reasoning": "Lower labor market distress underlines US economic resilience, mitigating immediate recession fears. However, sustained labor market tightness may prompt central banks to keep interest rates higher for longer.",
-      "action": "watch",
-      "category": "macro"
+      "reasoning": "Better-than-expected US non-farm payroll additions drove a sharp appreciation in the US Dollar index. A stronger dollar elevates foreign capital outflow risks from emerging markets like India and pressures the rupee.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "Daly says Fed rate hike likely, despite 'painful' tech-stock dive - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm1MU1hqV0tGaTZraWhpaVdqOGZCdzZjLUt3ZVZFU3BCaGFwdE9ham9MYktoSlF1SWF0eXRRR0V1QVhPUUZlRjdqZHdwMVlRS3pNaGUtWktTUmJhSUR3bW56MzdObWlZd0E0XzZSaUNnelUxR2FReTNkNTkwSVNEX3l6cmVveVRlNm1LWGNJdGs2WUt5c1BtS3o5TU9XbzRVNC1tT0ZydXREcmM?oc=5",
+      "affected_assets": [
+        "Global Equities",
+        "Nifty 50"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Hawkish commentary from US Federal Reserve officials suggesting potential monetary tightening revives higher-for-longer interest rate risks. Persistent high rates restrict equity risk premiums and constrain global liquidity.",
+      "action": "risk_alert",
+      "category": "policy"
     }
   ],
   "tweets": [],
