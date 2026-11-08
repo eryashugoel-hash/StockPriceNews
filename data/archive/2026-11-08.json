@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T12:36:26+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 2,
+    "neutral": 1
+  },
+  "insights": [
+    {
+      "headline": "Muhurat Trading Picks: HDFC Bank, BSE to Zen Tech - SAHI Research’s 5 stocks to buy on Diwali 2026 for Samvat 2083",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZ01CWGZ2eHFnbWc3Vm9zdHpmU3czMldWUVBnWjNqMW0tNXlwdFc1TVlIWGJDQkhpRUdlQ0NBcmVxbzhIT185MWJfcW1SVk1hNkpDRko1akZXQ3c3eDQ5bzhOY0NVMUpGQVZzczV5SWp3XzVrczZfY2dXY2RaY2dYSFFVQ3hyMXh0WEk1NW9BMjNhUERES1NSMktBYVI4MEpaMzBteEdyX0RFU0Z3MHFnQ0JIMkhpSVNqMUFfRnpaVkdMTTNzb20wc1pJUFNSVkxBQ2pyZGFqMHVGQUZ0a3RtM2Z3UXN3Qk9ZZUVEdVF4SnVHLU5jdVlCU2wzUEk5X05LQVJjSUF1LW1OVXN10gGSAkFVX3lxTE9iT0hycDdodV9LZnFRZ2JyRG1DeXV6TlpKaXRKTlB5blg1RExDOWJmTTZCSFZaMDFZX2R6N0R2eDJNMHFicDIxOHN6SkZGR2lqTW54U3BLc2Zzenc2UExVZDM4Tk1pUzVQX0F4cTMxVVdJVFhQMENMdFp6a3p5TndFalBsQVdrVFVLWExLVHNaZWZLSEpXX3Y0dGpFc1RWQ3ozc2MzQTVvalFYRjlHSWlkLWgycm5qaWFZSndmSTJqaks1TnJjZUJ6VnQwRXVwNGdBd0JTc21fZmRDY1hkRHczX2VsR1p6UXo1Wms1LXZ3RTlUTHFDWjROUU9sX0VhRzVqY3psOU9jZ2ZBcWNWamI1aVE?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "BSE",
+        "Zen Tech"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Special auspicious trading sessions like Muhurat trading traditionally see strong retail inflows and positive sentiment. Brokerage recommendations for foundational stocks like HDFC Bank and BSE create immediate buying momentum for the new Samvat year.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "RBI Monetary Policy 2026: Repo Rate, CRR, SLR and Important Terms",
+      "source": "Bankersadda",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GTnJnTWctT3U1NTdNYXVPMkIzdXJwb1I4M0RQWHdrM2dwRDFNWk5MU0E3bWhMdVFLb2pDQVJmQnZ4eDJPX2JsTnJyUFlkaXdKX3I2NTVmMk4teFRoWVZXRUh4RQ?oc=5",
+      "affected_assets": [
+        "Nifty Bank",
+        "HDFC Bank",
+        "State Bank of India"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "reasoning": "Continuous updates and educational reviews regarding RBI tools keep market participants alert to potential monetary policy shifts. While informational, it highlights the heavy reliance of banking stocks on central bank liquidity and rate decisions.",
+      "action": "watch",
+      "category": "policy"
+    },
+    {
+      "headline": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnYwLWlzSG81XzlXRFFWRHdmWXU3OWljQnBHaU5FVThCWHlFVGU2Ynl5VUxtQkljeXoxX1hSTk1STmRkajFpa19OR2NxSkowcjlyakpjMEVzTjBDUmhCUkgzcTdHaE51UTdBTVBTak0tZ3VZMHNUWUdWaUxXaFRnekYxYzVEX1JtVWIzTW1VSkNWa3Bta1VJSlFiM1BJS3duZ2pv0gGoAUFVX3lxTE9RTXdZSDNoNGplSW1JaFFJOC1LMEVxbE9rSmphM0pfd0tuTXd0WVFCS1R1RFd0M3QyRjJjdFVYSnF6R3RWWTlhcVlqcTdQUmhYVWlPZktmRDZWS3gybG16MmVOcW53ZERGWHpVekN6Z2ZrNFNoM1Z4QWhtNXpaMVdNd1FMcGxTVkI5ek9UZTZOaUN3U3hxdFFzaTZZR24ycmxIUTd0S0o0Nw?oc=5",
+      "affected_assets": [
+        "Global Equities",
+        "CAD/USD",
+        "Commodities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Escalating trade tensions and protectionist tariffs between major economies disrupt global supply chains and increase input costs. This introduces macro-level headwinds that negatively affect global risk sentiment.",
+      "action": "risk_alert",
+      "category": "geopolitical"
+    },
+    {
+      "headline": "Gold, Silver Outlook: US-Iran Tensions, Inflation Data Key",
+      "source": "Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDk4aGEyOUJ1T1N5OG4yaXpWa2lJeHJTVTA2b01tcFVIU0pKMEtNVTRuYzRFYnJQTXRzbTFJMGMxVlZidjNCQTJNYXFjTXA2V0M1Q3k2NUdCZ2xfbFhhTW5HMG15U1ZPS2hLT1Ytay0wMlJSS0RqRmctM1IyclRxQzBPTWItT1JMMFJGdTNDSGF5RGhIVzFiaWlhX0FVNElPNURwN21sUXFUSjTSAbABQVVfeXFMUHIweUhyalpEMzBUXzRBZlNQVGFOcUJIaTNaSWpyTkxxNDVQLTZ0U19OTXNpTFQ0V3VQZ3BJc0VoTkN4VnF1dmpOc3V2UXNqLUY1QmthcHA4b0xULUFoWXVhUmZiOHc0QWg5cm5jZ1dtb3NCSDJXcWZhdXd0TjNVcVlUVXVlWjNOVDdBbVZYb0txLWZIQ29YMDdRSUZHUnVGZE9fUUo2X2pnUFI5TkpBNTc?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Geopolitical friction in the Middle East combined with looming inflation metrics typically triggers safe-haven buying. Precious metals stand to benefit significantly as investors hedge against macro uncertainty and currency volatility.",
+      "action": "buy_opportunity",
+      "category": "commodity"
+    },
+    {
+      "headline": "NZ youth unemployment hits 15.2% as jobless rate climbs to 5.7%",
+      "source": "B2B News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdl9uN3RKU3QzTktkVHVGWjNfRzh3SDJwa2lOazA3YmJpaDZGRk9tQUZZbjlxN0o4SUh2c0Q4N1BVRHNrZHRUWW85YWFiMzRPbTMwaDlmdFhhZjZscmMwaVFaQnp1SkdaaGtOa2FWeEgwQm0wVmtTUXJpSUVUelN2ZFF5c0N0d3RJRDE0WlpoRWQyRXRXaF80eUpJSGVoT3JtX0ozVU9SMVg1NFdTOEF5WHhpM0taVFFR?oc=5",
+      "affected_assets": [
+        "NZD",
+        "Global Markets"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "reasoning": "Deteriorating labor market indicators point to economic slowdowns in developed economies, dampening consumer demand and impacting global growth forecasts. Such labor softening often prompts sudden shifts in central bank policy.",
+      "action": "risk_alert",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
