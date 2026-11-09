@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T13:18:42+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 2,
+    "neutral": 1
+  },
+  "insights": [
+    {
+      "headline": "Citi Raises Nifty 50 Target To 28,000; Adds Bajaj Finance To Its Top Picks",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/markets/citi-raises-nifty-50-target-to-28-000-adds-bajaj-finance-to-its-top-picks-12302351#publisher=newsstand",
+      "affected_assets": [
+        "Nifty 50",
+        "Bajaj Finance"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Citi's upgraded target of 28,000 for the Nifty 50 reflects strong earnings growth expectations and lower crude oil prices. Adding Bajaj Finance as a top pick provides strong institutional backing for financial sector heavyweights.",
+      "action": "buy_opportunity",
+      "category": "macro"
+    },
+    {
+      "headline": "Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmxRSVlEM2EzLVNFZjNYSjlPMG9ONXZVOGJoQ3BJMkJEZWU5Y2Q5MklUVDl3ZGVwemNuTG1IVWtrbTFCRDJHTEpnZmZNWnVDcTVFZmtJYjdreno3RlVCRWVMbjJuMGUyZldEeUNjUWVCTXRDSkMwaFE0WE1CbkdFT0hxTmVLMTZFWVBxMHlZYXhFZFhRNTVIaVVfV19Md0VHQ1N1SXp5dkRabjN0M3lOTHE4WWNEVkJqRFkyOXRaNEN4c05qSHdpaEFJU00td3REU0RBUUFOUnZWSHfSAeMBQVVfeXFMUE1vNVZkR0pETG9lU0JzR2VNVVhMcFRtMVZwTEJn?oc=5",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "HCL Tech"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Major IT heavyweights including TCS, Infosys, and HCL Tech faced sharp selling pressure, acting as primary drags on the broad indices. This reflects sector-wide valuation headwinds and cautious discretionary tech spending.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold Glitters: Yellow Metal Prices Jump Above Rs 1,44,000; Silver Prices Up By Rs 4,300",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/markets/gold-glitters-yellow-metal-prices-jump-above-rs-1-44-000-silver-prices-up-by-rs-4-300-12302246#publisher=newsstand",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Precious metals saw strong buying momentum driven by safe-haven demand and weakening crude prices easing broader inflation fears. The surge on MCX highlights robust domestic demand alongside global price rallies.",
+      "action": "buy_opportunity",
+      "category": "commodity"
+    },
+    {
+      "headline": "Nvidia stock in focus: 3 key risks after Jensen Huang probe",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-in-focus-3-key-risks-after-jensen-huang-probe/slideshow/135674350.cms",
+      "affected_assets": [
+        "Nvidia",
+        "Indian IT Stocks"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Scrutiny surrounding Nvidia leadership and potential governance concerns triggered a pullback in global tech trading. This sentiment spillover increases risk averse sentiment for technology and data center infrastructure equities.",
+      "action": "watch",
+      "category": "geopolitical"
+    },
+    {
+      "headline": "China prolongs pause on 24% US tariffs",
+      "source": "Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUdETWh1ME52V0FqamhJdzdNM3ROaURROVNEZFZpb1V3bGp1N20xc1FtOWRUcUxLNEFGSm9Sb01qS1VlSXM3TXRCU0QyZWZCZjM2LUZrUzFNdFlDQzVmRUlhMWh6TVA4NHpudmthUGwtZnFoQWNLa0M2N2VQc3J5TXRVQlc4cEhKbWc?oc=5",
+      "affected_assets": [
+        "Emerging Market Equities",
+        "Global Trade Basket"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "reasoning": "China extending its tariff pause on US goods mitigates immediate trade war escalation, offering relief for global supply chains. The macro stability prevents downside shock for emerging market trade linkages.",
+      "action": "watch",
+      "category": "policy"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
