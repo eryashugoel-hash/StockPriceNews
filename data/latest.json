@@ -1,87 +1,86 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T13:18:42+05:30",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T13:37:38+05:30",
   "market_pulse": {
     "bullish": 2,
-    "bearish": 2,
-    "neutral": 1
+    "bearish": 3,
+    "neutral": 0
   },
   "insights": [
     {
-      "headline": "Citi Raises Nifty 50 Target To 28,000; Adds Bajaj Finance To Its Top Picks",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/markets/citi-raises-nifty-50-target-to-28-000-adds-bajaj-finance-to-its-top-picks-12302351#publisher=newsstand",
+      "headline": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIpE...",
       "affected_assets": [
-        "Nifty 50",
-        "Bajaj Finance"
+        "Reliance Industries",
+        "Jio Platforms",
+        "Vedanta"
       ],
-      "asset_type": "macro",
+      "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Citi's upgraded target of 28,000 for the Nifty 50 reflects strong earnings growth expectations and lower crude oil prices. Adding Bajaj Finance as a top pick provides strong institutional backing for financial sector heavyweights.",
+      "reasoning": "Reclassification into higher market-cap categories typically drives significant passive institutional inflows from mutual funds tracking large-cap indices. Jio Platforms and other additions stand to gain strong liquidity and market coverage. Conversely, stocks demoted to mid-cap may face short-term portfolio rebalancing pressures.",
       "action": "buy_opportunity",
-      "category": "macro"
+      "category": "stock_specific"
     },
     {
-      "headline": "Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmxRSVlEM2EzLVNFZjNYSjlPMG9ONXZVOGJoQ3BJMkJEZWU5Y2Q5MklUVDl3ZGVwemNuTG1IVWtrbTFCRDJHTEpnZmZNWnVDcTVFZmtJYjdreno3RlVCRWVMbjJuMGUyZldEeUNjUWVCTXRDSkMwaFE0WE1CbkdFT0hxTmVLMTZFWVBxMHlZYXhFZFhRNTVIaVVfV19Md0VHQ1N1SXp5dkRabjN0M3lOTHE4WWNEVkJqRFkyOXRaNEN4c05qSHdpaEFJU00td3REU0RBUUFOUnZWSHfSAeMBQVVfeXFMUE1vNVZkR0pETG9lU0JzR2VNVVhMcFRtMVZwTEJn?oc=5",
+      "headline": "Oil falls as Trump downplays prospect of escalation with Iran",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran/articleshow/135696497.cms",
       "affected_assets": [
-        "TCS",
-        "Infosys",
-        "HCL Tech"
+        "Crude Oil",
+        "Brent Crude"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.88,
+      "reasoning": "Crude oil prices dropped sharply as geopolitical risk premiums dissolved following statements easing fears of US military conflict with Iran. Lower crude prices reduce input costs for net oil-importing nations like India, aiding paint, tyre, and lubricant sectors while weighing on energy producers.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Anthropic retracts details of $69 billion IPO filing sent to bankers. Why analysts are raising worries over valuations",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms",
+      "affected_assets": [
+        "Anthropic",
+        "AI Tech Stocks"
       ],
       "asset_type": "stock",
       "sentiment": "bearish",
       "confidence": 0.8,
-      "reasoning": "Major IT heavyweights including TCS, Infosys, and HCL Tech faced sharp selling pressure, acting as primary drags on the broad indices. This reflects sector-wide valuation headwinds and cautious discretionary tech spending.",
+      "reasoning": "The retraction of IPO documents due to calculation errors creates governance skepticism and accentuates market anxiety around inflated private AI valuations. Increased scrutiny on high-multiple tech offerings could lead to broader repricing across global artificial intelligence equities.",
       "action": "risk_alert",
       "category": "stock_specific"
     },
     {
-      "headline": "Gold Glitters: Yellow Metal Prices Jump Above Rs 1,44,000; Silver Prices Up By Rs 4,300",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/markets/gold-glitters-yellow-metal-prices-jump-above-rs-1-44-000-silver-prices-up-by-rs-4-300-12302246#publisher=newsstand",
+      "headline": "Gold dips ahead of US inflation data",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-ahead-of-us-inflation-data/articleshow/135696094.cms",
       "affected_assets": [
         "Gold",
-        "Silver"
+        "US Dollar"
       ],
       "asset_type": "commodity",
-      "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "Precious metals saw strong buying momentum driven by safe-haven demand and weakening crude prices easing broader inflation fears. The surge on MCX highlights robust domestic demand alongside global price rallies.",
-      "action": "buy_opportunity",
-      "category": "commodity"
-    },
-    {
-      "headline": "Nvidia stock in focus: 3 key risks after Jensen Huang probe",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-in-focus-3-key-risks-after-jensen-huang-probe/slideshow/135674350.cms",
-      "affected_assets": [
-        "Nvidia",
-        "Indian IT Stocks"
-      ],
-      "asset_type": "stock",
       "sentiment": "bearish",
       "confidence": 0.75,
-      "reasoning": "Scrutiny surrounding Nvidia leadership and potential governance concerns triggered a pullback in global tech trading. This sentiment spillover increases risk averse sentiment for technology and data center infrastructure equities.",
+      "reasoning": "Gold prices retreated in early trading as investors pared bullish positions in anticipation of critical US CPI data. Concerns that sticky inflation could delay Federal Reserve interest rate cuts strengthen the US dollar, creating headwinds for non-yielding bullion.",
       "action": "watch",
-      "category": "geopolitical"
+      "category": "macro"
     },
     {
-      "headline": "China prolongs pause on 24% US tariffs",
-      "source": "Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUdETWh1ME52V0FqamhJdzdNM3ROaURROVNEZFZpb1V3bGp1N20xc1FtOWRUcUxLNEFGSm9Sb01qS1VlSXM3TXRCU0QyZWZCZjM2LUZrUzFNdFlDQzVmRUlhMWh6TVA4NHpudmthUGwtZnFoQWNLa0M2N2VQc3J5TXRVQlc4cEhKbWc?oc=5",
+      "headline": "700% return in 5 years: KP Energy share price rallies 20% to hit upper circuit ahead of Q2 results 2026- Check details",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/market/stock-market-news/700-return-in-5-years-kp-energy-share-price-rallies-20-to-hit-upper-circuit-ahead-of-q2-results-2026-check-key-detai-11794223729241.html",
       "affected_assets": [
-        "Emerging Market Equities",
-        "Global Trade Basket"
+        "KP Energy"
       ],
-      "asset_type": "macro",
-      "sentiment": "neutral",
-      "confidence": 0.8,
-      "reasoning": "China extending its tariff pause on US goods mitigates immediate trade war escalation, offering relief for global supply chains. The macro stability prevents downside shock for emerging market trade linkages.",
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "reasoning": "The stock hit its 20% upper circuit accompanied by a tenfold surge in trading volumes ahead of its quarterly earnings release. High pre-earnings momentum highlights heavy speculative interest, though downside risk remains sharp if financial results disappoint.",
       "action": "watch",
-      "category": "policy"
+      "category": "stock_specific"
     }
   ],
   "tweets": [],
