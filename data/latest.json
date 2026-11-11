@@ -1,86 +1,89 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T13:37:38+05:30",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T13:08:21+05:30",
   "market_pulse": {
-    "bullish": 2,
-    "bearish": 3,
+    "bullish": 3,
+    "bearish": 2,
     "neutral": 0
   },
   "insights": [
     {
-      "headline": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",
-      "source": "Livemint",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIpE...",
+      "headline": "HDFC Bank, YES Bank, SBI, ICICI Bank, Axis Bank, BoB rally up 6%, Nifty Bank nears 52-week high - Business Today",
+      "source": "Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVFUtUkdBVFc0dmZUeUt4aF90OEk0N2ZjdDRGa3k3YXVrRENZb2ZQYmVjN2hoMkdrRVppOTAyZm5wd2xVd3RRUEx1cE9td0xaeTFERnBXRjBHWFZsUlVJRWhsSC0wRG5hTGtIcWRnOUhkUXRNcjVQc3dsVHpPd1FnSVFpTUZsYkEtTmZDTWZvTjhWN1QzU19SU0FURGJ4MmI2V1lmWWpaRWpKb044NlYtT0tHa0RfU0wxd2plV2lreTJsMFAzVXlJdms4RmpuM0pYOUpQNFpxd3F3ZnhFTFB6ZUttMExrcFdqQWF3T9IB8gFBVV95cUxQNGJIVGgwdUc4ODJoakRjdDhka19tWGhRN2wtTmtNYUJWT0M3Wm5WZ1N1ZUx2RHBidE1OXy1uV004d3JhVmdxeEtQSlV0NlJLUHJMdUVZSEdwTHFrT3hzcEU2UTY2Q00tVl9CS3F0SmVXU252QnRTd2MycEg4SXBLZkdaUzQ3a2E2OWJieVFETWYydVNoZ0hjRjBCUU1ZeTRrNE9XT3BMVG5KU0twSjNyMDZrbi1ncnV0bDBnVmJvYkktNFpjVkwwSVp0SFQ4WG9WeE93UE8zNmVQLVBDQnpENkZmOEpzRVYyTGNWUjE0MzRZUQ?oc=5",
       "affected_assets": [
-        "Reliance Industries",
-        "Jio Platforms",
-        "Vedanta"
+        "HDFC Bank",
+        "State Bank of India",
+        "ICICI Bank",
+        "Axis Bank",
+        "Nifty Bank"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "Reclassification into higher market-cap categories typically drives significant passive institutional inflows from mutual funds tracking large-cap indices. Jio Platforms and other additions stand to gain strong liquidity and market coverage. Conversely, stocks demoted to mid-cap may face short-term portfolio rebalancing pressures.",
+      "confidence": 0.88,
+      "reasoning": "Broad-based institutional buying across heavyweight private and PSU lenders is driving the Nifty Bank index toward annual highs. Robust credit growth metrics and improving asset quality provide sustained fundamental tailwinds. The surge in these high-weightage banking stocks serves as a primary catalyst lifting the broader Indian equity indices.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Oil falls as Trump downplays prospect of escalation with Iran",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran/articleshow/135696497.cms",
+      "headline": "Sensex, Nifty hit eight-month high as foreign investors return",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/indian-stocks-poised-for-higher-open-on-softer-crude-robust-foreign-buying-11794366485802.html",
       "affected_assets": [
-        "Crude Oil",
-        "Brent Crude"
+        "Nifty 50",
+        "BSE Sensex"
       ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.88,
-      "reasoning": "Crude oil prices dropped sharply as geopolitical risk premiums dissolved following statements easing fears of US military conflict with Iran. Lower crude prices reduce input costs for net oil-importing nations like India, aiding paint, tyre, and lubricant sectors while weighing on energy producers.",
-      "action": "watch",
-      "category": "commodity"
-    },
-    {
-      "headline": "Anthropic retracts details of $69 billion IPO filing sent to bankers. Why analysts are raising worries over valuations",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms",
-      "affected_assets": [
-        "Anthropic",
-        "AI Tech Stocks"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "reasoning": "The retraction of IPO documents due to calculation errors creates governance skepticism and accentuates market anxiety around inflated private AI valuations. Increased scrutiny on high-multiple tech offerings could lead to broader repricing across global artificial intelligence equities.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Gold dips ahead of US inflation data",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-ahead-of-us-inflation-data/articleshow/135696094.cms",
-      "affected_assets": [
-        "Gold",
-        "US Dollar"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.75,
-      "reasoning": "Gold prices retreated in early trading as investors pared bullish positions in anticipation of critical US CPI data. Concerns that sticky inflation could delay Federal Reserve interest rate cuts strengthen the US dollar, creating headwinds for non-yielding bullion.",
-      "action": "watch",
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "The return of Foreign Institutional Investor (FII) inflows combined with softer crude oil prices provides substantial macro relief for the Indian economy. FII inflows reverse recent persistent liquidity drains, expanding valuation multiples across large-cap benchmarks. Lower input costs from softened energy prices further strengthen corporate margin outlooks.",
+      "action": "buy_opportunity",
       "category": "macro"
     },
     {
-      "headline": "700% return in 5 years: KP Energy share price rallies 20% to hit upper circuit ahead of Q2 results 2026- Check details",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/market/stock-market-news/700-return-in-5-years-kp-energy-share-price-rallies-20-to-hit-upper-circuit-ahead-of-q2-results-2026-check-key-detai-11794223729241.html",
+      "headline": "Oil hits two-month lows as US eases Iran fears - The Star",
+      "source": "The Star",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjhZS0VUVzM3MkJYbmN1ci0yT2VLb000T25rU3k4UV9RSFBmc2xhQXVkRU9YN0dhamo5bDhGbmNaZ1RvYk9nR3liOVd2TEg3VVFwdXlmSGV2dU82SmNKaFN1bDJGRTBLNkREQVpLSlZJNmRzTkFrcWVlWl9BcElUTEpCREFEOHFTWlp5WktqdGNlMHRNZ1VnOA?oc=5",
       "affected_assets": [
-        "KP Energy"
+        "Brent Crude",
+        "WTI Crude Oil"
       ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "reasoning": "The stock hit its 20% upper circuit accompanied by a tenfold surge in trading volumes ahead of its quarterly earnings release. High pre-earnings momentum highlights heavy speculative interest, though downside risk remains sharp if financial results disappoint.",
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.82,
+      "reasoning": "De-escalation of geopolitical friction surrounding Iran removes a key supply-risk premium from global crude benchmarks. Falling crude prices generally alleviate import bill pressures for emerging markets like India while pressuring upstream oil exploration revenues. In the short to medium term, fundamental energy markets face headwind pressures from stabilizing supplies.",
       "action": "watch",
-      "category": "stock_specific"
+      "category": "geopolitical"
+    },
+    {
+      "headline": "Broad Price Pressures Firm Up Case for Fed Rate Increase in December - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTM0hlaW1Oc0FQRUY5YXRsYlgyQVZIMDhlUnpob3ZiZU9DbF9LdE5ocmRGaXNrXzhSU3BDVmhyalFqSXp0WU1WamlZcTAyWUR1U2FEN1h5N1hvNVR6a1ZpeVhVZFktVDRIYXdDSzh0UXRVRVc3RUZMdGZ3?oc=5",
+      "affected_assets": [
+        "US Treasury Yields",
+        "Emerging Market Equities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.84,
+      "reasoning": "Persistent underlying price pressures in the US increase the risk of continued hawkish monetary policy from the Federal Reserve. Higher-for-longer US interest rates drive Treasury yields upward, increasing capital flight risks from emerging markets. This macroeconomic pressure also tightens global liquidity conditions and keeps emerging market borrowing costs elevated.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "MCX silver jumps over Rs 4,000, Gold rises; What's driving rally on Wednesday? - Zee Business",
+      "source": "Zee Business",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWhKVWVMblNPQklMcE9CclJBWFdsUjJ4aExKdmcwN3ZjYTdMSnVKaWRscFdVeWE3eFY1ajFCRHJNZE5ZTG5MZ1F6VFlFWVFGLTdFWjdkV19PRnJkYi1uMjBWN01iMmFEUGliajNsXzNjaFRJaDBxaEZRNGJ0QlpzSE91ZTNPNkw2UDV6R3dNRGdPQktmNlV1RHZGWDZZWTRCYXFKaWZhMWt2QVUzWWNHVm4xWlFXeVpub3BhUnEwbzRXNHNYa1pv?oc=5",
+      "affected_assets": [
+        "MCX Silver",
+        "MCX Gold"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "A sharp rise in domestic silver and gold prices on the MCX highlights renewed hedging interest and physical demand. Silver benefits from both monetary safe-haven flows and sustained industrial demand in the green transition. The pronounced single-day price surge indicates robust short-term fundamental support across precious metals.",
+      "action": "watch",
+      "category": "commodity"
     }
   ],
   "tweets": [],
