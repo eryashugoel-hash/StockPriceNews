@@ -1,87 +1,89 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T13:08:21+05:30",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T13:30:26+05:30",
   "market_pulse": {
-    "bullish": 3,
+    "bullish": 2,
     "bearish": 2,
-    "neutral": 0
+    "neutral": 1
   },
   "insights": [
     {
-      "headline": "HDFC Bank, YES Bank, SBI, ICICI Bank, Axis Bank, BoB rally up 6%, Nifty Bank nears 52-week high - Business Today",
-      "source": "Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVFUtUkdBVFc0dmZUeUt4aF90OEk0N2ZjdDRGa3k3YXVrRENZb2ZQYmVjN2hoMkdrRVppOTAyZm5wd2xVd3RRUEx1cE9td0xaeTFERnBXRjBHWFZsUlVJRWhsSC0wRG5hTGtIcWRnOUhkUXRNcjVQc3dsVHpPd1FnSVFpTUZsYkEtTmZDTWZvTjhWN1QzU19SU0FURGJ4MmI2V1lmWWpaRWpKb044NlYtT0tHa0RfU0wxd2plV2lreTJsMFAzVXlJdms4RmpuM0pYOUpQNFpxd3F3ZnhFTFB6ZUttMExrcFdqQWF3T9IB8gFBVV95cUxQNGJIVGgwdUc4ODJoakRjdDhka19tWGhRN2wtTmtNYUJWT0M3Wm5WZ1N1ZUx2RHBidE1OXy1uV004d3JhVmdxeEtQSlV0NlJLUHJMdUVZSEdwTHFrT3hzcEU2UTY2Q00tVl9CS3F0SmVXU252QnRTd2MycEg4SXBLZkdaUzQ3a2E2OWJieVFETWYydVNoZ0hjRjBCUU1ZeTRrNE9XT3BMVG5KU0twSjNyMDZrbi1ncnV0bDBnVmJvYkktNFpjVkwwSVp0SFQ4WG9WeE93UE8zNmVQLVBDQnpENkZmOEpzRVYyTGNWUjE0MzRZUQ?oc=5",
+      "headline": "Inflation seen hitting RBI's 6% ceiling in October, putting rate policy in focus - Livemint",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYS1GSmp3akszSG5mQjNTalZjbnU3OW16S2JCVzRWV3VZYTA4ZjA3YTUwUFVrdXVYMmhNVDMzMzZxeXpzeFJTd0xlTlE2NTJwcFNqajFYOHBYc29CdlVyalJyUlQxOWw3Q3FGbURzbl8yc2VnMlRLbnlUMG9aUzE3X0ZBMXpmN19WNlV4bjVsZ0ZuU1gteWd0V1JSeW10QTh1ZXhmMGZKcWZ1al9zQ2xHd25rRTc0Y3ZRbVBn0gHAAUFVX3lxTE12S1hBU3FrbzljNXYxSW1YbzFBWkxYbHFiaWJDbENqb1hXWXV1SWxsdWZ4NTRlVVlGUm5ZOVFXYXVOdmpCS0ctQjQ0YzhtLVVFR00wT1NicURZSGdCOXpESVBlVl9RVFhzVzNGZ1NfWmMzR1BFMVgzOUJ1WHBCSGhDRTV2OWowS0prMHJ0ZW1naFQ4NzVxV3kzUHc0MVFubnE4TzhRY2NOQmpfUGNBR3QtVWZldU9fQWZXc0tYVmgzQQ?oc=5",
       "affected_assets": [
-        "HDFC Bank",
-        "State Bank of India",
-        "ICICI Bank",
-        "Axis Bank",
-        "Nifty Bank"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.88,
-      "reasoning": "Broad-based institutional buying across heavyweight private and PSU lenders is driving the Nifty Bank index toward annual highs. Robust credit growth metrics and improving asset quality provide sustained fundamental tailwinds. The surge in these high-weightage banking stocks serves as a primary catalyst lifting the broader Indian equity indices.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Sensex, Nifty hit eight-month high as foreign investors return",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/indian-stocks-poised-for-higher-open-on-softer-crude-robust-foreign-buying-11794366485802.html",
-      "affected_assets": [
+        "Nifty Bank",
         "Nifty 50",
-        "BSE Sensex"
+        "State Bank of India",
+        "HDFC Bank"
       ],
       "asset_type": "macro",
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "confidence": 0.85,
-      "reasoning": "The return of Foreign Institutional Investor (FII) inflows combined with softer crude oil prices provides substantial macro relief for the Indian economy. FII inflows reverse recent persistent liquidity drains, expanding valuation multiples across large-cap benchmarks. Lower input costs from softened energy prices further strengthen corporate margin outlooks.",
-      "action": "buy_opportunity",
-      "category": "macro"
-    },
-    {
-      "headline": "Oil hits two-month lows as US eases Iran fears - The Star",
-      "source": "The Star",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjhZS0VUVzM3MkJYbmN1ci0yT2VLb000T25rU3k4UV9RSFBmc2xhQXVkRU9YN0dhamo5bDhGbmNaZ1RvYk9nR3liOVd2TEg3VVFwdXlmSGV2dU82SmNKaFN1bDJGRTBLNkREQVpLSlZJNmRzTkFrcWVlWl9BcElUTEpCREFEOHFTWlp5WktqdGNlMHRNZ1VnOA?oc=5",
-      "affected_assets": [
-        "Brent Crude",
-        "WTI Crude Oil"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.82,
-      "reasoning": "De-escalation of geopolitical friction surrounding Iran removes a key supply-risk premium from global crude benchmarks. Falling crude prices generally alleviate import bill pressures for emerging markets like India while pressuring upstream oil exploration revenues. In the short to medium term, fundamental energy markets face headwind pressures from stabilizing supplies.",
-      "action": "watch",
-      "category": "geopolitical"
-    },
-    {
-      "headline": "Broad Price Pressures Firm Up Case for Fed Rate Increase in December - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTM0hlaW1Oc0FQRUY5YXRsYlgyQVZIMDhlUnpob3ZiZU9DbF9LdE5ocmRGaXNrXzhSU3BDVmhyalFqSXp0WU1WamlZcTAyWUR1U2FEN1h5N1hvNVR6a1ZpeVhVZFktVDRIYXdDSzh0UXRVRVc3RUZMdGZ3?oc=5",
-      "affected_assets": [
-        "US Treasury Yields",
-        "Emerging Market Equities"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
-      "confidence": 0.84,
-      "reasoning": "Persistent underlying price pressures in the US increase the risk of continued hawkish monetary policy from the Federal Reserve. Higher-for-longer US interest rates drive Treasury yields upward, increasing capital flight risks from emerging markets. This macroeconomic pressure also tightens global liquidity conditions and keeps emerging market borrowing costs elevated.",
+      "reasoning": "CPI inflation touching the RBI upper tolerance threshold of 6% limits the central bank room for near-term rate cuts. Delayed monetary easing threatens loan growth momentum and elevates borrowing costs across rate-sensitive sectors. This presents headwinds for commercial lenders and consumer discretionary stocks in the intermediate term.",
       "action": "risk_alert",
       "category": "policy"
     },
     {
-      "headline": "MCX silver jumps over Rs 4,000, Gold rises; What's driving rally on Wednesday? - Zee Business",
-      "source": "Zee Business",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWhKVWVMblNPQklMcE9CclJBWFdsUjJ4aExKdmcwN3ZjYTdMSnVKaWRscFdVeWE3eFY1ajFCRHJNZE5ZTG5MZ1F6VFlFWVFGLTdFWjdkV19PRnJkYi1uMjBWN01iMmFEUGliajNsXzNjaFRJaDBxaEZRNGJ0QlpzSE91ZTNPNkw2UDV6R3dNRGdPQktmNlV1RHZGWDZZWTRCYXFKaWZhMWt2QVUzWWNHVm4xWlFXeVpub3BhUnEwbzRXNHNYa1pv?oc=5",
+      "headline": "FIIs are back! Jefferies lists 11 stocks that can be the biggest beneficiaries",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-are-back-jefferies-lists-11-stocks-that-can-be-the-biggest-beneficiaries/slideshow/135758277.cms",
       "affected_assets": [
-        "MCX Silver",
-        "MCX Gold"
+        "HDFC Bank",
+        "Reliance Industries",
+        "Nifty 50"
       ],
-      "asset_type": "commodity",
+      "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.8,
-      "reasoning": "A sharp rise in domestic silver and gold prices on the MCX highlights renewed hedging interest and physical demand. Silver benefits from both monetary safe-haven flows and sustained industrial demand in the green transition. The pronounced single-day price surge indicates robust short-term fundamental support across precious metals.",
+      "reasoning": "Foreign institutional investors reversing their selling stance to become net buyers provides critical liquidity support to heavyweights. Inflows from foreign funds historically trigger re-rating and short-covering rallies in large-cap indices. Top index constituents such as Reliance and HDFC Bank stand to gain the largest allocation share.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Fresh $280,000,000,000 Wipeout: Nvidia Shares Sink 8% On Reports Of Alleged Jensen Huang's Second Affair",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/markets/fresh-280-000-000-000-wipeout-nvidia-shares-sink-8-percent-reports-alleged-huangs-second-affair-jensen-huang-chinese-spy-affair-chipmaker-us-12314903#publisher=newsstand",
+      "affected_assets": [
+        "Nvidia",
+        "Global Semiconductor Index",
+        "TCS",
+        "Infosys"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Uncertainty around executive leadership and potential corporate governance fallout at Nvidia introduces heightened volatility across global technology and AI supply chains. A sharp retreat in US semiconductor bellwethers can depress valuation multiples for global IT and tech service providers. Investors are likely to derisk exposure until governance clarity emerges.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Tata Power shares rise 2% after Q2 results. Why brokerages are bullish despite target price cuts",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-in-focus-after-q2-results-why-brokerages-are-bullish-despite-target-price-cuts/articleshow/135753647.cms",
+      "affected_assets": [
+        "Tata Power"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "A 33% year-on-year surge in net profit along with a 26% revenue increase demonstrates robust operational efficiency and execution in renewable energy and transmission. Sustained broker buy ratings confirm that the medium-term fundamental investment case remains intact despite marginal target adjustments. Robust earnings expansion cushions the stock against broader equity volatility.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Natural Gas Price Forecast: Reversal Risks $3.047 if $3.177 Breaks - FXEmpire",
+      "source": "FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGFJeFNwYTdDWnBHZkVhUGtOUXBxZ3lfa1BFdGQxUkJfUTg5RGV0V3RSb0R6RUJsOHNNSkpBajJlaDYyczE0a19UMFZMSDM0NkRqai1FY2VIdThDcTFoaUstTEJQU0h0Z19EbHRQSkd3elVINThvTW1TU3QzLTNEYnVzTlE1ZXBZWHRoVFdjVG8wUlJVcXJWNzkyN2VnYi1NUmJOa0NFWmdSRm8yMFdhTG01NzM?oc=5",
+      "affected_assets": [
+        "Natural Gas",
+        "GAIL",
+        "ONGC"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "reasoning": "Natural gas is testing critical pivot levels where a failure to hold support could spark a downward pricing correction toward fundamental demand baselines. Lower gas prices would ease feed-stock input costs for Indian city gas distributors, while weighing on upstream realization for exploration majors. The near-term trend remains dependent on winter weather forecasts and storage build data.",
       "action": "watch",
       "category": "commodity"
     }
