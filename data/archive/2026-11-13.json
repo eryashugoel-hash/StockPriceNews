@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T13:11:12+05:30",
+  "market_pulse": {
+    "bullish": 1,
+    "bearish": 3,
+    "neutral": 1
+  },
+  "insights": [
+    {
+      "headline": "India inflation jumps to 6.09% in October",
+      "source": "Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEFaWmFzQVZTNG9zVnBSZjhqa0FOc2NUaHd2ZWVhNnRGc19jT3QwOEdEVjZjdGRFWXZETDVzbDBveXg3dkVKYXpCWXBxSWZRZzlvVml5M1dqRHdJcTdPQzB1bHlZai1qMjVKNFhnbml4X3FSVFlsd2NmQ1ZxRkI1ZG1sNU45ejV5SWQtM1hwUDd4Zw?oc=5",
+      "affected_assets": [
+        "NIFTY 50",
+        "BANK NIFTY",
+        "Indian Sovereign Bonds"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "A jump in India's CPI inflation to 6.09% pushes consumer prices above the RBI's upper tolerance threshold of 6%. This reduces the likelihood of near-term rate cuts by the RBI, putting upward pressure on bond yields and weight on equity valuations.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "MSCI rejig: Which stocks may see the biggest inflows & outflows?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms",
+      "affected_assets": [
+        "MSCI India Index",
+        "NIFTY 50"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "The periodic MSCI index rebalancing is set to increase India's overall weighting, prompting substantial passive foreign institutional inflows. Selected constituent stocks expected to receive higher weightage will benefit from immediate liquidity support.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Nvidia stock crash: Short seller flagged Jensen Huang’s close ties to Alice Huang months before CEO’s resignation",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/nvidia-stock-crash-short-seller-flagged-jensen-huang-s-close-ties-to-alice-huang-months-before-ceo-s-resignation-11794502597338.html",
+      "affected_assets": [
+        "Nvidia",
+        "TCS",
+        "Infosys"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.9,
+      "reasoning": "Concerns surrounding Nvidia's leadership resignation and supply chain scrutiny trigger a sharp sell-off in global tech equities. Second-order sentiment impacts Indian IT vendors reliant on global enterprise AI capital expenditures.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Why is Brent crude price up 4% today?",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUxMTWZqX0FneUMxN3VPOUg0c3REc2I4MTdlT0lfLWFBcTdhVDdsaWxhcUN2eXdUekpSdmJ5a2djNVEyTEFQOUJ3Wm9LcjF4U1lsRmlZeHRKRWJPZFhWcjAxb21NRFZUc2drenU5VlhqZEhWZWM3VGRMeko2R29UWEx3RThWQjZvQ09HTHJxRk1Nbjlt?oc=5",
+      "affected_assets": [
+        "Brent Crude",
+        "OMCs",
+        "Asian Paints"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.82,
+      "reasoning": "A 4% surge in Brent crude oil prices elevates import costs for net oil-importing economies like India. High crude prices compress profit margins for downstream sectors such as oil marketing companies, paints, and specialty chemicals.",
+      "action": "risk_alert",
+      "category": "commodity"
+    },
+    {
+      "headline": "Rail Vikas Nigam in focus today after mixed Q2 performance; stock down 68% from record peak",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/rail-vikas-nigam-in-focus-today-after-mixed-q2-performance-stock-down-68-from-record-peak-11794506076322.html",
+      "affected_assets": [
+        "RVNL",
+        "IRFC",
+        "IRCON"
+      ],
+      "asset_type": "stock",
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "reasoning": "RVNL reported a 10% YoY increase in net profit for Q2 despite an 8.24% drop in top-line revenue, showing margin execution resilience. However, broader margin pressures across railway PSUs keep near-term momentum capped after a steep drawdown.",
+      "action": "watch",
+      "category": "stock_specific"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
