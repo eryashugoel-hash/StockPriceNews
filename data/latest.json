@@ -1,90 +1,87 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T13:11:12+05:30",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T13:00:18+05:30",
   "market_pulse": {
-    "bullish": 1,
+    "bullish": 2,
     "bearish": 3,
-    "neutral": 1
+    "neutral": 0
   },
   "insights": [
     {
-      "headline": "India inflation jumps to 6.09% in October",
-      "source": "Briefs Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEFaWmFzQVZTNG9zVnBSZjhqa0FOc2NUaHd2ZWVhNnRGc19jT3QwOEdEVjZjdGRFWXZETDVzbDBveXg3dkVKYXpCWXBxSWZRZzlvVml5M1dqRHdJcTdPQzB1bHlZai1qMjVKNFhnbml4X3FSVFlsd2NmQ1ZxRkI1ZG1sNU45ejV5SWQtM1hwUDd4Zw?oc=5",
+      "headline": "TaMo PV narrows Q2 loss to ₹5,451 cr as JLR recovery offsets costs",
+      "source": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemszV015eGtLRThZTnVhU0I1Nkh6UVhmUGdjcGk4Z0JCNmxjMWFZSkdwWGFRN1U2bGVhWmpuLVpwdVBBNTRVY2xEbnlwdGZsMUJYdjMzSzVVd0N2SjFDVVVjVVloaUdvcUo4enJwMGtvXzJJMFo4T0lPU3F2VzhSMzgxMFduWjJweThvbk9vQ3NVSmJtcTZ0YWRmQnJUbUNMaERIUVZmbEtHT2lfYm4ycVhtZDFFZ1VtWThTQ3N3T2RXcEd0TkR1YUpyNjhKdHBRd25ocS1xQ04zUnFiQXfSAeMBQVVfeXFMUDF6d2hkdWlBdmhzaUNES3ZScWZGUXREYmd0N25oQzZzcnBYRkM3NVdRSnU2Ul90dDhCU05GRzBWel8zUTVBTE5BSm8tSGJaekFGMzVlRk1Qb3BIbGplb3RFSU5QVmdyeEpRNFUtRHdGOFJjbFRaMFZGdUNWZ1VCVDVuenNuRUVrSm1WQTNKZDVVU0hPakVhVi0xZHdFbVRaOTduTC1vUGpWZjBUNE9hS0xPLTU0enhwTUsyLXhfZVdXck5EWC1hclBPTlM4UW96a21YZXRLdS00NHZRU1E5NFQ3VVk?oc=5",
       "affected_assets": [
-        "NIFTY 50",
-        "BANK NIFTY",
-        "Indian Sovereign Bonds"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "A jump in India's CPI inflation to 6.09% pushes consumer prices above the RBI's upper tolerance threshold of 6%. This reduces the likelihood of near-term rate cuts by the RBI, putting upward pressure on bond yields and weight on equity valuations.",
-      "action": "risk_alert",
-      "category": "macro"
-    },
-    {
-      "headline": "MSCI rejig: Which stocks may see the biggest inflows & outflows?",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms",
-      "affected_assets": [
-        "MSCI India Index",
-        "NIFTY 50"
+        "Tata Motors",
+        "JLR"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.8,
-      "reasoning": "The periodic MSCI index rebalancing is set to increase India's overall weighting, prompting substantial passive foreign institutional inflows. Selected constituent stocks expected to receive higher weightage will benefit from immediate liquidity support.",
+      "confidence": 0.85,
+      "reasoning": "Tata Motors demonstrated financial momentum by narrowing Q2 losses significantly through operational recovery at Jaguar Land Rover. Reduced headwinds in key international markets help stabilize consolidated margins.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Nvidia stock crash: Short seller flagged Jensen Huang’s close ties to Alice Huang months before CEO’s resignation",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/nvidia-stock-crash-short-seller-flagged-jensen-huang-s-close-ties-to-alice-huang-months-before-ceo-s-resignation-11794502597338.html",
+      "headline": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
+      "affected_assets": [
+        "Crude Oil",
+        "Global Equities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Escalating Middle East tensions threaten global energy supply chains, creating stagflationary risks. Policy uncertainty combined with potential oil price shocks dampens equity valuations globally.",
+      "action": "risk_alert",
+      "category": "geopolitical"
+    },
+    {
+      "headline": "PPI still ‘uncomfortably high’ as December rate hike looms",
+      "source": "InvestmentNews",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWQta2k3ZjRpVm5XRU41UTcxOGFaWEtpbU43TWwwR2g2T3BQUzFwc2xnSVdNV1JaaWl5TXpnX0RkQ0VoSkFyVEhvb1g5SmVqWHFFQU9mQ1ZKX1JPMHBkZTA4b191elVWX0xlU0dxc1R0OElXQVc2cFhsbVpTZXRXNVZLbFoyanVTekN3dGdjZ2o5a2NUYmFEUTJkZVM2bjRyZEhWUDJR?oc=5",
+      "affected_assets": [
+        "US Dollar",
+        "S&P 500",
+        "Nifty 50"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Sticky producer prices signal sustained upstream inflation, increasing the probability of a hawkish policy turn by the US Federal Reserve in December. Tightening liquidity conditions depress institutional risk appetite.",
+      "action": "risk_alert",
+      "category": "policy"
+    },
+    {
+      "headline": "Wall Street gives up opening gains, Nasdaq falls over 1.5% as Nvidia extends slide By Investing.com",
+      "source": "Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObW91blVIZVc2OHBUc1IyVFFUZjlkd1JuWU9CM2k1cHg3ak1xMTRpODZIem5vQV85QTNCcUZicFlONDh0S25ueGgtczBfUk5qU2JycE1OZF90YlFRbXl2TkFNX0hsN0tKUTE1NEZzQ0prV0o5UG02Rk82ZUxNdzhEalFRX0xNOE15RVl5aTF5RTBtMVhNYm9Da21USVhtejhFcVMyc2JUd0plUkczNTNvWjRpM24?oc=5",
       "affected_assets": [
         "Nvidia",
-        "TCS",
-        "Infosys"
+        "Nasdaq",
+        "Indian IT Sector"
       ],
       "asset_type": "stock",
       "sentiment": "bearish",
-      "confidence": 0.9,
-      "reasoning": "Concerns surrounding Nvidia's leadership resignation and supply chain scrutiny trigger a sharp sell-off in global tech equities. Second-order sentiment impacts Indian IT vendors reliant on global enterprise AI capital expenditures.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Why is Brent crude price up 4% today?",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUxMTWZqX0FneUMxN3VPOUg0c3REc2I4MTdlT0lfLWFBcTdhVDdsaWxhcUN2eXdUekpSdmJ5a2djNVEyTEFQOUJ3Wm9LcjF4U1lsRmlZeHRKRWJPZFhWcjAxb21NRFZUc2drenU5VlhqZEhWZWM3VGRMeko2R29UWEx3RThWQjZvQ09HTHJxRk1Nbjlt?oc=5",
-      "affected_assets": [
-        "Brent Crude",
-        "OMCs",
-        "Asian Paints"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.82,
-      "reasoning": "A 4% surge in Brent crude oil prices elevates import costs for net oil-importing economies like India. High crude prices compress profit margins for downstream sectors such as oil marketing companies, paints, and specialty chemicals.",
-      "action": "risk_alert",
-      "category": "commodity"
-    },
-    {
-      "headline": "Rail Vikas Nigam in focus today after mixed Q2 performance; stock down 68% from record peak",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/rail-vikas-nigam-in-focus-today-after-mixed-q2-performance-stock-down-68-from-record-peak-11794506076322.html",
-      "affected_assets": [
-        "RVNL",
-        "IRFC",
-        "IRCON"
-      ],
-      "asset_type": "stock",
-      "sentiment": "neutral",
       "confidence": 0.75,
-      "reasoning": "RVNL reported a 10% YoY increase in net profit for Q2 despite an 8.24% drop in top-line revenue, showing margin execution resilience. However, broader margin pressures across railway PSUs keep near-term momentum capped after a steep drawdown.",
+      "reasoning": "Extended selling in bellwether AI stock Nvidia triggers broader profit-taking in the tech sector. Weakness on Nasdaq creates sentiment spillovers for export-oriented technology services in India.",
       "action": "watch",
       "category": "stock_specific"
+    },
+    {
+      "headline": "Shafaq News..Gold rebounds from one-year low ahead of US inflation data",
+      "source": "شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXVxamlfQVJxVkRwZjBpbjNxaUNHV3k0N0tWZXVkeFB0ckNzc1UzaHN1QTlFRTN6eU1BbFBfb1VmaVRLLVZ6UmdzSmY2UExlLTIwb2pPY2dza1ZNWlBZVkF0X3FpdVJDLVROcVVZV3RUX09UT3pzM2g1S08zdEFEQWdrTW9fdkJZU19qX0N6VzU1Zw?oc=5",
+      "affected_assets": [
+        "Gold"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "reasoning": "Investors are re-allocating capital to bullion as a safe-haven asset ahead of crucial macro economic prints. Price action bouncing off long-term demand zones points to strong underlying buy-on-dips interest.",
+      "action": "watch",
+      "category": "commodity"
     }
   ],
   "tweets": [],
