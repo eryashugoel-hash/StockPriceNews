@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T13:00:18+05:30",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T13:07:26+05:30",
   "market_pulse": {
     "bullish": 2,
     "bearish": 3,
@@ -8,80 +8,81 @@
   },
   "insights": [
     {
-      "headline": "TaMo PV narrows Q2 loss to ₹5,451 cr as JLR recovery offsets costs",
-      "source": "Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemszV015eGtLRThZTnVhU0I1Nkh6UVhmUGdjcGk4Z0JCNmxjMWFZSkdwWGFRN1U2bGVhWmpuLVpwdVBBNTRVY2xEbnlwdGZsMUJYdjMzSzVVd0N2SjFDVVVjVVloaUdvcUo4enJwMGtvXzJJMFo4T0lPU3F2VzhSMzgxMFduWjJweThvbk9vQ3NVSmJtcTZ0YWRmQnJUbUNMaERIUVZmbEtHT2lfYm4ycVhtZDFFZ1VtWThTQ3N3T2RXcEd0TkR1YUpyNjhKdHBRd25ocS1xQ04zUnFiQXfSAeMBQVVfeXFMUDF6d2hkdWlBdmhzaUNES3ZScWZGUXREYmd0N25oQzZzcnBYRkM3NVdRSnU2Ul90dDhCU05GRzBWel8zUTVBTE5BSm8tSGJaekFGMzVlRk1Qb3BIbGplb3RFSU5QVmdyeEpRNFUtRHdGOFJjbFRaMFZGdUNWZ1VCVDVuenNuRUVrSm1WQTNKZDVVU0hPakVhVi0xZHdFbVRaOTduTC1vUGpWZjBUNE9hS0xPLTU0enhwTUsyLXhfZVdXck5EWC1hclBPTlM4UW96a21YZXRLdS00NHZRU1E5NFQ3VVk?oc=5",
+      "headline": "Tata Motors Q2 Results: Rs 5,531 Crore Loss as Revenue Rises 33.9%",
+      "source": "JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnptNVBBd3NCN1drN3FXaUJKRlM0U0wwUE1TQ3pJUVJ1Y2ItdGJxdGZNUzR2azZ4SHZkR1NFSUJzdlhfVnVmeHdWTGlrZjJaN3dXbEN3SFMyWWVpMXc3aGRZVFkwb0xUUEd2LXk4OTZPWHliV01vRGhadXpTbmNlMVRRM0FmZVA4NVM3cQ?oc=5",
       "affected_assets": [
         "Tata Motors",
-        "JLR"
+        "Nifty Auto"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Despite notable top-line expansion of 33.9 percent, the substantial quarterly loss of Rs 5,531 crore highlights severe margin degradation and bottom-line pressure. This unexpected loss dampens near-term investor sentiment and invites potential earnings downgrades across auto sector desks.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
+      "affected_assets": [
+        "Yes Bank",
+        "Nifty Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.88,
+      "reasoning": "Revisiting the Supreme Court verdict on the Rs 8,415 crore AT-1 bond write-off keeps substantial legal and capital adequacy risks hanging over the lender. An unfavorable final outcome would materially impair core Tier-1 capital and trigger balance sheet distress.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Ashok Leyland Q2 Results: Profit Rises 12.7% To Rs 869 Crore, Dividend Declared; Check Record Date",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/markets/ashok-leyland-q2-results-profit-rises-12-7-to-rs-869-crore-revenue-up-39-dividend-declared-check-record-date-12328711#publisher=newsstand",
+      "affected_assets": [
+        "Ashok Leyland",
+        "Nifty Auto"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "Tata Motors demonstrated financial momentum by narrowing Q2 losses significantly through operational recovery at Jaguar Land Rover. Reduced headwinds in key international markets help stabilize consolidated margins.",
+      "confidence": 0.9,
+      "reasoning": "A robust 39.4 percent jump in operational revenue paired with a 12.7 percent increase in net profit demonstrates healthy commercial vehicle fleet demand and resilient operating margins. The accompanying dividend payout further affirms management's confidence in continuous cash flow generation.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
+      "headline": "Charting the Global Economy: Inflation in US Exceeds Projections",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhYS2hsVENzOW9lbGxhZHNXZGptazRlOW5IUk1MRThqUi02N3N6VklkTDVnMk9DT3lKWVNJVzBacW5zVUNEamw5TzhtTWluRVNheC1pcDZFUGVEREZHMG5aVGxXT1RQVEQ0Q1dnT3BWMHNQMkFUWWZZeTZaWkQydWtvVEctbnpnZWV0MExYa29fTEZjcFJjemNHSEpjdHM5Y2tsZkpUYkhrX0xRRU5ybTNxTDM?oc=5",
       "affected_assets": [
-        "Crude Oil",
-        "Global Equities"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "reasoning": "Escalating Middle East tensions threaten global energy supply chains, creating stagflationary risks. Policy uncertainty combined with potential oil price shocks dampens equity valuations globally.",
-      "action": "risk_alert",
-      "category": "geopolitical"
-    },
-    {
-      "headline": "PPI still ‘uncomfortably high’ as December rate hike looms",
-      "source": "InvestmentNews",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWQta2k3ZjRpVm5XRU41UTcxOGFaWEtpbU43TWwwR2g2T3BQUzFwc2xnSVdNV1JaaWl5TXpnX0RkQ0VoSkFyVEhvb1g5SmVqWHFFQU9mQ1ZKX1JPMHBkZTA4b191elVWX0xlU0dxc1R0OElXQVc2cFhsbVpTZXRXNVZLbFoyanVTekN3dGdjZ2o5a2NUYmFEUTJkZVM2bjRyZEhWUDJR?oc=5",
-      "affected_assets": [
+        "Nifty 50",
         "US Dollar",
-        "S&P 500",
-        "Nifty 50"
+        "Indian Rupee",
+        "Emerging Market Equities"
       ],
       "asset_type": "macro",
       "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "Sticky producer prices signal sustained upstream inflation, increasing the probability of a hawkish policy turn by the US Federal Reserve in December. Tightening liquidity conditions depress institutional risk appetite.",
-      "action": "risk_alert",
-      "category": "policy"
+      "confidence": 0.82,
+      "reasoning": "Higher-than-expected US inflation diminishes market expectations for aggressive Federal Reserve policy easing and keeps Treasury yields elevated. Sustained tight financial conditions pose foreign institutional investor outflow risks for Indian and emerging market equities.",
+      "action": "watch",
+      "category": "macro"
     },
     {
-      "headline": "Wall Street gives up opening gains, Nasdaq falls over 1.5% as Nvidia extends slide By Investing.com",
-      "source": "Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObW91blVIZVc2OHBUc1IyVFFUZjlkd1JuWU9CM2k1cHg3ak1xMTRpODZIem5vQV85QTNCcUZicFlONDh0S25ueGgtczBfUk5qU2JycE1OZF90YlFRbXl2TkFNX0hsN0tKUTE1NEZzQ0prV0o5UG02Rk82ZUxNdzhEalFRX0xNOE15RVl5aTF5RTBtMVhNYm9Da21USVhtejhFcVMyc2JUd0plUkczNTNvWjRpM24?oc=5",
+      "headline": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
       "affected_assets": [
-        "Nvidia",
-        "Nasdaq",
-        "Indian IT Sector"
+        "Coal India",
+        "Mahanadi Coalfields"
       ],
       "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.75,
-      "reasoning": "Extended selling in bellwether AI stock Nvidia triggers broader profit-taking in the tech sector. Weakness on Nasdaq creates sentiment spillovers for export-oriented technology services in India.",
+      "sentiment": "bullish",
+      "confidence": 0.86,
+      "reasoning": "The massive Rs 9,500 crore offer-for-sale unlocks deep asset value for parent company Coal India and provides public price discovery for key energy assets. Although secondary market liquidity will absorb supply, the monetization provides a substantial valuation re-rating catalyst for state-run coal miners.",
       "action": "watch",
       "category": "stock_specific"
-    },
-    {
-      "headline": "Shafaq News..Gold rebounds from one-year low ahead of US inflation data",
-      "source": "شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXVxamlfQVJxVkRwZjBpbjNxaUNHV3k0N0tWZXVkeFB0ckNzc1UzaHN1QTlFRTN6eU1BbFBfb1VmaVRLLVZ6UmdzSmY2UExlLTIwb2pPY2dza1ZNWlBZVkF0X3FpdVJDLVROcVVZV3RUX09UT3pzM2g1S08zdEFEQWdrTW9fdkJZU19qX0N6VzU1Zw?oc=5",
-      "affected_assets": [
-        "Gold"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "reasoning": "Investors are re-allocating capital to bullion as a safe-haven asset ahead of crucial macro economic prints. Price action bouncing off long-term demand zones points to strong underlying buy-on-dips interest.",
-      "action": "watch",
-      "category": "commodity"
     }
   ],
   "tweets": [],

@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T13:07:26+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 3,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "Tata Motors Q2 Results: Rs 5,531 Crore Loss as Revenue Rises 33.9%",
+      "source": "JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnptNVBBd3NCN1drN3FXaUJKRlM0U0wwUE1TQ3pJUVJ1Y2ItdGJxdGZNUzR2azZ4SHZkR1NFSUJzdlhfVnVmeHdWTGlrZjJaN3dXbEN3SFMyWWVpMXc3aGRZVFkwb0xUUEd2LXk4OTZPWHliV01vRGhadXpTbmNlMVRRM0FmZVA4NVM3cQ?oc=5",
+      "affected_assets": [
+        "Tata Motors",
+        "Nifty Auto"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Despite notable top-line expansion of 33.9 percent, the substantial quarterly loss of Rs 5,531 crore highlights severe margin degradation and bottom-line pressure. This unexpected loss dampens near-term investor sentiment and invites potential earnings downgrades across auto sector desks.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
+      "affected_assets": [
+        "Yes Bank",
+        "Nifty Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.88,
+      "reasoning": "Revisiting the Supreme Court verdict on the Rs 8,415 crore AT-1 bond write-off keeps substantial legal and capital adequacy risks hanging over the lender. An unfavorable final outcome would materially impair core Tier-1 capital and trigger balance sheet distress.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Ashok Leyland Q2 Results: Profit Rises 12.7% To Rs 869 Crore, Dividend Declared; Check Record Date",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/markets/ashok-leyland-q2-results-profit-rises-12-7-to-rs-869-crore-revenue-up-39-dividend-declared-check-record-date-12328711#publisher=newsstand",
+      "affected_assets": [
+        "Ashok Leyland",
+        "Nifty Auto"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "A robust 39.4 percent jump in operational revenue paired with a 12.7 percent increase in net profit demonstrates healthy commercial vehicle fleet demand and resilient operating margins. The accompanying dividend payout further affirms management's confidence in continuous cash flow generation.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Charting the Global Economy: Inflation in US Exceeds Projections",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhYS2hsVENzOW9lbGxhZHNXZGptazRlOW5IUk1MRThqUi02N3N6VklkTDVnMk9DT3lKWVNJVzBacW5zVUNEamw5TzhtTWluRVNheC1pcDZFUGVEREZHMG5aVGxXT1RQVEQ0Q1dnT3BWMHNQMkFUWWZZeTZaWkQydWtvVEctbnpnZWV0MExYa29fTEZjcFJjemNHSEpjdHM5Y2tsZkpUYkhrX0xRRU5ybTNxTDM?oc=5",
+      "affected_assets": [
+        "Nifty 50",
+        "US Dollar",
+        "Indian Rupee",
+        "Emerging Market Equities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.82,
+      "reasoning": "Higher-than-expected US inflation diminishes market expectations for aggressive Federal Reserve policy easing and keeps Treasury yields elevated. Sustained tight financial conditions pose foreign institutional investor outflow risks for Indian and emerging market equities.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
+      "affected_assets": [
+        "Coal India",
+        "Mahanadi Coalfields"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.86,
+      "reasoning": "The massive Rs 9,500 crore offer-for-sale unlocks deep asset value for parent company Coal India and provides public price discovery for key energy assets. Although secondary market liquidity will absorb supply, the monetization provides a substantial valuation re-rating catalyst for state-run coal miners.",
+      "action": "watch",
+      "category": "stock_specific"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
