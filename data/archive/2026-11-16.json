@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T13:19:48+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 3,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target",
+      "source": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcEhLZFpmQml1REpCWkJXRUoyVUl4V0d5dWt5ZTg1UGhIUHJtdTFxTEJkZ3QzU1ZTQmEyYjVneGljQXBWZzBHbVRLR0t1ckdyMW81bDRpbVBJRWFnUnlRS3RNR0pIcm5Uei03andMd3AzOTZDaC15VGUwdFZISGRMNzBMUXlTdTdTYzcwclpYVThwQkJ6YmZfUFRaelR6QU5YajBJUEJIbUdqU09CUVFEMHp4eE1qV0NleG1FWkp5dW1LV2FYbS1hRFpnTXIzT1JvRlHSAdcBQVVfeXFMT3ZvWjA2TTgxUVpNNEpKbVNHWk1saUJCaE9CSTRUUldaTFhBVVpJd0FwWlhDZFFsNklod1NUdVJkWWlNQmFzQ1UtMTZVSFBYTGRtSjFlSlpMX1hkbW4xbnFkdEJxRW5hNlRGRkVPeDhua2JDV3N2M0loRUJGZlo2bTl4RzAyX2xsZ0pOdW0wV2doT1NTV3JLODFjVXJzYjcyZXJzTFZsME9MWDhzd1dOSjVVRzB5cFU0c0xMSFZvNTV3YzVXXzZSZ3JERTc5R2hzNWFaNnAyeE0?oc=5",
+      "affected_assets": [
+        "Tata Motors"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.9,
+      "reasoning": "Tata Motors PV dropped heavily following lower-than-expected Q2 operational performance, triggering multiple target price cuts from major brokerages. Weak sales margins and muted EV volume guidance present immediate headwinds for equity recovery.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "TVS Supply Chain Solutions shares jump 17% after Q2 results, surge 24% in 2 weeks; what lies ahead? Key levels to watch",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/tvs-supply-chain-solutions-shares-jump-17-after-q2-results-surge-24-in-2-weeks-what-lies-ahead-key-levels-to-watch-11794812073703.html",
+      "affected_assets": [
+        "TVS Supply Chain Solutions"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "TVS Supply Chain reported stellar Q2 revenue growth of 38% year-on-year alongside net profits more than doubling to Rs 36.5 crore. Strong operational efficiency and broad-based demand growth reinforce a positive financial trajectory for the stock.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold, silver prices ahead of wedding season: Down over 4% this week - Investors guide before US Fed Dec meeting",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQ0RUU0xWWVZvb2FfdDVyV1JzVzNPY0dQT2FEcVk0UHJPQUpBYTl1S2dxYjFneGRaWXpiUThsNTRIajk0X1B3WUIyOHJZa2UzM3BqdzV2dUtNNng1TTRxdExqelRjZC00OFZvWXoxdzZsOWlzZ2tVbFo3TmV5ZGM1SlNLYjJyTUN6X25EZUFwOFJVMnVLOW1QTVRMVktfRFBsdG9rQklMRU5zT3J4N0RmOFNmQjFBUGUzZk5RQWkzUnRoSWRxaFc0bExrVnk0TzN3b2NCemd6QWktWTN2eXBtUUI4bWNIUTFZUTNXUndrNjl4Y1BzOC16Um56WmhzWXPSAYQCQVVfeXFMTTJsRDRqUGNCcjI2S2FuSHdUc0NKVkhDc09ZakstVWE1RGJmVTI3V0prZzFXY281a0Y0bERPQVdpQ1NWemQwQU4ydTA2VmR3WGhERlkxV1ctTUVvaGxkMVBGQ2ZSNV9uTmtvdkhoWF9oUi1uSkZPVnFZU0ExY3BEcG1VbmhCRW9aRFE2S2Z3LTdZZExKWDcwZXVOTEptOHZ3UUxoNUw4UHE0RnpGOHBDX2pPRUNCbktHSGVSZW16WTVRbjh5OXdNTlNFZzFYczJrSkJrdkxqNm81M0hYLUtPSTNsTndHekRrVVdaZHpXSjBlbnFZd2RVQVFoRnRaUGdSZTM2dHU?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Hotter-than-expected US inflation data elevated bond yields and strengthened the US dollar, causing precious metals to tumble over 4% in a single week. High interest rate expectations continue to damp market appetite for non-yielding bullion assets.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Oil prices fall on expectations of coming supply surplus",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5",
+      "affected_assets": [
+        "Crude Oil"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Projections of an impending global crude oil supply surplus have put downward pressure on benchmark energy prices. Lower crude costs serve as a headwind for oil producers, but indirectly benefit downstream Indian users such as oil refiners and paint manufacturers.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Run-up to Budget 2027-28: Nominal GDP growth likely around 11-11.5%",
+      "source": "Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2dEenQxU1YtbmNobm9uS3g4SmJpMHV4VkxSaG5zTWhaaVRZcGV4M1RMUTdrRllES0hZSy1xd20wc3NtOU5Ea1pYLXNwSTk0UGtLNzRVWVZjOW5tTTBGU1FIeDlpREJQc05CUmppOHZlWTFQUXJBc0twR3hXVzBsTEJFZkhTakxFZ2pLeUdYSU4xNWtVaU9GdktXRDV2MDB2LXpYUV9uY1I5V1ZKRXdNcUx4ZlQycnRwcFp2OHg5QldBUWtrYmRoczBobGF1bTdiUk5mSEVMcDDSAd4BQVVfeXFMTUlGZUJFTzJQOW1MQV9BQTJ1elg0OEh4elpUcjlnNnJ0alpIOHdqa2U4T2pzcl9jTnpOU3NWb2Q5aFhMWlQ4VktIWUowM0hLY000cEVKX1BQVnBGcWJvVFo3WWJwa1JXaTdJWWJmeGxfdDlxRUFBTDFCVUF4azd0eE1JOGtlR0NzWm1KSmZUR1huN3l2WEhyWXBPSzRGNDN1Mktxd3BVLVpXQWhzREVsVFA0Q2p0NXA0N0t0ZXVrVXNsaUpIYlB0TWVNQ0JMb2c4TE1leVU4c2NTVElkOG5R?oc=5",
+      "affected_assets": [
+        "Nifty 50",
+        "Sensex"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "reasoning": "Expectations of 11-11.5% nominal GDP growth signal ongoing macroeconomic stability and steady fiscal revenue expansion leading up to the budget. Healthy national growth figures provide a strong underlying foundation for Indian broad market equities.",
+      "action": "watch",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
