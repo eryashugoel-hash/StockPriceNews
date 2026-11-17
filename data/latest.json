@@ -1,83 +1,90 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T13:19:48+05:30",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T14:22:40+05:30",
   "market_pulse": {
     "bullish": 2,
-    "bearish": 3,
-    "neutral": 0
+    "bearish": 2,
+    "neutral": 1
   },
   "insights": [
     {
-      "headline": "Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target",
-      "source": "Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcEhLZFpmQml1REpCWkJXRUoyVUl4V0d5dWt5ZTg1UGhIUHJtdTFxTEJkZ3QzU1ZTQmEyYjVneGljQXBWZzBHbVRLR0t1ckdyMW81bDRpbVBJRWFnUnlRS3RNR0pIcm5Uei03andMd3AzOTZDaC15VGUwdFZISGRMNzBMUXlTdTdTYzcwclpYVThwQkJ6YmZfUFRaelR6QU5YajBJUEJIbUdqU09CUVFEMHp4eE1qV0NleG1FWkp5dW1LV2FYbS1hRFpnTXIzT1JvRlHSAdcBQVVfeXFMT3ZvWjA2TTgxUVpNNEpKbVNHWk1saUJCaE9CSTRUUldaTFhBVVpJd0FwWlhDZFFsNklod1NUdVJkWWlNQmFzQ1UtMTZVSFBYTGRtSjFlSlpMX1hkbW4xbnFkdEJxRW5hNlRGRkVPeDhua2JDV3N2M0loRUJGZlo2bTl4RzAyX2xsZ0pOdW0wV2doT1NTV3JLODFjVXJzYjcyZXJzTFZsME9MWDhzd1dOSjVVRzB5cFU0c0xMSFZvNTV3YzVXXzZSZ3JERTc5R2hzNWFaNnAyeE0?oc=5",
+      "headline": "Oil slips on supply surplus outlook despite Gulf tensions - The Economic Times",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXhhYkJabDlnWkNGNHhKVmF3RGdkQ0hLYTJuMl84RTg2SGJmQy1VLXBUOUstdnVJM2dFbzZKY1F1aGs3Y09uZUhGSGx4YU5PazRzcWp1amVpM0JUc1hMcXIyb3FMZzZNSGI2a2l1Vl9uZ2FFbERiYmxJNDBEckdVMHNSa3lKX1MxVzFhVHhsc0lpclJLV0FYWlNPQmVBUm9xbUV0UU1zZUNsR0ZQb3Fmak80M0ktSy1LMEpkOXo1MFpXMEt5STdEQWFpczlQUWlpRGfSAdcBQVVfeXFMUEFneFhoWDNPNXFrbFN5ajZIemk4ZTlMRnNrQUJ3RHJrMHRmRGpNcWJuRF9Kc2Y5RWQta3FmLS1hbzNUMVBpTXU5RzRhXzVGU2UwNFZTWG9hR3JONGNRZHVlaHZhWm9ab0lOX1RUQkRrRFRQTDgxd3RvdDRRZzdxNzg4MGE0THJDc09qWW44LUZvWnpWaHFsY3hHWU9fWGxRZXFab2NlREtRMm9DWVZSQy1DakVvTDhhbDh2d2tfX015eVZpUEQ3UXdhQlE2MTcxRlh5S0JHems?oc=5",
       "affected_assets": [
-        "Tata Motors"
+        "Brent Crude",
+        "WTI Crude",
+        "OMCs"
       ],
-      "asset_type": "stock",
+      "asset_type": "commodity",
       "sentiment": "bearish",
-      "confidence": 0.9,
-      "reasoning": "Tata Motors PV dropped heavily following lower-than-expected Q2 operational performance, triggering multiple target price cuts from major brokerages. Weak sales margins and muted EV volume guidance present immediate headwinds for equity recovery.",
-      "action": "risk_alert",
-      "category": "stock_specific"
+      "confidence": 0.85,
+      "reasoning": "Projections of a persistent global supply surplus outweigh Middle Eastern geopolitical risks, exerting downward pressure on crude prices. Lower oil prices soften input costs for oil marketing companies and import-heavy economies like India, but signal softening global demand. This dynamic fundamentally limits upside momentum for energy upstream producers.",
+      "action": "watch",
+      "category": "commodity"
     },
     {
-      "headline": "TVS Supply Chain Solutions shares jump 17% after Q2 results, surge 24% in 2 weeks; what lies ahead? Key levels to watch",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/tvs-supply-chain-solutions-shares-jump-17-after-q2-results-surge-24-in-2-weeks-what-lies-ahead-key-levels-to-watch-11794812073703.html",
+      "headline": "TCS Recognised as Leader in Agentic Application Management by HFS Research; Shares Rise Nearly 1.7% - HDFC Sky",
+      "source": "HDFC Sky",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEFyMnBUVExobE5OY2NjNUZpRkJ4UXRkNUlZck1fbFBKN25lTjkzejZTUlo5MWNuTS0xM080X19taGVuRWYyZGg4X21WVnBOcVR5RUhyUUZHRDRDcXQ0b25EOGhZdV9jWS1YVE5hZnNaUmZrZ2JyOEIwLUVDT1M1ZVJhSXNlTjZqT2xJMU5UMEFUZHNhOG5ILVBSVkxZNVNwaW1HY2lMV3lyVUdZU3JyNllxbUZpYXZLZWRWbWs3enFJenByRDBZOUNn?oc=5",
       "affected_assets": [
-        "TVS Supply Chain Solutions"
+        "TCS",
+        "Nifty IT"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "TVS Supply Chain reported stellar Q2 revenue growth of 38% year-on-year alongside net profits more than doubling to Rs 36.5 crore. Strong operational efficiency and broad-based demand growth reinforce a positive financial trajectory for the stock.",
+      "confidence": 0.78,
+      "reasoning": "Recognition in agentic enterprise application management underscores TCS's operational execution in next-generation AI automation services. Such positioning supports long-term contract win rates and operating margins amid tight enterprise tech budgets. The recognition validates management's investments in high-value capabilities.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Gold, silver prices ahead of wedding season: Down over 4% this week - Investors guide before US Fed Dec meeting",
-      "source": "Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQ0RUU0xWWVZvb2FfdDVyV1JzVzNPY0dQT2FEcVk0UHJPQUpBYTl1S2dxYjFneGRaWXpiUThsNTRIajk0X1B3WUIyOHJZa2UzM3BqdzV2dUtNNng1TTRxdExqelRjZC00OFZvWXoxdzZsOWlzZ2tVbFo3TmV5ZGM1SlNLYjJyTUN6X25EZUFwOFJVMnVLOW1QTVRMVktfRFBsdG9rQklMRU5zT3J4N0RmOFNmQjFBUGUzZk5RQWkzUnRoSWRxaFc0bExrVnk0TzN3b2NCemd6QWktWTN2eXBtUUI4bWNIUTFZUTNXUndrNjl4Y1BzOC16Um56WmhzWXPSAYQCQVVfeXFMTTJsRDRqUGNCcjI2S2FuSHdUc0NKVkhDc09ZakstVWE1RGJmVTI3V0prZzFXY281a0Y0bERPQVdpQ1NWemQwQU4ydTA2VmR3WGhERlkxV1ctTUVvaGxkMVBGQ2ZSNV9uTmtvdkhoWF9oUi1uSkZPVnFZU0ExY3BEcG1VbmhCRW9aRFE2S2Z3LTdZZExKWDcwZXVOTEptOHZ3UUxoNUw4UHE0RnpGOHBDX2pPRUNCbktHSGVSZW16WTVRbjh5OXdNTlNFZzFYczJrSkJrdkxqNm81M0hYLUtPSTNsTndHekRrVVdaZHpXSjBlbnFZd2RVQVFoRnRaUGdSZTM2dHU?oc=5",
+      "headline": "Zee Business. . Tata Motors PV में बड़ी गिरावट क्यों नतीजों के बाद फिसला Tata Motors PV? क्यों ब्रोकरेजेज का भरोसा घटा? - Facebook",
+      "source": "Zee Business",
+      "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNenp0c1lGV3QyTjdXUERDLTd5cmE5dVhmV09qQmE1N3dNdUI1UWZ0UlJNdURmcTJhbnhXRGZSNXNOWk9sVExRYndyRXB1WC1faUhBRDZJVmh3SnZfbE1tTlc4cjJQUE12ZXNUZ0FDbU84SGU3YzRGUUNTMGhLNkhHWnV1MklTTW80SXQ3YTlERWF6ZWhNaUFKSmMzaWxuTFowbFMzTGFxckljd1dxWHhwc3B1Qzg5b1ZveHZXTmtoaDgzWWZOYVdYNmJ1b0ROV2ZFbjlBUXFDLUlsVXozZUhVYmhfWG5wLVRkb01OX09kQWpKMjlpdWkxbFJoeUZDVWNTTzVYenBoejdxVVRxS3Zaak14QzhiY09BY0ZzVlE0UUFGOTZoLXZja2VfUGxPaWpBRXhDZzdKSTc4S0dQZzRPQ0c3aV9CRVhwNGM0RVRzWnJMRlNfMjJDd25hZ3dQcW82VWJPc1FKc1Q1TUpDanVGYnJ1cVdla1B4aXNuLW9VUXBuWUMxZGx2NG1kZkh3NDJoamhZUzAyOGtPQnRuNzNZcU1mT3lvWkxkVDA1M3Z4b1VvRGhYVm00OWlpMG8tSTIwdUltdFVwMi1sMlh6Sm5fT0FsYWhfeGhfXzlxNkdrVFBMZXk5dXJ3LThUbEtxMTVaN3NVb3dXaTZuSjBiOGM5NVNXZkVMU0t2Xzl6ckUyZDhTR052MGY0MFhGYVRQYW8tMDZQNm1NOTZ6a1d4b2JibU94Z2hfVXY1NVItY1NhY0xUanZfTXhSYXNtY28zTTFXT2M3dWtoS0dtV2JBNEIwS2xXYTFpdWR5R3VlWTc5dHpXNXFPZXRmajZrNjNVZXhOQzAwZG84d0F3QlI5WWFfLUEtU2ZhVm9MOHBHNzdzd3hvbVFvTUNHdUVBZ3c?oc=5",
       "affected_assets": [
-        "Gold",
-        "Silver"
+        "Tata Motors",
+        "Nifty Auto"
       ],
-      "asset_type": "commodity",
+      "asset_type": "stock",
       "sentiment": "bearish",
+      "confidence": 0.82,
+      "reasoning": "Underwhelming quarterly earnings for the passenger vehicle division coupled with brokerage target price cuts signal margin compression and slowing domestic retail sales. Diminishing analyst conviction could lead to further institutional de-rating over the short term. The stock faces fundamental drag until volume growth reaccelerates.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "PNB vs Canara Bank: Which PSU bank is a better stock to buy Nifty Bank at record high, and why? Experts' views, targets - LiveMint",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/pnb-vs-canara-bank-which-psu-bank-is-a-better-stock-to-buy-nifty-bank-at-record-high-and-why-experts-views-targets-11794892103071.html",
+      "affected_assets": [
+        "PNB",
+        "Canara Bank",
+        "Nifty Bank",
+        "Nifty PSU Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
       "confidence": 0.8,
-      "reasoning": "Hotter-than-expected US inflation data elevated bond yields and strengthened the US dollar, causing precious metals to tumble over 4% in a single week. High interest rate expectations continue to damp market appetite for non-yielding bullion assets.",
-      "action": "watch",
-      "category": "commodity"
+      "reasoning": "Nifty Bank and PSU banking gauges reaching all-time highs reflect strong asset quality, healthy credit growth, and sustained institutional flows. State-owned lenders like PNB and Canara Bank benefit directly from cleaner balance sheets and elevated net interest margins. Ongoing rerating momentum presents favorable risk-reward dynamics.",
+      "action": "buy_opportunity",
+      "category": "macro"
     },
     {
-      "headline": "Oil prices fall on expectations of coming supply surplus",
+      "headline": "How Trump and Xi went from tariff war to trade truce - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5",
-      "affected_assets": [
-        "Crude Oil"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "Projections of an impending global crude oil supply surplus have put downward pressure on benchmark energy prices. Lower crude costs serve as a headwind for oil producers, but indirectly benefit downstream Indian users such as oil refiners and paint manufacturers.",
-      "action": "watch",
-      "category": "commodity"
-    },
-    {
-      "headline": "Run-up to Budget 2027-28: Nominal GDP growth likely around 11-11.5%",
-      "source": "Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2dEenQxU1YtbmNobm9uS3g4SmJpMHV4VkxSaG5zTWhaaVRZcGV4M1RMUTdrRllES0hZSy1xd20wc3NtOU5Ea1pYLXNwSTk0UGtLNzRVWVZjOW5tTTBGU1FIeDlpREJQc05CUmppOHZlWTFQUXJBc0twR3hXVzBsTEJFZkhTakxFZ2pLeUdYSU4xNWtVaU9GdktXRDV2MDB2LXpYUV9uY1I5V1ZKRXdNcUx4ZlQycnRwcFp2OHg5QldBUWtrYmRoczBobGF1bTdiUk5mSEVMcDDSAd4BQVVfeXFMTUlGZUJFTzJQOW1MQV9BQTJ1elg0OEh4elpUcjlnNnJ0alpIOHdqa2U4T2pzcl9jTnpOU3NWb2Q5aFhMWlQ4VktIWUowM0hLY000cEVKX1BQVnBGcWJvVFo3WWJwa1JXaTdJWWJmeGxfdDlxRUFBTDFCVUF4azd0eE1JOGtlR0NzWm1KSmZUR1huN3l2WEhyWXBPSzRGNDN1Mktxd3BVLVpXQWhzREVsVFA0Q2p0NXA0N0t0ZXVrVXNsaUpIYlB0TWVNQ0JMb2c4TE1leVU4c2NTVElkOG5R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
       "affected_assets": [
         "Nifty 50",
-        "Sensex"
+        "Global Equities",
+        "Emerging Markets"
       ],
       "asset_type": "macro",
-      "sentiment": "bullish",
-      "confidence": 0.75,
-      "reasoning": "Expectations of 11-11.5% nominal GDP growth signal ongoing macroeconomic stability and steady fiscal revenue expansion leading up to the budget. Healthy national growth figures provide a strong underlying foundation for Indian broad market equities.",
+      "sentiment": "neutral",
+      "confidence": 0.72,
+      "reasoning": "A historical overview detailing transitions between trade escalation and bilateral truces highlights the cyclical volatility inherent in superpower trade relations. While de-escalation benefits global supply chains, underlying structural competition persists. Markets are expected to remain cautious regarding future protectionist tariff implementations.",
       "action": "watch",
-      "category": "macro"
+      "category": "geopolitical"
     }
   ],
   "tweets": [],
