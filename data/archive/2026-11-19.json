@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T14:03:05+05:30",
+  "market_pulse": {
+    "bullish": 3,
+    "bearish": 1,
+    "neutral": 1
+  },
+  "insights": [
+    {
+      "headline": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
+      "affected_assets": [
+        "Bharti Airtel",
+        "Eternal",
+        "HDFC Bank",
+        "InterGlobe Aviation"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Institutional endorsements from major houses like Goldman Sachs often trigger fresh foreign institutional inflows into the recommended stocks. Mentioning heavyweights like HDFC Bank and Bharti Airtel provides a strong upside catalyst for the broader Indian indices.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Why AMD shares are rising: 7 things investors should know",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-amd-shares-are-rising-7-things-investors-should-know/slideshow/135980657.cms",
+      "affected_assets": [
+        "AMD"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "OpenAI's integration and verified improvements in GPU design validate AMD's hardware competitiveness in the AI space. This directly challenges Nvidia's monopoly narrative and boosts sentiment across semiconductor tech equities.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "S&amp;P 500 index 2027 target: 8200 mark expected by UBS - here's why; but AI-related uncertainties may limit further upside",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/sp-500-index-2027-target-8200-mark-expected-by-ubs-heres-why-but-ai-related-uncertainties-may-limit-further-up-11795066877862.html",
+      "affected_assets": [
+        "S&P 500",
+        "US Equities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "reasoning": "UBS forecasting a long-term multi-year bull run toward 8200 instills structural confidence in global equity markets. However, near-term caution regarding AI valuations and concentration risks keeps the immediate sentiment tempered.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "Stock market outlook today,19 Nov:Sensex, Nifty prediction-DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795048871272.html",
+      "affected_assets": [
+        "Sensex",
+        "Nifty"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Weak global market cues and negative Wall Street performance are directly impacting Indian indices, causing a cooling-off period after recent rallies. Traders should adopt a defensive stance in the immediate term.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Assetz IPO gets SEBI nod; Bengaluru realty developer reportedly plans to raise  ₹1,200 crore",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/assetz-ipo-gets-sebi-nod-bengaluru-realty-developer-reportedly-plans-to-raise-rs-1-200-crore-11795013611163.html",
+      "affected_assets": [
+        "Assetz Ltd"
+      ],
+      "asset_type": "stock",
+      "sentiment": "neutral",
+      "confidence": 0.65,
+      "reasoning": "SEBI approval for a large primary market issuance shows continued liquidity and robust appetite in the Indian real estate sector. It highlights active capital deployment trends without posing an immediate threat or tailwind to secondary markets.",
+      "action": "watch",
+      "category": "stock_specific"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

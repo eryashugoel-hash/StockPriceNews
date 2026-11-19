@@ -1,90 +1,86 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T14:22:40+05:30",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T14:03:05+05:30",
   "market_pulse": {
-    "bullish": 2,
-    "bearish": 2,
+    "bullish": 3,
+    "bearish": 1,
     "neutral": 1
   },
   "insights": [
     {
-      "headline": "Oil slips on supply surplus outlook despite Gulf tensions - The Economic Times",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXhhYkJabDlnWkNGNHhKVmF3RGdkQ0hLYTJuMl84RTg2SGJmQy1VLXBUOUstdnVJM2dFbzZKY1F1aGs3Y09uZUhGSGx4YU5PazRzcWp1amVpM0JUc1hMcXIyb3FMZzZNSGI2a2l1Vl9uZ2FFbERiYmxJNDBEckdVMHNSa3lKX1MxVzFhVHhsc0lpclJLV0FYWlNPQmVBUm9xbUV0UU1zZUNsR0ZQb3Fmak80M0ktSy1LMEpkOXo1MFpXMEt5STdEQWFpczlQUWlpRGfSAdcBQVVfeXFMUEFneFhoWDNPNXFrbFN5ajZIemk4ZTlMRnNrQUJ3RHJrMHRmRGpNcWJuRF9Kc2Y5RWQta3FmLS1hbzNUMVBpTXU5RzRhXzVGU2UwNFZTWG9hR3JONGNRZHVlaHZhWm9ab0lOX1RUQkRrRFRQTDgxd3RvdDRRZzdxNzg4MGE0THJDc09qWW44LUZvWnpWaHFsY3hHWU9fWGxRZXFab2NlREtRMm9DWVZSQy1DakVvTDhhbDh2d2tfX015eVZpUEQ3UXdhQlE2MTcxRlh5S0JHems?oc=5",
+      "headline": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
       "affected_assets": [
-        "Brent Crude",
-        "WTI Crude",
-        "OMCs"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "Projections of a persistent global supply surplus outweigh Middle Eastern geopolitical risks, exerting downward pressure on crude prices. Lower oil prices soften input costs for oil marketing companies and import-heavy economies like India, but signal softening global demand. This dynamic fundamentally limits upside momentum for energy upstream producers.",
-      "action": "watch",
-      "category": "commodity"
-    },
-    {
-      "headline": "TCS Recognised as Leader in Agentic Application Management by HFS Research; Shares Rise Nearly 1.7% - HDFC Sky",
-      "source": "HDFC Sky",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEFyMnBUVExobE5OY2NjNUZpRkJ4UXRkNUlZck1fbFBKN25lTjkzejZTUlo5MWNuTS0xM080X19taGVuRWYyZGg4X21WVnBOcVR5RUhyUUZHRDRDcXQ0b25EOGhZdV9jWS1YVE5hZnNaUmZrZ2JyOEIwLUVDT1M1ZVJhSXNlTjZqT2xJMU5UMEFUZHNhOG5ILVBSVkxZNVNwaW1HY2lMV3lyVUdZU3JyNllxbUZpYXZLZWRWbWs3enFJenByRDBZOUNn?oc=5",
-      "affected_assets": [
-        "TCS",
-        "Nifty IT"
+        "Bharti Airtel",
+        "Eternal",
+        "HDFC Bank",
+        "InterGlobe Aviation"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
-      "confidence": 0.78,
-      "reasoning": "Recognition in agentic enterprise application management underscores TCS's operational execution in next-generation AI automation services. Such positioning supports long-term contract win rates and operating margins amid tight enterprise tech budgets. The recognition validates management's investments in high-value capabilities.",
+      "confidence": 0.85,
+      "reasoning": "Institutional endorsements from major houses like Goldman Sachs often trigger fresh foreign institutional inflows into the recommended stocks. Mentioning heavyweights like HDFC Bank and Bharti Airtel provides a strong upside catalyst for the broader Indian indices.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Zee Business. . Tata Motors PV में बड़ी गिरावट क्यों नतीजों के बाद फिसला Tata Motors PV? क्यों ब्रोकरेजेज का भरोसा घटा? - Facebook",
-      "source": "Zee Business",
-      "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNenp0c1lGV3QyTjdXUERDLTd5cmE5dVhmV09qQmE1N3dNdUI1UWZ0UlJNdURmcTJhbnhXRGZSNXNOWk9sVExRYndyRXB1WC1faUhBRDZJVmh3SnZfbE1tTlc4cjJQUE12ZXNUZ0FDbU84SGU3YzRGUUNTMGhLNkhHWnV1MklTTW80SXQ3YTlERWF6ZWhNaUFKSmMzaWxuTFowbFMzTGFxckljd1dxWHhwc3B1Qzg5b1ZveHZXTmtoaDgzWWZOYVdYNmJ1b0ROV2ZFbjlBUXFDLUlsVXozZUhVYmhfWG5wLVRkb01OX09kQWpKMjlpdWkxbFJoeUZDVWNTTzVYenBoejdxVVRxS3Zaak14QzhiY09BY0ZzVlE0UUFGOTZoLXZja2VfUGxPaWpBRXhDZzdKSTc4S0dQZzRPQ0c3aV9CRVhwNGM0RVRzWnJMRlNfMjJDd25hZ3dQcW82VWJPc1FKc1Q1TUpDanVGYnJ1cVdla1B4aXNuLW9VUXBuWUMxZGx2NG1kZkh3NDJoamhZUzAyOGtPQnRuNzNZcU1mT3lvWkxkVDA1M3Z4b1VvRGhYVm00OWlpMG8tSTIwdUltdFVwMi1sMlh6Sm5fT0FsYWhfeGhfXzlxNkdrVFBMZXk5dXJ3LThUbEtxMTVaN3NVb3dXaTZuSjBiOGM5NVNXZkVMU0t2Xzl6ckUyZDhTR052MGY0MFhGYVRQYW8tMDZQNm1NOTZ6a1d4b2JibU94Z2hfVXY1NVItY1NhY0xUanZfTXhSYXNtY28zTTFXT2M3dWtoS0dtV2JBNEIwS2xXYTFpdWR5R3VlWTc5dHpXNXFPZXRmajZrNjNVZXhOQzAwZG84d0F3QlI5WWFfLUEtU2ZhVm9MOHBHNzdzd3hvbVFvTUNHdUVBZ3c?oc=5",
+      "headline": "Why AMD shares are rising: 7 things investors should know",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-amd-shares-are-rising-7-things-investors-should-know/slideshow/135980657.cms",
       "affected_assets": [
-        "Tata Motors",
-        "Nifty Auto"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.82,
-      "reasoning": "Underwhelming quarterly earnings for the passenger vehicle division coupled with brokerage target price cuts signal margin compression and slowing domestic retail sales. Diminishing analyst conviction could lead to further institutional de-rating over the short term. The stock faces fundamental drag until volume growth reaccelerates.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "PNB vs Canara Bank: Which PSU bank is a better stock to buy Nifty Bank at record high, and why? Experts' views, targets - LiveMint",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/pnb-vs-canara-bank-which-psu-bank-is-a-better-stock-to-buy-nifty-bank-at-record-high-and-why-experts-views-targets-11794892103071.html",
-      "affected_assets": [
-        "PNB",
-        "Canara Bank",
-        "Nifty Bank",
-        "Nifty PSU Bank"
+        "AMD"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.8,
-      "reasoning": "Nifty Bank and PSU banking gauges reaching all-time highs reflect strong asset quality, healthy credit growth, and sustained institutional flows. State-owned lenders like PNB and Canara Bank benefit directly from cleaner balance sheets and elevated net interest margins. Ongoing rerating momentum presents favorable risk-reward dynamics.",
+      "reasoning": "OpenAI's integration and verified improvements in GPU design validate AMD's hardware competitiveness in the AI space. This directly challenges Nvidia's monopoly narrative and boosts sentiment across semiconductor tech equities.",
       "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "S&amp;P 500 index 2027 target: 8200 mark expected by UBS - here's why; but AI-related uncertainties may limit further upside",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/sp-500-index-2027-target-8200-mark-expected-by-ubs-heres-why-but-ai-related-uncertainties-may-limit-further-up-11795066877862.html",
+      "affected_assets": [
+        "S&P 500",
+        "US Equities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "reasoning": "UBS forecasting a long-term multi-year bull run toward 8200 instills structural confidence in global equity markets. However, near-term caution regarding AI valuations and concentration risks keeps the immediate sentiment tempered.",
+      "action": "watch",
       "category": "macro"
     },
     {
-      "headline": "How Trump and Xi went from tariff war to trade truce - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
+      "headline": "Stock market outlook today,19 Nov:Sensex, Nifty prediction-DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795048871272.html",
       "affected_assets": [
-        "Nifty 50",
-        "Global Equities",
-        "Emerging Markets"
+        "Sensex",
+        "Nifty"
       ],
       "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Weak global market cues and negative Wall Street performance are directly impacting Indian indices, causing a cooling-off period after recent rallies. Traders should adopt a defensive stance in the immediate term.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Assetz IPO gets SEBI nod; Bengaluru realty developer reportedly plans to raise  ₹1,200 crore",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/assetz-ipo-gets-sebi-nod-bengaluru-realty-developer-reportedly-plans-to-raise-rs-1-200-crore-11795013611163.html",
+      "affected_assets": [
+        "Assetz Ltd"
+      ],
+      "asset_type": "stock",
       "sentiment": "neutral",
-      "confidence": 0.72,
-      "reasoning": "A historical overview detailing transitions between trade escalation and bilateral truces highlights the cyclical volatility inherent in superpower trade relations. While de-escalation benefits global supply chains, underlying structural competition persists. Markets are expected to remain cautious regarding future protectionist tariff implementations.",
+      "confidence": 0.65,
+      "reasoning": "SEBI approval for a large primary market issuance shows continued liquidity and robust appetite in the Indian real estate sector. It highlights active capital deployment trends without posing an immediate threat or tailwind to secondary markets.",
       "action": "watch",
-      "category": "geopolitical"
+      "category": "stock_specific"
     }
   ],
   "tweets": [],
