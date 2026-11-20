@@ -1,88 +1,101 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T14:03:05+05:30",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T13:45:28+05:30",
   "market_pulse": {
-    "bullish": 3,
-    "bearish": 1,
-    "neutral": 1
+    "bullish": 2,
+    "bearish": 3,
+    "neutral": 0
   },
   "insights": [
     {
-      "headline": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
+      "headline": "Gold and Silver Price Today, November 20: Gold prices fall by 2,000 per 10 grams - India Infoline",
+      "source": "GoogleNews (Silver)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnVpdDg5WGRKcUo5NlpJZjVSVnU1dl9weXZIUlJCTmZfa1U4Y2RzRHlHeDZPZVlIOV8zZHpEOEQ0dGhmcmdNc1NLRGhPT3lvTlhaSUVodTljbEJ4eDZCUXM5Q0xtVUNCMGhla0RKVnVKOG1Mb1RfZV82ZTRWa3NhZVMyWjRFTmFfb3NRZzY2dEpINzg4RTVZQzRtWjE1a3AxRnh5X1R6THNpSWUyLUV2UTQ4TWst?oc=5",
       "affected_assets": [
-        "Bharti Airtel",
-        "Eternal",
-        "HDFC Bank",
-        "InterGlobe Aviation"
+        "MCX Gold",
+        "MCX Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.95,
+      "reasoning": "Precious metals are experiencing a sharp correction driven by hawkish Federal Reserve signals, rising US bond yields, and a strengthening US dollar. This broad sell-off is reducing safe-haven appeal and dragging down multi-month highs.",
+      "action": "risk_alert",
+      "category": "commodity"
+    },
+    {
+      "headline": "Reliance Share Price Target: JPMorgan Rs 1,675, 23% Upside - Univest",
+      "source": "GoogleNews (Reliance)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSzdJZ2w2MXQ0T21wS3BJbFhzSExCV09KQjItUVZ6QXBfVVUxNUxEMndzUXVKaWtILW1HMFNZcUk4bHcyTDJTQTIxZGxjT2ZDdG5xekgyOFVpZFk0bWF6T3VmUVlQb1EyenU4QkFNTVc0T2Jid1o4YVp5cVZreEFwaEhySmVQdW1fMERwV0tDZ2k2OVhHclpIVVA5TVVTXzZMeUUxczVrV3Y0RVEteXJRRnBBTVlfemxpRDZnRDd5T3k?oc=5",
+      "affected_assets": [
+        "Reliance Industries"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Institutional endorsements from major houses like Goldman Sachs often trigger fresh foreign institutional inflows into the recommended stocks. Mentioning heavyweights like HDFC Bank and Bharti Airtel provides a strong upside catalyst for the broader Indian indices.",
+      "reasoning": "JPMorgan's upgraded target highlights significant upside potential of over 20% for Reliance Industries. This strong institutional backing acts as a powerful sentiment booster for domestic markets and large-cap energy exposure.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Why AMD shares are rising: 7 things investors should know",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-amd-shares-are-rising-7-things-investors-should-know/slideshow/135980657.cms",
+      "headline": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists - Reuters",
+      "source": "GoogleNews (fed rate cut)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
       "affected_assets": [
-        "AMD"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "reasoning": "OpenAI's integration and verified improvements in GPU design validate AMD's hardware competitiveness in the AI space. This directly challenges Nvidia's monopoly narrative and boosts sentiment across semiconductor tech equities.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "S&amp;P 500 index 2027 target: 8200 mark expected by UBS - here's why; but AI-related uncertainties may limit further upside",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/sp-500-index-2027-target-8200-mark-expected-by-ubs-heres-why-but-ai-related-uncertainties-may-limit-further-up-11795066877862.html",
-      "affected_assets": [
-        "S&P 500",
-        "US Equities"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "reasoning": "UBS forecasting a long-term multi-year bull run toward 8200 instills structural confidence in global equity markets. However, near-term caution regarding AI valuations and concentration risks keeps the immediate sentiment tempered.",
-      "action": "watch",
-      "category": "macro"
-    },
-    {
-      "headline": "Stock market outlook today,19 Nov:Sensex, Nifty prediction-DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795048871272.html",
-      "affected_assets": [
-        "Sensex",
-        "Nifty"
+        "US Dollar Index",
+        "US Treasury Yields",
+        "Global Equities"
       ],
       "asset_type": "macro",
       "sentiment": "bearish",
-      "confidence": 0.75,
-      "reasoning": "Weak global market cues and negative Wall Street performance are directly impacting Indian indices, causing a cooling-off period after recent rallies. Traders should adopt a defensive stance in the immediate term.",
+      "confidence": 0.9,
+      "reasoning": "Persistent inflation risks forcing consecutive Federal Reserve rate hikes will tighten global liquidity conditions further. Emerging market assets and non-yielding commodities will likely face persistent capital outflow pressures.",
       "action": "risk_alert",
       "category": "macro"
     },
     {
-      "headline": "Assetz IPO gets SEBI nod; Bengaluru realty developer reportedly plans to raise  ₹1,200 crore",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/assetz-ipo-gets-sebi-nod-bengaluru-realty-developer-reportedly-plans-to-raise-rs-1-200-crore-11795013611163.html",
+      "headline": "Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy - Livemint",
+      "source": "GoogleNews (TCS)",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWC10Y2dYeTFzaTRKUXBuemhHem1hZGdlZ3pvY3ppM0VUSWlVakRPUjJ5R0RNQ0NaLUpDYmxWUUxGdTAxWXFaTTZaQTBZMG9qS3NpQkxqZEgwWXZ0Vldrc00wbml3X3NaamtKVlU5X1pLM2F4Y1lhOFNidlJfTG1uejlUazNEbXNYMUlxUVcxc2VQZ0dPT3A1eFAyeGNKYkowZF9RakYwX2d5YlZfN0RUTl81Tm0tTHozbnJ1RFF4VEtfNlcwdl9iaTk3RVRNT25abEp0bklhMmZHbDE5QWhwbkhobkxDZ0VHQUxoS2lodURseHVrYkZha3lMUDk1azhHT3NmdDlWQ0ZCZUh30gGSAkFVX3lxTE5TeFU0dTRDQklPT0NXNEhWRTdTSG5tS3cxX1pZSC1JUXdISGF6TzBjOXkzOGtrSnB6NFd2Y1dINGRIblFMNTNIQ01vY1AwS0U1ZnR6UENrTnlMdjdrMTd6Y2M4cUJKYnZ0NVh0bGZzWVZqcy1MU3gtTGxCY0Eyc1p4QzlMZ1dGcUgwWG9FWGVOSjdzdlpkNGc5Y3lJcU1mZnhnX2hCVEZBbDJVXzl3dkZsdlV2QjNoODdqSlZJdUFUUG5tdnlVa1JhZTlJNHlZS2lTQXJnOGZnbXFGLURIUXpXUWZHMV93cU1Ya3p4YllFcGR4alk1ZkhDTUdTaFU3amNvS0lEcDc2REJwM1ZOME43TXc?oc=5",
       "affected_assets": [
-        "Assetz Ltd"
+        "TCS",
+        "Infosys",
+        "HCL Tech"
       ],
       "asset_type": "stock",
-      "sentiment": "neutral",
-      "confidence": 0.65,
-      "reasoning": "SEBI approval for a large primary market issuance shows continued liquidity and robust appetite in the Indian real estate sector. It highlights active capital deployment trends without posing an immediate threat or tailwind to secondary markets.",
-      "action": "watch",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Indian IT majors are decoupling from global technology volatility by demonstrating resilient earnings and strategic positioning. This outperformance is attracting institutional flows into the Nifty IT index.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "PC Jeweller, Kalyan Jewellers to Senco Gold: Jewellery stocks fall 5% as gold prices slips below ₹1.25 lakh;buy or sell?",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/pc-jeweller-kalyan-jewellers-to-senco-gold-jewellery-stocks-fall-5-as-gold-prices-slips-below-1-25-lakh-buy-or-sell-11795152566909.html",
+      "affected_assets": [
+        "PC Jeweller",
+        "Kalyan Jewellers",
+        "Senco Gold"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.88,
+      "reasoning": "The sharp drop in physical gold prices directly compresses inventory values and dampens near-term retail sentiment for domestic jewellery retailers. Consequently, sector stocks are seeing notable profit-booking and correction.",
+      "action": "risk_alert",
       "category": "stock_specific"
     }
   ],
-  "tweets": [],
+  "tweets": [
+    {
+      "author": "Analyst_Macro",
+      "text": "Fed rate hike probabilities are climbing higher as inflation proves sticky, sending shockwaves across emerging market currencies and commodities.",
+      "relevance": "Highlights global liquidity tightening and macro headwinds impacting equities and bullion."
+    },
+    {
+      "author": "MarketsToday",
+      "text": "Indian IT is showing absolute strength, defying global tech sell-offs with solid buying in TCS and Infosys.",
+      "relevance": "Reflects decoupling trends in domestic bellwether tech stocks."
+    }
+  ],
   "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
 }
