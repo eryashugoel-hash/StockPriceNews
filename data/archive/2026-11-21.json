@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T13:36:38+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 3,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "Tata Consultancy Services (NSEI:TCS) Stock Still Looks Discounted Despite A 26% Slide",
+      "source": "GoogleNews (TCS)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYjd2b184ZG9OSDRoVDRfU2M5SnRqUXl5MlpqdTB4c1R2M0RDR1hLbkhFQk8wbElSVUZIX1FMQzhVQk9LVlRMa21OemxBVWVuWVZnY1dzekZvd1RVOXg1M1Y5c0JMWjNELWxrbFc5QkUtdmVtdjROUkdjYVJoUXNDeU9hRGhTVklzeUVjQXlwLUZwd2tJUnAxUG1ENU9XWmIyTUw5T1NtUC16ZWVTREJ5Y2FJRWRSa1V3MzF2WTBJc2JDanNrOEhhOFdJblU2ZkE4Zm5XSUliYVJKTW9MSzl6edIB5gFBVV95cUxOZ2FpTkU0aEoyT1RKeDVPWC1uanhWdGtWWml4d1dHbmlvdWNMblJUSEFNSjhqQUV5d0FXQUFpYmkyWC1mQldDaldXUzJSN285aGlnWkNsY1JWZGY3NFJYM3ZHQWFfbS1IVWJEeUl0VEVEaVNHalBUZVRSNk1Db0tmWUp0b3AwVWtnSVRhWVhmQTNyN1RTdmNHRGNBcVdRdU1idFBZWnNFWkhYMjBJVHVrcEd4bkpwanpKaWlwSDYzaUU4WFNzUUtpYTVic1Q1SzVqaHNBYkJhY01zT0UtdkYwc0ozekdkdw?oc=5",
+      "affected_assets": [
+        "TCS"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "A significant price correction of 26% provides an attractive entry point for long-term investors looking at India's leading IT services firm. Fundamental business strength remains intact despite short-term macro headwinds.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions",
+      "source": "GoogleNews (HDFC Bank)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTVPN19SYjAybFp6UU9NVldPeEtER05YME9haVJvUGpaLWZmYy1IeHVDeTZ5WmlaYkJzSmVxdDF0ZVJDTDNHVzdPVG1udWtrbDg0SXJYVG4tNXRQWU9faE9aSENRRjdEY09IYnFROVpWT0tlbG5LY054YmVKcmZjSi1haDE4NE9pQTkzamZR?oc=5",
+      "affected_assets": [
+        "HDFC Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Strong capital addition over a short duration highlights robust institutional buying and investor confidence. Reclaiming major valuation milestones signals solid underlying banking fundamentals.",
+      "action": "watch",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold, Silver Drop to Lowest Levels in Over a Year",
+      "source": "GoogleNews (Silver)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkhaVnBLOFlTM3FaSjZRMmVEelRfcDNkVTBnWDZoOEE1WFVHcXd4MzdFaDM4NGJha3VjQWE3ZDNzTEhlU0RUVHkwWk9VdmVpU2dyUTVlUzBYcU5FOXlaWFdVNlJhTG5lSUpOTHhxdF9uTTZ2d2k1VVZPUnZFV3NlVTY5SWVKWW9ucHhIYkdhcFVhaGh5a3RlRGF2WS16QlRoU29iNjFUSzE?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.9,
+      "reasoning": "Precious metals experiencing multi-year lows indicate reduced safe-haven demand and aggressive liquidation. This poses short-term downside risks for bullion-linked assets.",
+      "action": "risk_alert",
+      "category": "commodity"
+    },
+    {
+      "headline": "Finolex Cables Cuts Copper Armoured Cable Prices By Up To 6%; Polycab, RR Kabel May Follow",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/business/finolex-cables-cuts-copper-armoured-cable-prices-by-up-to-6-percent-polycab-rr-kabel-may-follow-12357908#publisher=newsstand",
+      "affected_assets": [
+        "Finolex Cables",
+        "Polycab India",
+        "RR Kabel"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Price cuts across major cable manufacturers suggest softening demand or aggressive pricing competition within the electrical sector. This could compress near-term operating margins for these companies.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Nasdaq tumbles 2% as Anthropic retreat deepens AI trade concerns",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms",
+      "affected_assets": [
+        "Nasdaq",
+        "Global Tech Stocks"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Growing skepticism over AI valuations and retreats in high-profile tech debuts create negative spillover risks for global technology equities. Indian IT and global tech sectors may face heightened volatility as a secondary effect.",
+      "action": "risk_alert",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

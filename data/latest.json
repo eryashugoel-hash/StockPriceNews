@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T13:45:28+05:30",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T13:36:38+05:30",
   "market_pulse": {
     "bullish": 2,
     "bearish": 3,
@@ -8,94 +8,80 @@
   },
   "insights": [
     {
-      "headline": "Gold and Silver Price Today, November 20: Gold prices fall by 2,000 per 10 grams - India Infoline",
-      "source": "GoogleNews (Silver)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnVpdDg5WGRKcUo5NlpJZjVSVnU1dl9weXZIUlJCTmZfa1U4Y2RzRHlHeDZPZVlIOV8zZHpEOEQ0dGhmcmdNc1NLRGhPT3lvTlhaSUVodTljbEJ4eDZCUXM5Q0xtVUNCMGhla0RKVnVKOG1Mb1RfZV82ZTRWa3NhZVMyWjRFTmFfb3NRZzY2dEpINzg4RTVZQzRtWjE1a3AxRnh5X1R6THNpSWUyLUV2UTQ4TWst?oc=5",
-      "affected_assets": [
-        "MCX Gold",
-        "MCX Silver"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.95,
-      "reasoning": "Precious metals are experiencing a sharp correction driven by hawkish Federal Reserve signals, rising US bond yields, and a strengthening US dollar. This broad sell-off is reducing safe-haven appeal and dragging down multi-month highs.",
-      "action": "risk_alert",
-      "category": "commodity"
-    },
-    {
-      "headline": "Reliance Share Price Target: JPMorgan Rs 1,675, 23% Upside - Univest",
-      "source": "GoogleNews (Reliance)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSzdJZ2w2MXQ0T21wS3BJbFhzSExCV09KQjItUVZ6QXBfVVUxNUxEMndzUXVKaWtILW1HMFNZcUk4bHcyTDJTQTIxZGxjT2ZDdG5xekgyOFVpZFk0bWF6T3VmUVlQb1EyenU4QkFNTVc0T2Jid1o4YVp5cVZreEFwaEhySmVQdW1fMERwV0tDZ2k2OVhHclpIVVA5TVVTXzZMeUUxczVrV3Y0RVEteXJRRnBBTVlfemxpRDZnRDd5T3k?oc=5",
-      "affected_assets": [
-        "Reliance Industries"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "JPMorgan's upgraded target highlights significant upside potential of over 20% for Reliance Industries. This strong institutional backing acts as a powerful sentiment booster for domestic markets and large-cap energy exposure.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists - Reuters",
-      "source": "GoogleNews (fed rate cut)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
-      "affected_assets": [
-        "US Dollar Index",
-        "US Treasury Yields",
-        "Global Equities"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
-      "confidence": 0.9,
-      "reasoning": "Persistent inflation risks forcing consecutive Federal Reserve rate hikes will tighten global liquidity conditions further. Emerging market assets and non-yielding commodities will likely face persistent capital outflow pressures.",
-      "action": "risk_alert",
-      "category": "macro"
-    },
-    {
-      "headline": "Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy - Livemint",
+      "headline": "Tata Consultancy Services (NSEI:TCS) Stock Still Looks Discounted Despite A 26% Slide",
       "source": "GoogleNews (TCS)",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWC10Y2dYeTFzaTRKUXBuemhHem1hZGdlZ3pvY3ppM0VUSWlVakRPUjJ5R0RNQ0NaLUpDYmxWUUxGdTAxWXFaTTZaQTBZMG9qS3NpQkxqZEgwWXZ0Vldrc00wbml3X3NaamtKVlU5X1pLM2F4Y1lhOFNidlJfTG1uejlUazNEbXNYMUlxUVcxc2VQZ0dPT3A1eFAyeGNKYkowZF9RakYwX2d5YlZfN0RUTl81Tm0tTHozbnJ1RFF4VEtfNlcwdl9iaTk3RVRNT25abEp0bklhMmZHbDE5QWhwbkhobkxDZ0VHQUxoS2lodURseHVrYkZha3lMUDk1azhHT3NmdDlWQ0ZCZUh30gGSAkFVX3lxTE5TeFU0dTRDQklPT0NXNEhWRTdTSG5tS3cxX1pZSC1JUXdISGF6TzBjOXkzOGtrSnB6NFd2Y1dINGRIblFMNTNIQ01vY1AwS0U1ZnR6UENrTnlMdjdrMTd6Y2M4cUJKYnZ0NVh0bGZzWVZqcy1MU3gtTGxCY0Eyc1p4QzlMZ1dGcUgwWG9FWGVOSjdzdlpkNGc5Y3lJcU1mZnhnX2hCVEZBbDJVXzl3dkZsdlV2QjNoODdqSlZJdUFUUG5tdnlVa1JhZTlJNHlZS2lTQXJnOGZnbXFGLURIUXpXUWZHMV93cU1Ya3p4YllFcGR4alk1ZkhDTUdTaFU3amNvS0lEcDc2REJwM1ZOME43TXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYjd2b184ZG9OSDRoVDRfU2M5SnRqUXl5MlpqdTB4c1R2M0RDR1hLbkhFQk8wbElSVUZIX1FMQzhVQk9LVlRMa21OemxBVWVuWVZnY1dzekZvd1RVOXg1M1Y5c0JMWjNELWxrbFc5QkUtdmVtdjROUkdjYVJoUXNDeU9hRGhTVklzeUVjQXlwLUZwd2tJUnAxUG1ENU9XWmIyTUw5T1NtUC16ZWVTREJ5Y2FJRWRSa1V3MzF2WTBJc2JDanNrOEhhOFdJblU2ZkE4Zm5XSUliYVJKTW9MSzl6edIB5gFBVV95cUxOZ2FpTkU0aEoyT1RKeDVPWC1uanhWdGtWWml4d1dHbmlvdWNMblJUSEFNSjhqQUV5d0FXQUFpYmkyWC1mQldDaldXUzJSN285aGlnWkNsY1JWZGY3NFJYM3ZHQWFfbS1IVWJEeUl0VEVEaVNHalBUZVRSNk1Db0tmWUp0b3AwVWtnSVRhWVhmQTNyN1RTdmNHRGNBcVdRdU1idFBZWnNFWkhYMjBJVHVrcEd4bkpwanpKaWlwSDYzaUU4WFNzUUtpYTVic1Q1SzVqaHNBYkJhY01zT0UtdkYwc0ozekdkdw?oc=5",
       "affected_assets": [
-        "TCS",
-        "Infosys",
-        "HCL Tech"
+        "TCS"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.8,
-      "reasoning": "Indian IT majors are decoupling from global technology volatility by demonstrating resilient earnings and strategic positioning. This outperformance is attracting institutional flows into the Nifty IT index.",
+      "reasoning": "A significant price correction of 26% provides an attractive entry point for long-term investors looking at India's leading IT services firm. Fundamental business strength remains intact despite short-term macro headwinds.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "PC Jeweller, Kalyan Jewellers to Senco Gold: Jewellery stocks fall 5% as gold prices slips below ₹1.25 lakh;buy or sell?",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/pc-jeweller-kalyan-jewellers-to-senco-gold-jewellery-stocks-fall-5-as-gold-prices-slips-below-1-25-lakh-buy-or-sell-11795152566909.html",
+      "headline": "HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions",
+      "source": "GoogleNews (HDFC Bank)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTVPN19SYjAybFp6UU9NVldPeEtER05YME9haVJvUGpaLWZmYy1IeHVDeTZ5WmlaYkJzSmVxdDF0ZVJDTDNHVzdPVG1udWtrbDg0SXJYVG4tNXRQWU9faE9aSENRRjdEY09IYnFROVpWT0tlbG5LY054YmVKcmZjSi1haDE4NE9pQTkzamZR?oc=5",
       "affected_assets": [
-        "PC Jeweller",
-        "Kalyan Jewellers",
-        "Senco Gold"
+        "HDFC Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Strong capital addition over a short duration highlights robust institutional buying and investor confidence. Reclaiming major valuation milestones signals solid underlying banking fundamentals.",
+      "action": "watch",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold, Silver Drop to Lowest Levels in Over a Year",
+      "source": "GoogleNews (Silver)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkhaVnBLOFlTM3FaSjZRMmVEelRfcDNkVTBnWDZoOEE1WFVHcXd4MzdFaDM4NGJha3VjQWE3ZDNzTEhlU0RUVHkwWk9VdmVpU2dyUTVlUzBYcU5FOXlaWFdVNlJhTG5lSUpOTHhxdF9uTTZ2d2k1VVZPUnZFV3NlVTY5SWVKWW9ucHhIYkdhcFVhaGh5a3RlRGF2WS16QlRoU29iNjFUSzE?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.9,
+      "reasoning": "Precious metals experiencing multi-year lows indicate reduced safe-haven demand and aggressive liquidation. This poses short-term downside risks for bullion-linked assets.",
+      "action": "risk_alert",
+      "category": "commodity"
+    },
+    {
+      "headline": "Finolex Cables Cuts Copper Armoured Cable Prices By Up To 6%; Polycab, RR Kabel May Follow",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/business/finolex-cables-cuts-copper-armoured-cable-prices-by-up-to-6-percent-polycab-rr-kabel-may-follow-12357908#publisher=newsstand",
+      "affected_assets": [
+        "Finolex Cables",
+        "Polycab India",
+        "RR Kabel"
       ],
       "asset_type": "stock",
       "sentiment": "bearish",
-      "confidence": 0.88,
-      "reasoning": "The sharp drop in physical gold prices directly compresses inventory values and dampens near-term retail sentiment for domestic jewellery retailers. Consequently, sector stocks are seeing notable profit-booking and correction.",
+      "confidence": 0.75,
+      "reasoning": "Price cuts across major cable manufacturers suggest softening demand or aggressive pricing competition within the electrical sector. This could compress near-term operating margins for these companies.",
       "action": "risk_alert",
       "category": "stock_specific"
-    }
-  ],
-  "tweets": [
-    {
-      "author": "Analyst_Macro",
-      "text": "Fed rate hike probabilities are climbing higher as inflation proves sticky, sending shockwaves across emerging market currencies and commodities.",
-      "relevance": "Highlights global liquidity tightening and macro headwinds impacting equities and bullion."
     },
     {
-      "author": "MarketsToday",
-      "text": "Indian IT is showing absolute strength, defying global tech sell-offs with solid buying in TCS and Infosys.",
-      "relevance": "Reflects decoupling trends in domestic bellwether tech stocks."
+      "headline": "Nasdaq tumbles 2% as Anthropic retreat deepens AI trade concerns",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms",
+      "affected_assets": [
+        "Nasdaq",
+        "Global Tech Stocks"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Growing skepticism over AI valuations and retreats in high-profile tech debuts create negative spillover risks for global technology equities. Indian IT and global tech sectors may face heightened volatility as a secondary effect.",
+      "action": "risk_alert",
+      "category": "macro"
     }
   ],
+  "tweets": [],
   "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
 }
