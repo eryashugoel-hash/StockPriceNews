@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T14:11:18+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 2,
+    "neutral": 1
+  },
+  "insights": [
+    {
+      "headline": "UBS Overweight On Indian Banks; HDFC Bank, ICICI Bank, Axis Bank Remain Top Picks - NDTV Profit",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2J6SkgtanlsR2d1V2lENXloUGoxNjZ3NGNpMktOS240Q3Q5RWd6NF9faDNLWmszbHNqaWpYVjdEdWs2Vkxpa1IzRXE3WHcyU3dmQXk2SU9oQjBheFZqMFFxX214bE1Yb2UtcVM3czdHQ2E1TlRPWDRfR3EtTmk4bV9ESUpYanNxQkFMZ2QxYnc3QVUzWERGLUx1Skg2TDdBMHExZkx6MldLQVZQTlFucG9jZVBGN1ZRYzc0bS1ERdIBxwFBVV95cUxOckJKcTdUQU9ZdkxHRlBOTC01S0xLVW91cVZ1Z3pPVEpSYmNCdUIyaU41RW5VbVJPYmY4QkxGTWVyQWpFNjNJaUIzZDlRVEo2Zm9hblRaVjcxT2gxemZycFE1Vk05NTNiMHRBcjJoSm5fZ1E3V3lka3lXUF8tdE1sMWhFQ3RycHBTOFd2Wm4zZl95bzhYbVBzS1BSSVNoVEduRE1aT2lhNmRjU0M5U19VeW51Uk9BTWlDbTVhNUxaa2F4SlpuWDlR?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "ICICI Bank",
+        "Axis Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Institutional backing from UBS underscores robust balance sheet strength and resilient credit growth across top Indian private lenders. This endorsement is likely to drive renewed institutional buying and support banking index valuations.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Indian IT’s growth revival remains elusive despite better Q2",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/mark-to-market/indian-it-sector-growth-outlook-ai-revenue-infosys-tcs-wipro-11795328533948.html",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "Wipro"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Weak deal bookings and sluggish revenue conversion signal prolonged headwind pressure for tier-1 Indian IT exporters despite steady Q2 performance. Sluggish enterprise technology spending in western markets poses risks to revenue guidance.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold recovers from 14-month low; focus turns to US inflation data",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-recovers-from-14-month-low-focus-turns-to-us-inflation-data/articleshow/136086840.cms",
+      "affected_assets": [
+        "Gold"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "reasoning": "Gold prices have rebounded slightly after plumbing 14-month lows as investors reposition ahead of upcoming US inflation data. Macro sentiment remains cautious with interest rate expectations continuing to dictate near-term precious metals trajectory.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "India bonds give up marginal opening gains as profit booking takes over",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-marginal-opening-gains-as-profit-booking-takes-over/articleshow/136093136.cms",
+      "affected_assets": [
+        "Indian Sovereign Bonds",
+        "INR"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.78,
+      "reasoning": "Benchmark bond yields spiked as profit taking coincided with downside pressure on the Indian rupee. Elevated yields could marginally raise borrowing costs for corporates and tighten domestic liquidity conditions.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3pBMG1XeGk3X0tmdVlkOWFnRlhTS3h3a1VyZkFhbElMZ2NXa3hPdjVEdkxUYWlxWTZZbmxLV1RSZlV6NDNSQmVXUUVkaV9RSzRodXB1TWw0bkw3Sm02OXVSNGNxS3VHWk95WTN1c1_Pa0pEWVlGYmVrSnFnRVNqVzNXbDRiOWx4clplN0d4T2kxUDBxQmNrR2MtNk81T0RWbTBYNml3Q1RnMk45MDN6NGpoeTVJblA3c3BORnhR?oc=5",
+      "affected_assets": [
+        "INR",
+        "USD/INR"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "reasoning": "Projections of foreign equity inflows supporting currency strength reflect improving international investor appetite for Indian assets. A strengthening currency could reduce import costs and cushion macro stability.",
+      "action": "buy_opportunity",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

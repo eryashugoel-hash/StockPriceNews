@@ -1,87 +1,87 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T13:21:44+05:30",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T14:11:18+05:30",
   "market_pulse": {
-    "bullish": 3,
+    "bullish": 2,
     "bearish": 2,
-    "neutral": 0
+    "neutral": 1
   },
   "insights": [
     {
-      "headline": "Infosys stock: INR 18,000 crore buyback opens during key week - ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckdUcHZCVG5sS2tyckdOalAwWVNxaE5ubEJqdXc2cnJiY2ZsczQ4dXdFbGtmOGk4R3ZMT1RrNFZWMzRucU9veExYbFphdzZBczd1cFViR1NQei1mZUFBY2g2QTgwdTJhVTVRYVZ5U2FiRFJDZWZFWEtEai1NYnJWWW9QQlNlNXVmSG5yTUhrZVY0ejlBVlpEN1N5N1JBMTRTamNScGRqdDlrZFZyWEZoSnNidm5kc0wxM1VuSzlpV18?oc=5",
-      "affected_assets": [
-        "Infosys",
-        "Nifty IT"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "The launch of an INR 18,000 crore share buyback provides solid downside price support and signals strong capital allocation back to shareholders. This capital management move boosts investor confidence amidst macro uncertainty in global IT spending.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "J.P. Morgan prices in stunning shift in Fed rate-hike call - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZW5peFlkWDFqckNnMW01X2ZvU0k1b284SFNIblI2c0FEdTNlTFFmby0wRjF2SFZsTjhGbnZLT2NsNncwUzhoMXhsbjhNQ2tySURBNFM1aHhTdmV6OHZ1SmdVRV9LVXJNRjREZWFIZ2o4cVBoQTR2UWNodDBNek9vYjF3ZFlZelE4ekVMRTBHakhtUVdRMlE?oc=5",
-      "affected_assets": [
-        "Nifty 50",
-        "US Equities",
-        "Emerging Market Debt"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "reasoning": "A potential shift toward Fed interest rate hikes strengthens the US Dollar and drives global bond yields higher. This creates capital outflow pressure for emerging market equities including Indian markets.",
-      "action": "risk_alert",
-      "category": "macro"
-    },
-    {
-      "headline": "PSU vs Private banks: Who is powering Nifty Bank's record-high rally after 5% surge? SBI, HDFC, AU, Canara target price - Livemint",
-      "source": "Livemint",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMXlTX1RBQi1uMlU5Q1c2aDFYM0NidGs0UXRpTXByaC1IZWcxWnVKSDN0cEhZNHo5Y1hlUEN4bUtFc1BJRlJjZUVjSnBQSHBhb0JrQ090TE8wRF9mVlRXMzN1Nk94dGdLMUJlX25IVmJYSDgtU3gtWWlmeGxVUU9fQm9Wc2M0S1RwN0QwWTFlQ1pYbXB6eExGdjFDYjhKSnB2LUhkQjNURkhEc1Nfb0drTHZKS2ZsM1NCVFZsaDFYMFBEa3JWYktQTmlpWERvdmh0OG1kLWhFNWlpOHUzX3N2OWhiZG9kSjZhVUJuTzZsRlFrUmF1WERGekp3bUJTWlVNMXpLZTI5VWt2VGJsNTdv0gGUAkFVX3lxTE1WQm9iYlhHbjNaanZFVFQ1YW9XUTJkRk5xV3duRDQxOUFvUjdianF2WE5pY195alhTYmRicHUzS3Q4c0xteVo5NzlPTUgybnU0dWFTay1PUmUyR1Y5YTZlVEl4NG5iYl8yelN3bUNlUGxvcG9RSEpSd2pqUUhiWWV5ZWVEeDd4WW9kU21NRXg2ZDc0Qml5Tlh1YnprT3dmZEpMQnhPbXBscEM1WG9uR0xSV0lQZGI2bzFxVTg3T1o3ZmJXNDhCQ3pVSGhNQ2pRV3lhMVQ0aDlDMWpmcTlDaVp0bXdrYWotY01VOG5BU3JFeFY4TFQtby1FRGxmUjV2Uk1IRkhsU3JfdVV3aENodWZJMTNLQQ?oc=5",
+      "headline": "UBS Overweight On Indian Banks; HDFC Bank, ICICI Bank, Axis Bank Remain Top Picks - NDTV Profit",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2J6SkgtanlsR2d1V2lENXloUGoxNjZ3NGNpMktOS240Q3Q5RWd6NF9faDNLWmszbHNqaWpYVjdEdWs2Vkxpa1IzRXE3WHcyU3dmQXk2SU9oQjBheFZqMFFxX214bE1Yb2UtcVM3czdHQ2E1TlRPWDRfR3EtTmk4bV9ESUpYanNxQkFMZ2QxYnc3QVUzWERGLUx1Skg2TDdBMHExZkx6MldLQVZQTlFucG9jZVBGN1ZRYzc0bS1ERdIBxwFBVV95cUxOckJKcTdUQU9ZdkxHRlBOTC01S0xLVW91cVZ1Z3pPVEpSYmNCdUIyaU41RW5VbVJPYmY4QkxGTWVyQWpFNjNJaUIzZDlRVEo2Zm9hblRaVjcxT2gxemZycFE1Vk05NTNiMHRBcjJoSm5fZ1E3V3lka3lXUF8tdE1sMWhFQ3RycHBTOFd2Wm4zZl95bzhYbVBzS1BSSVNoVEduRE1aT2lhNmRjU0M5U19VeW51Uk9BTWlDbTVhNUxaa2F4SlpuWDlR?oc=5",
       "affected_assets": [
         "HDFC Bank",
-        "State Bank of India",
-        "Nifty Bank"
+        "ICICI Bank",
+        "Axis Bank"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Broad-based participation from both state-owned and private lenders is driving the Nifty Bank index to record highs. Stable credit growth and resilient balance sheets support upgraded target prices for top sector heavyweights.",
+      "reasoning": "Institutional backing from UBS underscores robust balance sheet strength and resilient credit growth across top Indian private lenders. This endorsement is likely to drive renewed institutional buying and support banking index valuations.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "What is future of gold rates? Price crash continues as AI selloff, Fed rate-hike concerns weigh on investors' sentiment",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/market/commodities/what-is-future-of-gold-rates-price-crash-continues-as-ai-selloff-fed-rate-hike-concerns-weigh-on-investors-sentiment-11795325490076.html",
+      "headline": "Indian IT’s growth revival remains elusive despite better Q2",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/mark-to-market/indian-it-sector-growth-outlook-ai-revenue-infosys-tcs-wipro-11795328533948.html",
       "affected_assets": [
-        "Gold",
-        "Silver"
+        "TCS",
+        "Infosys",
+        "Wipro"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Weak deal bookings and sluggish revenue conversion signal prolonged headwind pressure for tier-1 Indian IT exporters despite steady Q2 performance. Sluggish enterprise technology spending in western markets poses risks to revenue guidance.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold recovers from 14-month low; focus turns to US inflation data",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-recovers-from-14-month-low-focus-turns-to-us-inflation-data/articleshow/136086840.cms",
+      "affected_assets": [
+        "Gold"
       ],
       "asset_type": "commodity",
-      "sentiment": "bearish",
-      "confidence": 0.82,
-      "reasoning": "Bullion prices are extending losses due to firming US rate hike expectations and a stronger US Dollar index. High real yields diminish the holding appeal of non-interest-bearing precious metals.",
-      "action": "risk_alert",
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "reasoning": "Gold prices have rebounded slightly after plumbing 14-month lows as investors reposition ahead of upcoming US inflation data. Macro sentiment remains cautious with interest rate expectations continuing to dictate near-term precious metals trajectory.",
+      "action": "watch",
       "category": "commodity"
     },
     {
-      "headline": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
+      "headline": "India bonds give up marginal opening gains as profit booking takes over",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-marginal-opening-gains-as-profit-booking-takes-over/articleshow/136093136.cms",
       "affected_assets": [
-        "Reliance Industries"
+        "Indian Sovereign Bonds",
+        "INR"
       ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.75,
-      "reasoning": "Reliance Brands showing revenue expansion alongside narrowing net losses highlights ongoing operational turnarounds across its retail segment. Continued efficiency gains strengthen long-term profit outlook for parent company Reliance Industries.",
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.78,
+      "reasoning": "Benchmark bond yields spiked as profit taking coincided with downside pressure on the Indian rupee. Elevated yields could marginally raise borrowing costs for corporates and tighten domestic liquidity conditions.",
       "action": "watch",
-      "category": "stock_specific"
+      "category": "macro"
+    },
+    {
+      "headline": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3pBMG1XeGk3X0tmdVlkOWFnRlhTS3h3a1VyZkFhbElMZ2NXa3hPdjVEdkxUYWlxWTZZbmxLV1RSZlV6NDNSQmVXUUVkaV9RSzRodXB1TWw0bkw3Sm02OXVSNGNxS3VHWk95WTN1c1_Pa0pEWVlGYmVrSnFnRVNqVzNXbDRiOWx4clplN0d4T2kxUDBxQmNrR2MtNk81T0RWbTBYNml3Q1RnMk45MDN6NGpoeTVJblA3c3BORnhR?oc=5",
+      "affected_assets": [
+        "INR",
+        "USD/INR"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "reasoning": "Projections of foreign equity inflows supporting currency strength reflect improving international investor appetite for Indian assets. A strengthening currency could reduce import costs and cushion macro stability.",
+      "action": "buy_opportunity",
+      "category": "macro"
     }
   ],
   "tweets": [],
