@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T16:18:13+05:30",
+  "market_pulse": {
+    "bullish": 3,
+    "bearish": 2,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "South Korea's Kospi rockets 8% as AI-linked stocks get breather after Jensen Huang's return as Nvidia CEO. Worst over?",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-rebound-as-huangs-nvidia-return-lifts-ai-stocks/articleshow/136118071.cms",
+      "affected_assets": [
+        "Nvidia",
+        "KOSPI",
+        "TSMC",
+        "Global Tech Stocks"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "Reassurance surrounding Nvidia leadership and the massive rebound in Asian semiconductor equities signals renewed confidence in the broader AI supply chain. This broad relief rally lowers risk premiums across global tech markets.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Big 5! ICICI Bank, HDFC Bank, RIL, Airtel, SBI drive 45% of Nifty rally",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0ttelBTVEZleVdrYmNYaUVJc0dERDBlNlI4UUZHekNjMkRnVU1KWEdmcFFDdDRrckpIV1pFTXVPWGVCLXozb0h6NTdrbUpGQ0g1TFN2YzJ2cUhicWpTLS1lR0tTSGloMDlBWDRqdHZPMUNTbDR5dE1uQWwtY0xhSmszRWZEZkRhZnNOYy13QWMwZUpPLVJGNGhyTlhVS3djbEpQM0JORENyU3dtY0tsSk5aNDNVeHBvaXVjNXpiY2Y1UVJOZjNEXzNGYTVFaVY0bVJoX09memgtRzFBUkRfM2h30gHbAUFVX3lxTE55QUR6YUNXaDREc1ptZDA2YXp3d0NwLXJ5aE9sVHRNSFZpdkE4TU9sMU9PSUV0YkhaMnZzMHo4aXlVVDFFcm5KUjRuSXFZUWh4Q3NQTVpVbno0MUVZR1MySlZlcWxVZ0RDMWNhUUxlSzVpaGw3R1o2OFlicHJ0QmdJbFYxU2NqXzhERENtLUpPTHVvNEpDdUk5SUZic1dnM2ZuXzAtM1VZQ29IbkZTZTM0TEhtenB0d1hvLXp4WGJzLTZvU1VqTWYzTWdQYW1XbzRoMkpkS2t6dU5GZw?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "ICICI Bank",
+        "Reliance Industries",
+        "Bharti Airtel",
+        "State Bank of India",
+        "Nifty 50"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Heavyweight concentration driving nearly half of the index gains underlines solid institutional buying in core fundamentals. High market capitalisation stocks continue to anchor Indian equity market stability and upward sentiment.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Natural gas plunges below $3.20 as weather uncertainty puts bulls under pressure",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFpoaDFwTW1uejg1dGNyMDk0OUcwQVV4WUlXTnhBWmo3blhWdFNCVHQwamo2S0VERG5KVWJjYzNsRHJuV2YxbmFkd2ZnOXBEZ2FyMFRTWUJRbTBqbXlSR2Vrc3JabGs4eHBkY0pJVGlxckZfeHJQSHFVR3pIRnJ3b285NzBQa3o2cmJrY2MxNA?oc=5",
+      "affected_assets": [
+        "Natural Gas",
+        "GAIL",
+        "IGL",
+        "MGL"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "A breakdown below key support levels reflects weakening short-term heating demand due to unpredictable weather patterns. Lower gas prices pressure exploration margins while benefiting city gas distribution companies through cheaper input costs.",
+      "action": "risk_alert",
+      "category": "commodity"
+    },
+    {
+      "headline": "India's rupee has become an accidental carry star",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-rupee-has-become-an-accidental-carry-star/articleshow/136117132.cms",
+      "affected_assets": [
+        "USD/INR",
+        "Indian Sovereign Bonds",
+        "Banking Stocks"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Proactive Reserve Bank of India actions combined with declining global crude prices have made the Rupee an attractive currency for carry trades. Foreign capital inflows seeking yield stability provide systemic liquidity to Indian debt and capital markets.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "Gold slips with spotlight on US inflation data",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver",
+        "MCX Gold"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "reasoning": "Precious metals face selling pressure as traders trim exposure ahead of US inflation prints, which will dictate Federal Reserve interest rate policy. High interest rate expectations raise the opportunity cost of holding non-yielding assets like bullion.",
+      "action": "watch",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
