@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T15:11:39+05:30",
+  "market_pulse": {
+    "bullish": 4,
+    "bearish": 1,
+    "neutral": 0
+  },
+  "insights": [
+    {
+      "headline": "FIIs back with a bang! Inflows return to Indian stocks after 2-month sell-off; 14 sectors attracted foreign money | List",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/fiis-back-with-a-bang-inflows-return-to-indian-stocks-after-2-month-sell-off-14-sectors-attracted-foreign-money-list-11795589040172.html",
+      "affected_assets": [
+        "NIFTY 50",
+        "SENSEX",
+        "Indian Equities"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "The massive reversal of foreign institutional investor flows with $13 billion injected across 14 sectors significantly enhances liquidity across domestic equities. Easing crude oil prices and attractive valuations are driving global funds back into Indian markets after two months of persistent net selling.",
+      "action": "buy_opportunity",
+      "category": "macro"
+    },
+    {
+      "headline": "Infosys, Mphasis, TCS: IT stocks rally over 4% intraday, NIFTY IT gains 2.6%; what’s powering today’s momentum?",
+      "source": "Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPBjNKUTlaSklfczliUlMyVDItRG80bXdDV3ZFMG5BQVpJRDdEUE9MVFppVC1lTEFMU0d6OW50RTBmLUF5WWFBMzRnOHdPcVA0UzJON2RxNlVqZWR5bUlYb1hZQWJZUHoyVlZSNEZwOEZnc3RXZ0trUmxKc2E5TnF3UWo2VmQ2NVpqWEkyLUpXRllOcWNIdjZIdi1acXNMUFJyMVVUQkhHWjF4dGU1U0phRE5HNE1jbFUtSHNMaUdPZUR4TEtQYXBWeXhMbGNfQW1Cd0J2VDl5NDRIWTJCWU1CeXNVOFZDZ2FkSzFyc0FsNkZnTk11?oc=5",
+      "affected_assets": [
+        "TCS",
+        "Infosys",
+        "Mphasis",
+        "NIFTY IT"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Strong momentum in large-cap Indian IT stocks is fueled by growing traction in AI-led enterprise deals and improving tech spending visibility in North America. Short covering alongside fresh accumulation has propelled the Nifty IT index upwards.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "HDFC Bank shares surge 4% as banking stocks stage sharp recovery",
+      "source": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXctekZ3eXFfTW16UEJrb1NqaGhpaU92eXBFckZmckVSWmRnX3VtcHVsMHUzczQxYlZSQ0ZLTlF0VS1iUThyNUZ6Q25fTzEtQnRtQ2dYN1RFUE1LVGxkeEVUeGdxUENEVFk4dTZ3NWptYTFHWFRpUEZsaWdPR2J2MTV0ZkNMaEVvbVJWa0FzVEo5N2JuVm9ISmo4X3JycFZKSUQ5eHR6Q2psUG9HbXRFTHJhQ2RJNzZVV3B2dTU4QkVvVzNiTzNDemJMQmk3LWx0UVdKMW5SZXE3QdIB4AFBVV95cUxPRGlKcmJrR2FxeDl2R1J2SE9TNk9sVlFKelVQSnNYMy1VRHo3bGczSHJTdXQtSnlKSUxsZnl5SzRSbHFEdkpINnM5b05pV1MxWWlWc01VQ2czcW91LWdWRHdGUC1tVjNXMXdzUmRVcEd0d0kyc0JmaHlqSV9YQkpuZ183TkFBQXBNLUdfRVVHb3Q2QVJNTjBEMm5vTU94SzlIZFBXSVFoNnlmLXhwanF3ZHFHSHM0M3JHQlZnZW1nRHhwWkVpSFVKNXdqa0RlME1aUW5zTTgzM2hzOVhkZFlhMQ?oc=5",
+      "affected_assets": [
+        "HDFC Bank",
+        "NIFTY Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "A sharp 4% rebound in HDFC Bank provides critical index support to benchmark indices following extended weakness. Institutional buying interest reflects easing concerns over margin pressures and stable credit growth metrics.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Silver Falls 5% Below $41, Gold Drops 2% Ahead Of US Inflation Report",
+      "source": "Forbes Middle East",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWh3bzRZOVNGVlZaWTNwVWFKQk5YQW5uNnRkQXczYWppelV1N1BGa2R6M2ZJU2ZGNC1EVE1LVk1iWXg0OUUwMkdEaE9RWmtyY05tTzdiOExGQkZ4WklvUlNTLUpwd3pZZUJTWjRSRHYtUnE4NmYzOGQ5NFFLbGwxWDROaEhGOXFvWHN6ZXZWTTlQNEM3STZKUFREdl9PdUpCRTIwRGxCZnFNenBr?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "reasoning": "Precious metals are experiencing heavy liquidation as market participants hedge against potentially sticky US inflation figures. Expectations of persistent high interest rates by the Fed increase real yields, diminishing short-term demand for non-yielding assets.",
+      "action": "risk_alert",
+      "category": "commodity"
+    },
+    {
+      "headline": "Rupee pares FY27 losses, climbs 56 paise to 92.29/USD",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-23-paise-to-92-62-against-us-dollar-in-early-trade/articleshow/136147947.cms",
+      "affected_assets": [
+        "INR/USD",
+        "Brent Crude Oil"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "reasoning": "The Indian Rupee staged a solid recovery backed by Brent crude slipping below $90/bbl and renewed equity portfolio inflows. Lower crude import costs help alleviate inflation pressures and improve macroeconomic fundamentals.",
+      "action": "watch",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

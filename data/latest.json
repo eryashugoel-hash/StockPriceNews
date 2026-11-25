@@ -1,94 +1,87 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T16:18:13+05:30",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T15:11:39+05:30",
   "market_pulse": {
-    "bullish": 3,
-    "bearish": 2,
+    "bullish": 4,
+    "bearish": 1,
     "neutral": 0
   },
   "insights": [
     {
-      "headline": "South Korea's Kospi rockets 8% as AI-linked stocks get breather after Jensen Huang's return as Nvidia CEO. Worst over?",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-rebound-as-huangs-nvidia-return-lifts-ai-stocks/articleshow/136118071.cms",
+      "headline": "FIIs back with a bang! Inflows return to Indian stocks after 2-month sell-off; 14 sectors attracted foreign money | List",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/fiis-back-with-a-bang-inflows-return-to-indian-stocks-after-2-month-sell-off-14-sectors-attracted-foreign-money-list-11795589040172.html",
       "affected_assets": [
-        "Nvidia",
-        "KOSPI",
-        "TSMC",
-        "Global Tech Stocks"
+        "NIFTY 50",
+        "SENSEX",
+        "Indian Equities"
       ],
-      "asset_type": "stock",
+      "asset_type": "macro",
       "sentiment": "bullish",
       "confidence": 0.9,
-      "reasoning": "Reassurance surrounding Nvidia leadership and the massive rebound in Asian semiconductor equities signals renewed confidence in the broader AI supply chain. This broad relief rally lowers risk premiums across global tech markets.",
+      "reasoning": "The massive reversal of foreign institutional investor flows with $13 billion injected across 14 sectors significantly enhances liquidity across domestic equities. Easing crude oil prices and attractive valuations are driving global funds back into Indian markets after two months of persistent net selling.",
       "action": "buy_opportunity",
-      "category": "stock_specific"
+      "category": "macro"
     },
     {
-      "headline": "Big 5! ICICI Bank, HDFC Bank, RIL, Airtel, SBI drive 45% of Nifty rally",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0ttelBTVEZleVdrYmNYaUVJc0dERDBlNlI4UUZHekNjMkRnVU1KWEdmcFFDdDRrckpIV1pFTXVPWGVCLXozb0h6NTdrbUpGQ0g1TFN2YzJ2cUhicWpTLS1lR0tTSGloMDlBWDRqdHZPMUNTbDR5dE1uQWwtY0xhSmszRWZEZkRhZnNOYy13QWMwZUpPLVJGNGhyTlhVS3djbEpQM0JORENyU3dtY0tsSk5aNDNVeHBvaXVjNXpiY2Y1UVJOZjNEXzNGYTVFaVY0bVJoX09memgtRzFBUkRfM2h30gHbAUFVX3lxTE55QUR6YUNXaDREc1ptZDA2YXp3d0NwLXJ5aE9sVHRNSFZpdkE4TU9sMU9PSUV0YkhaMnZzMHo4aXlVVDFFcm5KUjRuSXFZUWh4Q3NQTVpVbno0MUVZR1MySlZlcWxVZ0RDMWNhUUxlSzVpaGw3R1o2OFlicHJ0QmdJbFYxU2NqXzhERENtLUpPTHVvNEpDdUk5SUZic1dnM2ZuXzAtM1VZQ29IbkZTZTM0TEhtenB0d1hvLXp4WGJzLTZvU1VqTWYzTWdQYW1XbzRoMkpkS2t6dU5GZw?oc=5",
+      "headline": "Infosys, Mphasis, TCS: IT stocks rally over 4% intraday, NIFTY IT gains 2.6%; what’s powering today’s momentum?",
+      "source": "Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPBjNKUTlaSklfczliUlMyVDItRG80bXdDV3ZFMG5BQVpJRDdEUE9MVFppVC1lTEFMU0d6OW50RTBmLUF5WWFBMzRnOHdPcVA0UzJON2RxNlVqZWR5bUlYb1hZQWJZUHoyVlZSNEZwOEZnc3RXZ0trUmxKc2E5TnF3UWo2VmQ2NVpqWEkyLUpXRllOcWNIdjZIdi1acXNMUFJyMVVUQkhHWjF4dGU1U0phRE5HNE1jbFUtSHNMaUdPZUR4TEtQYXBWeXhMbGNfQW1Cd0J2VDl5NDRIWTJCWU1CeXNVOFZDZ2FkSzFyc0FsNkZnTk11?oc=5",
       "affected_assets": [
-        "HDFC Bank",
-        "ICICI Bank",
-        "Reliance Industries",
-        "Bharti Airtel",
-        "State Bank of India",
-        "Nifty 50"
+        "TCS",
+        "Infosys",
+        "Mphasis",
+        "NIFTY IT"
       ],
       "asset_type": "stock",
       "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Heavyweight concentration driving nearly half of the index gains underlines solid institutional buying in core fundamentals. High market capitalisation stocks continue to anchor Indian equity market stability and upward sentiment.",
+      "reasoning": "Strong momentum in large-cap Indian IT stocks is fueled by growing traction in AI-led enterprise deals and improving tech spending visibility in North America. Short covering alongside fresh accumulation has propelled the Nifty IT index upwards.",
       "action": "buy_opportunity",
       "category": "stock_specific"
     },
     {
-      "headline": "Natural gas plunges below $3.20 as weather uncertainty puts bulls under pressure",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFpoaDFwTW1uejg1dGNyMDk0OUcwQVV4WUlXTnhBWmo3blhWdFNCVHQwamo2S0VERG5KVWJjYzNsRHJuV2YxbmFkd2ZnOXBEZ2FyMFRTWUJRbTBqbXlSR2Vrc3JabGs4eHBkY0pJVGlxckZfeHJQSHFVR3pIRnJ3b285NzBQa3o2cmJrY2MxNA?oc=5",
+      "headline": "HDFC Bank shares surge 4% as banking stocks stage sharp recovery",
+      "source": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXctekZ3eXFfTW16UEJrb1NqaGhpaU92eXBFckZmckVSWmRnX3VtcHVsMHUzczQxYlZSQ0ZLTlF0VS1iUThyNUZ6Q25fTzEtQnRtQ2dYN1RFUE1LVGxkeEVUeGdxUENEVFk4dTZ3NWptYTFHWFRpUEZsaWdPR2J2MTV0ZkNMaEVvbVJWa0FzVEo5N2JuVm9ISmo4X3JycFZKSUQ5eHR6Q2psUG9HbXRFTHJhQ2RJNzZVV3B2dTU4QkVvVzNiTzNDemJMQmk3LWx0UVdKMW5SZXE3QdIB4AFBVV95cUxPRGlKcmJrR2FxeDl2R1J2SE9TNk9sVlFKelVQSnNYMy1VRHo3bGczSHJTdXQtSnlKSUxsZnl5SzRSbHFEdkpINnM5b05pV1MxWWlWc01VQ2czcW91LWdWRHdGUC1tVjNXMXdzUmRVcEd0d0kyc0JmaHlqSV9YQkpuZ183TkFBQXBNLUdfRVVHb3Q2QVJNTjBEMm5vTU94SzlIZFBXSVFoNnlmLXhwanF3ZHFHSHM0M3JHQlZnZW1nRHhwWkVpSFVKNXdqa0RlME1aUW5zTTgzM2hzOVhkZFlhMQ?oc=5",
       "affected_assets": [
-        "Natural Gas",
-        "GAIL",
-        "IGL",
-        "MGL"
+        "HDFC Bank",
+        "NIFTY Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "A sharp 4% rebound in HDFC Bank provides critical index support to benchmark indices following extended weakness. Institutional buying interest reflects easing concerns over margin pressures and stable credit growth metrics.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Silver Falls 5% Below $41, Gold Drops 2% Ahead Of US Inflation Report",
+      "source": "Forbes Middle East",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWh3bzRZOVNGVlZaWTNwVWFKQk5YQW5uNnRkQXczYWppelV1N1BGa2R6M2ZJU2ZGNC1EVE1LVk1iWXg0OUUwMkdEaE9RWmtyY05tTzdiOExGQkZ4WklvUlNTLUpwd3pZZUJTWjRSRHYtUnE4NmYzOGQ5NFFLbGwxWDROaEhGOXFvWHN6ZXZWTTlQNEM3STZKUFREdl9PdUpCRTIwRGxCZnFNenBr?oc=5",
+      "affected_assets": [
+        "Gold",
+        "Silver"
       ],
       "asset_type": "commodity",
       "sentiment": "bearish",
       "confidence": 0.8,
-      "reasoning": "A breakdown below key support levels reflects weakening short-term heating demand due to unpredictable weather patterns. Lower gas prices pressure exploration margins while benefiting city gas distribution companies through cheaper input costs.",
+      "reasoning": "Precious metals are experiencing heavy liquidation as market participants hedge against potentially sticky US inflation figures. Expectations of persistent high interest rates by the Fed increase real yields, diminishing short-term demand for non-yielding assets.",
       "action": "risk_alert",
       "category": "commodity"
     },
     {
-      "headline": "India's rupee has become an accidental carry star",
+      "headline": "Rupee pares FY27 losses, climbs 56 paise to 92.29/USD",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-rupee-has-become-an-accidental-carry-star/articleshow/136117132.cms",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-23-paise-to-92-62-against-us-dollar-in-early-trade/articleshow/136147947.cms",
       "affected_assets": [
-        "USD/INR",
-        "Indian Sovereign Bonds",
-        "Banking Stocks"
+        "INR/USD",
+        "Brent Crude Oil"
       ],
       "asset_type": "macro",
       "sentiment": "bullish",
-      "confidence": 0.85,
-      "reasoning": "Proactive Reserve Bank of India actions combined with declining global crude prices have made the Rupee an attractive currency for carry trades. Foreign capital inflows seeking yield stability provide systemic liquidity to Indian debt and capital markets.",
-      "action": "watch",
-      "category": "macro"
-    },
-    {
-      "headline": "Gold slips with spotlight on US inflation data",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
-      "affected_assets": [
-        "Gold",
-        "Silver",
-        "MCX Gold"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bearish",
       "confidence": 0.75,
-      "reasoning": "Precious metals face selling pressure as traders trim exposure ahead of US inflation prints, which will dictate Federal Reserve interest rate policy. High interest rate expectations raise the opportunity cost of holding non-yielding assets like bullion.",
+      "reasoning": "The Indian Rupee staged a solid recovery backed by Brent crude slipping below $90/bbl and renewed equity portfolio inflows. Lower crude import costs help alleviate inflation pressures and improve macroeconomic fundamentals.",
       "action": "watch",
       "category": "macro"
     }
