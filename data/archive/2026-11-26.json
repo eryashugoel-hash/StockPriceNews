@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T14:47:25+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 2,
+    "neutral": 1
+  },
+  "insights": [
+    {
+      "headline": "Sensex Jumps 1,502 Points; Nifty Surges 470 on FII Buying",
+      "source": "HDFC Sky",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGNub2VpcEgtMG91a3JaY0piUjlvaHRjSl9OSldYdFEtSG80UjQ5dERtWDE0Q0FwbU12WXFwai00WW5kZUZrVXlGQWhQZldxR3VMTnNTOW1pQVYyaXNVY3lEcGRkM0VJNjEyM3pxTlJSclhrd3lHOE1CaFh1RVpidGdlM0tncUxDd3hubVBfU2NmVjhLVFltX0hkYWNDenh5RE5TSlRJSG10c0tuQlVmV19uNnRtemY3MGlfZ3NLZUxPSGZkWC1CZnhlRGUxVHc?oc=5",
+      "affected_assets": [
+        "Sensex",
+        "Nifty 50"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "A massive surge driven by Foreign Institutional Investor (FII) buying indicates renewed aggressive capital allocation into Indian equities. This broad-based rally creates positive momentum across large-cap and index-heavy stocks, signalling strong institutional confidence.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "US announces new tariffs on host of countries including China",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+      "affected_assets": [
+        "Global Equities",
+        "China Exports",
+        "Crude Oil"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "New US tariffs escalate trade tensions, which typically dampen global economic growth and weigh heavily on trade-exposed sectors and commodities. The secondary effect could suppress demand for industrial commodities like crude oil and metals.",
+      "action": "risk_alert",
+      "category": "geopolitical"
+    },
+    {
+      "headline": "Gold gains 1%, silver rallies 3% on MCX; ETFs surge up to 6%: Gold Silver Rates Live Updates",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/url-live-updates-gold-rate-today-26th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136176736.cms",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "Strong domestic buying and safe-haven demand pushed gold and silver higher on the Multi Commodity Exchange (MCX). This reflects ongoing investor hedging against currency fluctuations and global macroeconomic uncertainties.",
+      "action": "buy_opportunity",
+      "category": "commodity"
+    },
+    {
+      "headline": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
+      "affected_assets": [
+        "USD/INR",
+        "Indian Rupee"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Higher crude oil prices and increased dollar demand driven by proposed US tariffs have pressured the Indian rupee downward. A weakening rupee increases import bills, raising macroeconomic concerns about imported inflation.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "India’s Q2 GDP growth to slow marginally to 7.6%, shows Mint poll",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWFiN0piNm94UnVUSE9ZYXBaeXVzd0tMb3ZUR1ZCQ242al9OcVM0YmJjdUR4N0tadWVxWGdRQmtlSzZnbG82N1ZyaXZOekNiWXNmZTNrY0dqMTRaTzQ1eHNUWDJfaWhCWTYySG5HTVgyN21qeWs2aXN6WkdrY3BhbmM3cWI2cmlqYkZNaFhBZEYzV1A2Tk9XQUpUZGZNeHZrcHhFNkp4SmtEcXVyUGNXSlZkcmd6UdIBuwFBVV95cUxQU2VYZEhlSjhJRXZQckZHMHNsemNWLU9Dc2J1SnNmc1ZsdFRlQy1DVkJRQ0M4VFhJOFpZcVp2ZFhXQ056bnJrYTBrLXd0azZtaW5oSE5lMFl4WHgyUEtkSUd2QXI5NVBva05nRkFVQWVlLWVsWFF2U1VwT1NpTEN6VkJHaDVNRnlDckdKeHcwYWpJRzhHaHB2Uk9Jd2xwazBYSTY1dTM1SGFNY2xoWURBS1dvTjF1QloxMXVB?oc=5",
+      "affected_assets": [
+        "Indian Economy",
+        "Nifty 50"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "reasoning": "A slight moderation in India's Q2 GDP growth to 7.6% indicates ongoing economic resilience despite global headwinds. While growth remains robust compared to global peers, the marginal slowdown is largely priced into domestic markets.",
+      "action": "watch",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}
