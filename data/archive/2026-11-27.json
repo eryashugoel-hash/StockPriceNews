@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T15:00:10+05:30",
+  "market_pulse": {
+    "bullish": 2,
+    "bearish": 2,
+    "neutral": 1
+  },
+  "insights": [
+    {
+      "headline": "Tata Power, Tata Steel, Tata Motors, Tata Chemicals: Tata stocks in focus as Tata Trusts sues Tata Sons",
+      "source": "Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN29fdjN4RUMwaW9GdUE1VFdlNVZGbWhRd0hiM2NrN1h3S21EXzNodVpYNjdUN3lwb29QdUluSXpGLURKMmU0NDlkR21pSGlfTkI3WFQ2SGZKbU8yWEhybXhEaDFSOFV6NDFJLXJtTmY4TTJROUtCQmk4NEZzY2k3ek5TMXJHdktqZWsyZl83VmJKOVRnNnZiTWNwVnV6RGlIb3NBWWhxNndkVDd1ZGEzU0Z6cmRSRnVCdWJTd1FyUXVJRE1FU1dLanRRTkxXOWZ2ZHFjOGQ0NE5IQXdLODlnblZhVWcyOVdZeUxGVUc2OTh4Y0VDMWJEMnRn0gH_AUFVX3lxTFBHWEh1ay1KLWdkY3hzUXI1NkNWNGg1ODZWVUVxZlJTSnhLVVJuSnVSMFpZZ0JyMzN1dl9kZHRaYjNDT01PU1NIUDFRckZYTE1sRFF5QXJmQkRXZkZYNzlMNkF4clUzRUZlbXQzMlU5U3FaTmVqZmo0cm90cUU2T0NPV2NxdE9ST0VBb3RtTFVFYmEzNnUwRHZ2cGxLRTJFR0hOejRIdEdIbWI2Q2t4T1BvZW9IM19PY05pZWlZYVR4Wl93RHBOVTJNWEFUaFhBU1dUZGt4Y3ZuNjduSWM0dC1uRjg3bWpMbEFweU1GdzFnbnNlQlFmaXNMMUt2WFVobw?oc=5",
+      "affected_assets": [
+        "Tata Motors",
+        "Tata Power",
+        "Tata Steel",
+        "Tata Chemicals"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Legal friction between Tata Trusts and Tata Sons creates corporate governance uncertainty across key conglomerate holdings. Potential litigation overhang could trigger short-term profit booking and volatility in Tata group shares.",
+      "action": "risk_alert",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Gold Silver Rate Today Live: Gold jumps 2%, silver surges 5% as bullion rebounds from multi-month lows: Gold Silver Rates Live Updates",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-27th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136208041.cms",
+      "affected_assets": [
+        "Gold",
+        "Silver"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.9,
+      "reasoning": "Precious metals experienced a sharp technical bounce with silver surging 5% and gold gaining 2% off multi-month oversold technical levels. Strong physical demand and safe-haven accumulation continue to bolster the fundamental backdrop for precious metals.",
+      "action": "buy_opportunity",
+      "category": "commodity"
+    },
+    {
+      "headline": "Banking stocks hit the accelerator! Nifty Bank index up 18% in 1 month; HDFC Bank, SBI, ICICI Bank- 9 best stocks to buy",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/banking-stocks-hit-the-accelerator-nifty-bank-index-up-18-in-1-month-hdfc-bank-sbi-icici-bank-9-best-stocks-to-buy-11795758901361.html",
+      "affected_assets": [
+        "HDFC Bank",
+        "ICICI Bank",
+        "State Bank of India",
+        "Nifty Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.88,
+      "reasoning": "Strong credit expansion and improving net interest margins drive an 18% monthly rally in the Nifty Bank index. Institutional buying in key private and public sector lenders underlines robust financial sector leadership.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "GDP growth likely to ease to 7.6% in Q2; most economists expect policy rate at 6% by March 2027",
+      "source": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTGFsX1AtdzVlMHZiUjQ0aXZ5UTBSa0dlY1RxSlhlUXBYT2hvX0NCZXROeFhLbWRhNUpoWnBIWkhTZDVTLUk3Nk03ekR4WVBfOWxUbl9iQXhMR21WRlF6RFAyZ0hnTWdPVzdDUlM3cFZOUXNNWl9fRnk5Q2hfbnYtT3B4TXpzeFV6VklFMmNKVzFzWXR0TTRCWTEzb0FPYlZCbXo0Zzc1eFhUdmlSdVdLcC1VaWliS0pjTk5Tc1UzZGl0R1JrOXdEVWg1WktGdC05QVphNTNzb0Q2cXJvNGdzTk5mdlhxV0pzc3VYVUtZV0x0NU5LcEdzSDRyZ2V6cGtsQzN1LU1R?oc=5",
+      "affected_assets": [
+        "Nifty 50",
+        "Indian Sovereign Bonds"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.82,
+      "reasoning": "A slight moderation in quarterly GDP growth brings rate-cut expectations back into focus for the RBI. The anticipated monetary easing path provides medium-term valuation support despite near-term growth cooling.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
+      "affected_assets": [
+        "Indian Sovereign Bonds",
+        "Crude Oil"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Rising crude oil prices re-ignite import inflation fears and push up government bond yields ahead of new supply auctions. Tightening liquidity conditions could dampen systemic equity market valuations in the near term.",
+      "action": "risk_alert",
+      "category": "policy"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

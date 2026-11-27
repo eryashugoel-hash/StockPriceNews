@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T14:47:25+05:30",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T15:00:10+05:30",
   "market_pulse": {
     "bullish": 2,
     "bearish": 2,
@@ -8,80 +8,83 @@
   },
   "insights": [
     {
-      "headline": "Sensex Jumps 1,502 Points; Nifty Surges 470 on FII Buying",
-      "source": "HDFC Sky",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGNub2VpcEgtMG91a3JaY0piUjlvaHRjSl9OSldYdFEtSG80UjQ5dERtWDE0Q0FwbU12WXFwai00WW5kZUZrVXlGQWhQZldxR3VMTnNTOW1pQVYyaXNVY3lEcGRkM0VJNjEyM3pxTlJSclhrd3lHOE1CaFh1RVpidGdlM0tncUxDd3hubVBfU2NmVjhLVFltX0hkYWNDenh5RE5TSlRJSG10c0tuQlVmV19uNnRtemY3MGlfZ3NLZUxPSGZkWC1CZnhlRGUxVHc?oc=5",
+      "headline": "Tata Power, Tata Steel, Tata Motors, Tata Chemicals: Tata stocks in focus as Tata Trusts sues Tata Sons",
+      "source": "Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN29fdjN4RUMwaW9GdUE1VFdlNVZGbWhRd0hiM2NrN1h3S21EXzNodVpYNjdUN3lwb29QdUluSXpGLURKMmU0NDlkR21pSGlfTkI3WFQ2SGZKbU8yWEhybXhEaDFSOFV6NDFJLXJtTmY4TTJROUtCQmk4NEZzY2k3ek5TMXJHdktqZWsyZl83VmJKOVRnNnZiTWNwVnV6RGlIb3NBWWhxNndkVDd1ZGEzU0Z6cmRSRnVCdWJTd1FyUXVJRE1FU1dLanRRTkxXOWZ2ZHFjOGQ0NE5IQXdLODlnblZhVWcyOVdZeUxGVUc2OTh4Y0VDMWJEMnRn0gH_AUFVX3lxTFBHWEh1ay1KLWdkY3hzUXI1NkNWNGg1ODZWVUVxZlJTSnhLVVJuSnVSMFpZZ0JyMzN1dl9kZHRaYjNDT01PU1NIUDFRckZYTE1sRFF5QXJmQkRXZkZYNzlMNkF4clUzRUZlbXQzMlU5U3FaTmVqZmo0cm90cUU2T0NPV2NxdE9ST0VBb3RtTFVFYmEzNnUwRHZ2cGxLRTJFR0hOejRIdEdIbWI2Q2t4T1BvZW9IM19PY05pZWlZYVR4Wl93RHBOVTJNWEFUaFhBU1dUZGt4Y3ZuNjduSWM0dC1uRjg3bWpMbEFweU1GdzFnbnNlQlFmaXNMMUt2WFVobw?oc=5",
       "affected_assets": [
-        "Sensex",
-        "Nifty 50"
+        "Tata Motors",
+        "Tata Power",
+        "Tata Steel",
+        "Tata Chemicals"
       ],
       "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.9,
-      "reasoning": "A massive surge driven by Foreign Institutional Investor (FII) buying indicates renewed aggressive capital allocation into Indian equities. This broad-based rally creates positive momentum across large-cap and index-heavy stocks, signalling strong institutional confidence.",
-      "action": "buy_opportunity",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Legal friction between Tata Trusts and Tata Sons creates corporate governance uncertainty across key conglomerate holdings. Potential litigation overhang could trigger short-term profit booking and volatility in Tata group shares.",
+      "action": "risk_alert",
       "category": "stock_specific"
     },
     {
-      "headline": "US announces new tariffs on host of countries including China",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
-      "affected_assets": [
-        "Global Equities",
-        "China Exports",
-        "Crude Oil"
-      ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "New US tariffs escalate trade tensions, which typically dampen global economic growth and weigh heavily on trade-exposed sectors and commodities. The secondary effect could suppress demand for industrial commodities like crude oil and metals.",
-      "action": "risk_alert",
-      "category": "geopolitical"
-    },
-    {
-      "headline": "Gold gains 1%, silver rallies 3% on MCX; ETFs surge up to 6%: Gold Silver Rates Live Updates",
+      "headline": "Gold Silver Rate Today Live: Gold jumps 2%, silver surges 5% as bullion rebounds from multi-month lows: Gold Silver Rates Live Updates",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/url-live-updates-gold-rate-today-26th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136176736.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-27th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136208041.cms",
       "affected_assets": [
         "Gold",
         "Silver"
       ],
       "asset_type": "commodity",
       "sentiment": "bullish",
-      "confidence": 0.8,
-      "reasoning": "Strong domestic buying and safe-haven demand pushed gold and silver higher on the Multi Commodity Exchange (MCX). This reflects ongoing investor hedging against currency fluctuations and global macroeconomic uncertainties.",
+      "confidence": 0.9,
+      "reasoning": "Precious metals experienced a sharp technical bounce with silver surging 5% and gold gaining 2% off multi-month oversold technical levels. Strong physical demand and safe-haven accumulation continue to bolster the fundamental backdrop for precious metals.",
       "action": "buy_opportunity",
       "category": "commodity"
     },
     {
-      "headline": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
+      "headline": "Banking stocks hit the accelerator! Nifty Bank index up 18% in 1 month; HDFC Bank, SBI, ICICI Bank- 9 best stocks to buy",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/banking-stocks-hit-the-accelerator-nifty-bank-index-up-18-in-1-month-hdfc-bank-sbi-icici-bank-9-best-stocks-to-buy-11795758901361.html",
       "affected_assets": [
-        "USD/INR",
-        "Indian Rupee"
+        "HDFC Bank",
+        "ICICI Bank",
+        "State Bank of India",
+        "Nifty Bank"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.88,
+      "reasoning": "Strong credit expansion and improving net interest margins drive an 18% monthly rally in the Nifty Bank index. Institutional buying in key private and public sector lenders underlines robust financial sector leadership.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "GDP growth likely to ease to 7.6% in Q2; most economists expect policy rate at 6% by March 2027",
+      "source": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTGFsX1AtdzVlMHZiUjQ0aXZ5UTBSa0dlY1RxSlhlUXBYT2hvX0NCZXROeFhLbWRhNUpoWnBIWkhTZDVTLUk3Nk03ekR4WVBfOWxUbl9iQXhMR21WRlF6RFAyZ0hnTWdPVzdDUlM3cFZOUXNNWl9fRnk5Q2hfbnYtT3B4TXpzeFV6VklFMmNKVzFzWXR0TTRCWTEzb0FPYlZCbXo0Zzc1eFhUdmlSdVdLcC1VaWliS0pjTk5Tc1UzZGl0R1JrOXdEVWg1WktGdC05QVphNTNzb0Q2cXJvNGdzTk5mdlhxV0pzc3VYVUtZV0x0NU5LcEdzSDRyZ2V6cGtsQzN1LU1R?oc=5",
+      "affected_assets": [
+        "Nifty 50",
+        "Indian Sovereign Bonds"
+      ],
+      "asset_type": "macro",
+      "sentiment": "neutral",
+      "confidence": 0.82,
+      "reasoning": "A slight moderation in quarterly GDP growth brings rate-cut expectations back into focus for the RBI. The anticipated monetary easing path provides medium-term valuation support despite near-term growth cooling.",
+      "action": "watch",
+      "category": "macro"
+    },
+    {
+      "headline": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
+      "affected_assets": [
+        "Indian Sovereign Bonds",
+        "Crude Oil"
       ],
       "asset_type": "macro",
       "sentiment": "bearish",
       "confidence": 0.85,
-      "reasoning": "Higher crude oil prices and increased dollar demand driven by proposed US tariffs have pressured the Indian rupee downward. A weakening rupee increases import bills, raising macroeconomic concerns about imported inflation.",
+      "reasoning": "Rising crude oil prices re-ignite import inflation fears and push up government bond yields ahead of new supply auctions. Tightening liquidity conditions could dampen systemic equity market valuations in the near term.",
       "action": "risk_alert",
-      "category": "macro"
-    },
-    {
-      "headline": "India’s Q2 GDP growth to slow marginally to 7.6%, shows Mint poll",
-      "source": "Livemint",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWFiN0piNm94UnVUSE9ZYXBaeXVzd0tMb3ZUR1ZCQ242al9OcVM0YmJjdUR4N0tadWVxWGdRQmtlSzZnbG82N1ZyaXZOekNiWXNmZTNrY0dqMTRaTzQ1eHNUWDJfaWhCWTYySG5HTVgyN21qeWs2aXN6WkdrY3BhbmM3cWI2cmlqYkZNaFhBZEYzV1A2Tk9XQUpUZGZNeHZrcHhFNkp4SmtEcXVyUGNXSlZkcmd6UdIBuwFBVV95cUxQU2VYZEhlSjhJRXZQckZHMHNsemNWLU9Dc2J1SnNmc1ZsdFRlQy1DVkJRQ0M4VFhJOFpZcVp2ZFhXQ056bnJrYTBrLXd0azZtaW5oSE5lMFl4WHgyUEtkSUd2QXI5NVBva05nRkFVQWVlLWVsWFF2U1VwT1NpTEN6VkJHaDVNRnlDckdKeHcwYWpJRzhHaHB2Uk9Jd2xwazBYSTY1dTM1SGFNY2xoWURBS1dvTjF1QloxMXVB?oc=5",
-      "affected_assets": [
-        "Indian Economy",
-        "Nifty 50"
-      ],
-      "asset_type": "macro",
-      "sentiment": "neutral",
-      "confidence": 0.75,
-      "reasoning": "A slight moderation in India's Q2 GDP growth to 7.6% indicates ongoing economic resilience despite global headwinds. While growth remains robust compared to global peers, the marginal slowdown is largely priced into domestic markets.",
-      "action": "watch",
-      "category": "macro"
+      "category": "policy"
     }
   ],
   "tweets": [],
