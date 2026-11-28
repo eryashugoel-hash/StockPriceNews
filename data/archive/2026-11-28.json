@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T14:18:55+05:30",
+  "market_pulse": {
+    "bullish": 3,
+    "bearish": 1,
+    "neutral": 1
+  },
+  "insights": [
+    {
+      "headline": "India bonds slump as oil spike adds to RBI hike bets",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/articleshow/136221243.cms",
+      "affected_assets": [
+        "Indian Government Bonds",
+        "Banking Stocks",
+        "Nifty 50"
+      ],
+      "asset_type": "macro",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Surging crude oil prices paired with elevated US Treasury yields are amplifying domestic inflation concerns, pushing Indian 10-year benchmark yields towards 7.265%. This dims the prospect of near-term RBI monetary easing and raises borrowing costs across the economy. Rate-sensitive sectors, especially banks and non-banking financial companies, face near-term valuation and margin pressures.",
+      "action": "risk_alert",
+      "category": "macro"
+    },
+    {
+      "headline": "Defence stocks set for fresh rally? BEL, Solar Industries, HAL - Motilal Oswal names 3 shares to buy as big orders loom",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/defence-stocks-set-for-fresh-rally-bel-solar-industries-hal-motilal-oswal-names-3-shares-to-buy-as-big-orders-loom-11795769903953.html",
+      "affected_assets": [
+        "Bharat Electronics Limited (BEL)",
+        "Solar Industries",
+        "Hindustan Aeronautics Limited (HAL)"
+      ],
+      "asset_type": "stock",
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "reasoning": "Strong budgetary capital outlays and sustained government emphasis on indigenization continue to supply substantial order visibility to major defense PSU manufacturers. Anticipated procurement awards are set to reinforce revenue growth and maintain high operating margins over multi-year horizons. This positive fundamental catalyst cushions these counters from broader equity market volatility.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Silver Prices Jump 3% on MCX to ₹1,48,336 per Kg; Kotak Neo Sees Scope for Further Recovery",
+      "source": "Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oeDNMY2hyLVVvbUp6Ylh1WDBnQmlrZGQ0Qk5RRXNibFBjZXZsU2Q4dnA1UERZaWh4aFJKVW5KWUV0Z0tycEZrZ1RSYjBhODlSVnNXQWlTaWlJVFMyQS1QWXJBdEtqamRGQUE5QzF1cFZUYVI1dDN3Rg?oc=5",
+      "affected_assets": [
+        "MCX Silver",
+        "Hindustan Zinc"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "reasoning": "A sudden 3% spike on MCX signals robust short-covering and sustained physical and industrial demand for white metal assets. Rising industrial usage across photovoltaics and electrification continues to establish a firmer fundamental floor for prices. Momentum suggests continued room for upward price discovery in the near term.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "OPEC+ set to keep oil production targets steady: Report",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/opec-set-to-keep-oil-production-targets-steady-report/articleshow/136232084.cms",
+      "affected_assets": [
+        "Brent Crude",
+        "ONGC",
+        "Oil India"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "The decision by OPEC+ to maintain production targets into Q1 2027 avoids additional supply entering the market while Middle East conflict risks linger. This supply discipline reinforces upward pressure on crude benchmarks, strengthening the fundamental earnings backdrop for upstream exploration companies. Conversely, sustained elevated energy prices represent an ongoing cost headwind for downstream refiners and oil-importing economies.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136237788.cms",
+      "affected_assets": [
+        "Gold",
+        "US Dollar Index"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "reasoning": "Bargain buying after touching multi-month lows has provided support to gold prices, but lingering expectations of prolonged higher interest rates from the Federal Reserve restrain significant momentum. Firm US Treasury yields and dollar strength prevent an unhindered safe-haven rally. Consequently, the metal is likely to remain range-bound pending definitive macroeconomic data shifts.",
+      "action": "watch",
+      "category": "macro"
+    }
+  ],
+  "tweets": [],
+  "disclaimer": "This is AI-generated analysis for informational purposes only. Not financial advice. Do your own research before investing."
+}

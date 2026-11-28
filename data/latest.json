@@ -1,90 +1,89 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T15:00:10+05:30",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T14:18:55+05:30",
   "market_pulse": {
-    "bullish": 2,
-    "bearish": 2,
+    "bullish": 3,
+    "bearish": 1,
     "neutral": 1
   },
   "insights": [
     {
-      "headline": "Tata Power, Tata Steel, Tata Motors, Tata Chemicals: Tata stocks in focus as Tata Trusts sues Tata Sons",
-      "source": "Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN29fdjN4RUMwaW9GdUE1VFdlNVZGbWhRd0hiM2NrN1h3S21EXzNodVpYNjdUN3lwb29QdUluSXpGLURKMmU0NDlkR21pSGlfTkI3WFQ2SGZKbU8yWEhybXhEaDFSOFV6NDFJLXJtTmY4TTJROUtCQmk4NEZzY2k3ek5TMXJHdktqZWsyZl83VmJKOVRnNnZiTWNwVnV6RGlIb3NBWWhxNndkVDd1ZGEzU0Z6cmRSRnVCdWJTd1FyUXVJRE1FU1dLanRRTkxXOWZ2ZHFjOGQ0NE5IQXdLODlnblZhVWcyOVdZeUxGVUc2OTh4Y0VDMWJEMnRn0gH_AUFVX3lxTFBHWEh1ay1KLWdkY3hzUXI1NkNWNGg1ODZWVUVxZlJTSnhLVVJuSnVSMFpZZ0JyMzN1dl9kZHRaYjNDT01PU1NIUDFRckZYTE1sRFF5QXJmQkRXZkZYNzlMNkF4clUzRUZlbXQzMlU5U3FaTmVqZmo0cm90cUU2T0NPV2NxdE9ST0VBb3RtTFVFYmEzNnUwRHZ2cGxLRTJFR0hOejRIdEdIbWI2Q2t4T1BvZW9IM19PY05pZWlZYVR4Wl93RHBOVTJNWEFUaFhBU1dUZGt4Y3ZuNjduSWM0dC1uRjg3bWpMbEFweU1GdzFnbnNlQlFmaXNMMUt2WFVobw?oc=5",
-      "affected_assets": [
-        "Tata Motors",
-        "Tata Power",
-        "Tata Steel",
-        "Tata Chemicals"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "reasoning": "Legal friction between Tata Trusts and Tata Sons creates corporate governance uncertainty across key conglomerate holdings. Potential litigation overhang could trigger short-term profit booking and volatility in Tata group shares.",
-      "action": "risk_alert",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "Gold Silver Rate Today Live: Gold jumps 2%, silver surges 5% as bullion rebounds from multi-month lows: Gold Silver Rates Live Updates",
+      "headline": "India bonds slump as oil spike adds to RBI hike bets",
       "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-27th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136208041.cms",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/articleshow/136221243.cms",
       "affected_assets": [
-        "Gold",
-        "Silver"
-      ],
-      "asset_type": "commodity",
-      "sentiment": "bullish",
-      "confidence": 0.9,
-      "reasoning": "Precious metals experienced a sharp technical bounce with silver surging 5% and gold gaining 2% off multi-month oversold technical levels. Strong physical demand and safe-haven accumulation continue to bolster the fundamental backdrop for precious metals.",
-      "action": "buy_opportunity",
-      "category": "commodity"
-    },
-    {
-      "headline": "Banking stocks hit the accelerator! Nifty Bank index up 18% in 1 month; HDFC Bank, SBI, ICICI Bank- 9 best stocks to buy",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/market/stock-market-news/banking-stocks-hit-the-accelerator-nifty-bank-index-up-18-in-1-month-hdfc-bank-sbi-icici-bank-9-best-stocks-to-buy-11795758901361.html",
-      "affected_assets": [
-        "HDFC Bank",
-        "ICICI Bank",
-        "State Bank of India",
-        "Nifty Bank"
-      ],
-      "asset_type": "stock",
-      "sentiment": "bullish",
-      "confidence": 0.88,
-      "reasoning": "Strong credit expansion and improving net interest margins drive an 18% monthly rally in the Nifty Bank index. Institutional buying in key private and public sector lenders underlines robust financial sector leadership.",
-      "action": "buy_opportunity",
-      "category": "stock_specific"
-    },
-    {
-      "headline": "GDP growth likely to ease to 7.6% in Q2; most economists expect policy rate at 6% by March 2027",
-      "source": "Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTGFsX1AtdzVlMHZiUjQ0aXZ5UTBSa0dlY1RxSlhlUXBYT2hvX0NCZXROeFhLbWRhNUpoWnBIWkhTZDVTLUk3Nk03ekR4WVBfOWxUbl9iQXhMR21WRlF6RFAyZ0hnTWdPVzdDUlM3cFZOUXNNWl9fRnk5Q2hfbnYtT3B4TXpzeFV6VklFMmNKVzFzWXR0TTRCWTEzb0FPYlZCbXo0Zzc1eFhUdmlSdVdLcC1VaWliS0pjTk5Tc1UzZGl0R1JrOXdEVWg1WktGdC05QVphNTNzb0Q2cXJvNGdzTk5mdlhxV0pzc3VYVUtZV0x0NU5LcEdzSDRyZ2V6cGtsQzN1LU1R?oc=5",
-      "affected_assets": [
-        "Nifty 50",
-        "Indian Sovereign Bonds"
+        "Indian Government Bonds",
+        "Banking Stocks",
+        "Nifty 50"
       ],
       "asset_type": "macro",
-      "sentiment": "neutral",
-      "confidence": 0.82,
-      "reasoning": "A slight moderation in quarterly GDP growth brings rate-cut expectations back into focus for the RBI. The anticipated monetary easing path provides medium-term valuation support despite near-term growth cooling.",
-      "action": "watch",
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "reasoning": "Surging crude oil prices paired with elevated US Treasury yields are amplifying domestic inflation concerns, pushing Indian 10-year benchmark yields towards 7.265%. This dims the prospect of near-term RBI monetary easing and raises borrowing costs across the economy. Rate-sensitive sectors, especially banks and non-banking financial companies, face near-term valuation and margin pressures.",
+      "action": "risk_alert",
       "category": "macro"
     },
     {
-      "headline": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
+      "headline": "Defence stocks set for fresh rally? BEL, Solar Industries, HAL - Motilal Oswal names 3 shares to buy as big orders loom",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/market/stock-market-news/defence-stocks-set-for-fresh-rally-bel-solar-industries-hal-motilal-oswal-names-3-shares-to-buy-as-big-orders-loom-11795769903953.html",
       "affected_assets": [
-        "Indian Sovereign Bonds",
-        "Crude Oil"
+        "Bharat Electronics Limited (BEL)",
+        "Solar Industries",
+        "Hindustan Aeronautics Limited (HAL)"
       ],
-      "asset_type": "macro",
-      "sentiment": "bearish",
+      "asset_type": "stock",
+      "sentiment": "bullish",
       "confidence": 0.85,
-      "reasoning": "Rising crude oil prices re-ignite import inflation fears and push up government bond yields ahead of new supply auctions. Tightening liquidity conditions could dampen systemic equity market valuations in the near term.",
-      "action": "risk_alert",
-      "category": "policy"
+      "reasoning": "Strong budgetary capital outlays and sustained government emphasis on indigenization continue to supply substantial order visibility to major defense PSU manufacturers. Anticipated procurement awards are set to reinforce revenue growth and maintain high operating margins over multi-year horizons. This positive fundamental catalyst cushions these counters from broader equity market volatility.",
+      "action": "buy_opportunity",
+      "category": "stock_specific"
+    },
+    {
+      "headline": "Silver Prices Jump 3% on MCX to ₹1,48,336 per Kg; Kotak Neo Sees Scope for Further Recovery",
+      "source": "Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oeDNMY2hyLVVvbUp6Ylh1WDBnQmlrZGQ0Qk5RRXNibFBjZXZsU2Q4dnA1UERZaWh4aFJKVW5KWUV0Z0tycEZrZ1RSYjBhODlSVnNXQWlTaWlJVFMyQS1QWXJBdEtqamRGQUE5QzF1cFZUYVI1dDN3Rg?oc=5",
+      "affected_assets": [
+        "MCX Silver",
+        "Hindustan Zinc"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "reasoning": "A sudden 3% spike on MCX signals robust short-covering and sustained physical and industrial demand for white metal assets. Rising industrial usage across photovoltaics and electrification continues to establish a firmer fundamental floor for prices. Momentum suggests continued room for upward price discovery in the near term.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "OPEC+ set to keep oil production targets steady: Report",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/opec-set-to-keep-oil-production-targets-steady-report/articleshow/136232084.cms",
+      "affected_assets": [
+        "Brent Crude",
+        "ONGC",
+        "Oil India"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "reasoning": "The decision by OPEC+ to maintain production targets into Q1 2027 avoids additional supply entering the market while Middle East conflict risks linger. This supply discipline reinforces upward pressure on crude benchmarks, strengthening the fundamental earnings backdrop for upstream exploration companies. Conversely, sustained elevated energy prices represent an ongoing cost headwind for downstream refiners and oil-importing economies.",
+      "action": "watch",
+      "category": "commodity"
+    },
+    {
+      "headline": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136237788.cms",
+      "affected_assets": [
+        "Gold",
+        "US Dollar Index"
+      ],
+      "asset_type": "commodity",
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "reasoning": "Bargain buying after touching multi-month lows has provided support to gold prices, but lingering expectations of prolonged higher interest rates from the Federal Reserve restrain significant momentum. Firm US Treasury yields and dollar strength prevent an unhindered safe-haven rally. Consequently, the metal is likely to remain range-bound pending definitive macroeconomic data shifts.",
+      "action": "watch",
+      "category": "macro"
     }
   ],
   "tweets": [],
